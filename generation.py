@@ -1,6 +1,9 @@
 import streamlit as st
 from streamlit_sortables import sort_items
 import langchain_doc_gen as lg
+from docx.oxml.shared import qn  # feel free to move these out
+from docx.oxml import OxmlElement
+from docx.shared import RGBColor
 """
 # File Uploader
 
@@ -24,7 +27,7 @@ if w:
         
     for tab in tables:
         tab_value = tab[0]
-        tab_sheet = tab[3]
+        tab_sheet = tab[3]  
         arr = np.array(tab_value)
         tab_title = arr[-1, 0]
         row_table = {tab_title: tab_value}
@@ -104,11 +107,26 @@ if w:
                         # Add a table to the document, making sure data_list is not empty
                         if data_list:
                             word_table = doc.add_table(rows=len(data_list), cols=len(data_list[0]) if data_list else 0)
-                            
+                            word_table.style = 'TableGrid'
                             # Populate the table with data, excluding the last row
+                            
                             for i, row in enumerate(data_list):
+                                cells = [c for c in row if c != '']
+                                brk = len(cells) == 1
                                 for j, cell in enumerate(row):
                                     word_table.cell(i, j).text = cell
+                                    if i == 0 or brk :
+                                        clr = "#D9D9D9" if brk else "#2F5496"
+                                        cell_properties = word_table.cell(i, j)._element.tcPr
+                                        try:
+                                            cell_shading = cell_properties.xpath('w:shd')[0]  # in case there's already shading
+                                        except IndexError:
+                                            cell_shading = OxmlElement('w:shd') # add new w:shd element to it
+                                            cell_shading.set(qn('w:fill'), clr)  # set fill property, respecting namespace
+                                        cell_properties.append(cell_shading)  # finally extend cell props with shading element
+                                        if i == 0:
+                                            word_table.cell(i, j).paragraphs[0].runs[0].font.color.rgb = RGBColor(255, 255, 255)  # Blue color
+                                
                         doc.add_paragraph()
                         doc.add_paragraph(lg.table_desc(title,data_list))  # Add an empty paragraph after each table    
                         doc.add_paragraph()
