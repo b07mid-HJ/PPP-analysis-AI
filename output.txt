@@ -1,0 +1,26 @@
+                                                   17                                                 18
+31                                   Active Scenario   Whole Project – Tourist components only - Duty...
+32                                    Private partner                                                NaN
+33                             Uses of funds (000'MK)                                         10 412 370
+34                                  Construction cost                                          8 795 055
+35                                                  %                                              84.5%
+36                              Capitalised interests                                          1 617 315
+37                                                  %                                              15.5%
+38                          Sources of funds (000'MK)                                         10 412 370
+39                                             Equity                                          2 638 517
+40                                                  %                                              25.3%
+41                                               Debt                                          7 773 853
+42                                                  %                                              74.7%
+43                                 Investment subsidy                                                  0
+44                                                  %                                               0.0%
+45                                  Target equity IRR                                              30.7%
+46                                         Equity IRR                                             15.00%
+47                                        Project IRR                                             11.61%
+48                                      Minimum ADSCR                                               0.62
+49                                      Public sector                                                NaN
+50                             Uses of funds (000'MK)                                                  0
+51                          Sources of funds (000'MK)                                                  0
+52                                        Public debt                                                  0
+53                 Annual operating revenue to public                                                  0
+54                   NPV of operating revenue to NHBG                                                  0
+55  EResults of the analysis of the implementation...                                                NaN

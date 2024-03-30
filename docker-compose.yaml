@@ -1,0 +1,13 @@
+version: "3.8"
+
+services:
+  langfuse:
+    image: ghcr.io/langfuse/langfuse:latest
+    restart: always
+    environment:
+      DATABASE_URL: postgresql://postgres:admin@host.docker.internal:5432/ttt
+      NEXTAUTH_URL: http://localhost:3000
+      NEXTAUTH_SECRET: mysecret
+      SALT: mysalt
+    ports:
+      - "3000:3000"

@@ -1,0 +1,980 @@
+
+CONTRACT OF SERVICE No aa-001170-001
+
+Detailed preliminary draft study (APD) and development of the Business Consultation File (BCD) on the restoration of the Kalaa Sghira – Kairouan railway link (Eastbar)
+
+
+Financial pre-diagnosis and pre-assessment report on PPP options
+
+
+Revision grid
+
+
+
+
+
+
+Validated by
+Mohamed BRAHIM
+
+
+TABLE OF CONTENTS
+
+LIST OF TABLES
+
+
+LIST OF FIGURES
+
+LIST OF ABBREVIATIONS
+
+EXECUTIVE SUMMARY
+providing freight and passenger services. This initiative includes the rehabilitation of a 51-kilometre railway section from Kalâa Sghira to Sidi Amor Kenani and the construction of a new 9-kilometre infrastructure between Sidi Amor Kenani and Kairouan South, which represents an extension of the line to Kairouan. The total investment cost of the project is estimated at 493.8 MDT (HT).
+
+Source: Economic Factibility Report
+Line 11 was partially destroyed in 1969 in the Kairouan plain including the Khazzzia-Kairouan ramp. It is a metric line (range of 1.0 metres) on a platform allowing the change with standard gauge and electrification, with characteristics that allow to run at a speed of up to 140 km/h for a metric gauge and 160 km/h for a standard gauge after its rehabilitation.
+The main objective of this pre-financial diagnosis and pre-assessment study of PPP options is to provide an in-depth analysis of the different possibilities for project implementation and exploitation, highlighting their respective advantages and disadvantages. Our approach is to develop a sound pre-diagnostic financial system, develop a robust financial model, and conduct a detailed comparative assessment between public-private partnership (PPP) options and traditional public procurement (PMO) methods.
+In this study, we used four international rail project benchmarks to draw the best practices and lessons that will benefit the project, namely:
+The Gautrain Rapid Rail Link South Africa project
+Liefkenshoek Railway Liaison Project
+Rehabilitation and modernization of Abu Qir Urban Railway Line in Alexandria Egypt
+Camrail (Cameroon Railways) – Cameroon.
+This benchmark study provided lessons to be learned for the Line 11 project (East Barrier), namely:
+Importance of rigorous planning and management;
+The need for a robust infrastructure and regular maintenance, with particular emphasis on line safety; and
+Involved mixed financing for better financial sustainability.
+The initial mapping of investors and private promoters involved in the railway sector in Tunisia identified companies such as Colas Rail Tunisia, SOROUBAT, SBF, G2I and SOTRAFER (the public operator). International companies such as CCCC, Vinci, Alstom Transport, Siemens Mobility, Hitachi, Egis Rail and NGE are active internationally, while players such as Bolloré Railways and Grindrod Rail are active in Africa.
+Funding for the project is expected from various sources:
+Commercial banks (loaners/project debt),
+The donors,
+The equity of the shareholders of the project company (SPV) or other investors, and
+Public funding.
+The legal framework for the railway sector in Tunisia is governed mainly by:
+Act No. 98-74 of 19 August 1998 on railways, supplemented and amended by Act No. 2005-23 of 7 March 2005. This law deals with the technical specifications of railway rolling stock, with emphasis on the introduction of enhanced maintenance and safety measures.
+Act No. 98-90 of 2 November 1998 on the Tunisian National Railway Company. According to this legislation, SNCFT is responsible for the operation of the Tunisian railway network.
+Law No. 2004-33 on the organization of land transport. Under these general laws, rail transport is subject to the same regulations as those applicable to all land transport, covering aspects such as safety, cost, environmental impact and response to community needs.
+The main players in the railway sector in Tunisia are:
+The Ministry of Transport, responsible for transport policies and programmes (including rail). Within the framework of the railway line 11 project, the Ministry of Transport will have a role of supervision and coordination between the various actors to ensure the overall governance of the project.
+The Société Nationale des Chemins de Fer Tunisiens (SNCFT), a non-administrative public institution responsible for the management, operation and maintenance of the Tunisian railway network, responsible for the development of this network through the extension of existing lines or the creation of new lines.
+The Railway Works Company (SOTRAFER), which can act as a subcontractor for the performance of railway works, in collaboration with the selected private partner.
+The Ministry of Equipment and Habitat (MEH), which would work closely with the Ministry of Transport to align the project with national infrastructure and spatial planning objectives.
+The "SNCFT Network", a non-existent entity today, would be, according to the study of the National Master Plan for Transport by 2040, the future railway infrastructure manager in charge of the maintenance of the national rail network, the construction of new railway lines, and the management of the traffic of all trains using the national rail network.
+
+The Public-Private Partnerships in Tunisia are based on a bicephalous legal system that governs two forms of contracts: concessions and partnership contracts.
+Concession contracts in Tunisia are governed by Law No. 2008-23 of 1 April 2008, on the concession regime as amended by Law No. 2019-49 of 29 May 2019 on the improvement of the business climate and Decree-Law No. 2020-24 of 28 May 2020 laying down special measures relating to cases of extension of concession contracts, as well as its implementing decrees.
+Partnership contracts are governed by Act No. 2015-49 of 27 November 2015 on public-private partnership contracts, as amended by Act No. 2019-47 of 29 May 2019 on improving the investment climate, and its implementing decrees.
+The institutional framework of the Public-Private Partnerships in Tunisia consists mainly of:
+The General Forum of Public-Private Partnerships (PPPI) – Government Presidency.
+The Public-Private Partnership Strategic Council.
+The National Committee for the Approval of Public Projects - Ministry of Investment Development and International Cooperation.
+The departments of the Ministry of State and State Affairs.
+The legal framework for public procurement in Tunisia is represented by:
+Decree No. 2014-1039 of 13 March 2014 regulating public procurement;
+Government Decree No. 2018-416 of 11 May 2018, amending and supplementing Decree No. 2014-1039 of 13 March 2014 regulating public procurement
+
+In this study, we explored the various possible options for the construction and operation of the Kalaa Sghira-Kairouan railway line (East Barrel). This analysis shall be carried out from the point of view of the private partner responsible for the construction and/or maintenance of the line, according to one of the following assembly schemes:
+Mastery of Public Works (public procurement – no PPP), represented by a contract under which one or more private actors will either commit to ensure the design and construction of the line (Design-Build), with a possibility of securing financing (EPC+F);
+A concession contract, with the design, financing, operation and financing provided by the private partner (the concessionaire) who takes the risk of revenue and traffic level; and
+Implementation of the project under a partnership contract, with also the design, financing, operation and financing provided by the private partner, without taking risk of the level of traffic.
+Option 0: Master of Public Works (MOP)
+The Master of Public Works (MOP) is governed in Tunisia by the legal cade of public procurement, namely Decree No. 2014-1039 of 13 March 2014, regulating public procurement, and Government Decree No. 2018-416 of 11 May 2018, amending and supplementing Decree No. 2014-1039 of 13 March 2014, regulating public procurement.
+In this option, the public party mobilizes the necessary funding for the project, using either its own resources or donors.
+The application of public procurement rules therefore leads to the division of activities into two separate lots:
+A contract for design and execution (EPC);
+Operation and maintenance of the line and infrastructure by SNCFT Network. Here the exploitation is understood to mean the marketing of "sillions"; and
+The operation of the line in the operating sense of the trains is carried out by SNCFT.
+Option 1: Concession contract
+Concession contracts in Tunisia are governed by Law No. 2008-23 of 1 April 2008, on the concession regime as amended by Law No. 2019-49 of 29 May 2019 on the improvement of the business climate and Decree-Law No. 2020-24 of 28 May 2020 laying down special measures relating to cases of extension of concession contracts, as well as its implementing decrees.
+In the case of a railway project with a historical railway operator such as SNCFT, the concession is an act attributable to the State by which a contracting authority, such as SNCFT, entrusts to a private partner the partial management of public services normally entrusted to that authority and of which the third party assumes all or part of the risk.
+The duration of the concession contract for railway lines generally varies between 20 and 40 years.
+This option is used when the revenue potential of the project is high due to the combination of high demand (traffic and/or freight) and/or high income.
+Option 2: Partnership Contract (Public Payments PPP)
+The partnership contract is governed in Tunisia by Law No 2015-49 of 27 November 2015 on public private partnership contracts, as amended by Law No 2019-47 of 29 May 2019 on improving the investment climate. The partnership contract, also known under the PPP based on performance, PPP based on availability, PPP with public payment or PPP with deferred payment.
+Under the partnership contract, the private partner does not cover the risk of fluctuation in the railway line's revenues, however, it collects them from the State rents to cover the costs incurred (investment, maintenance and renewal). In addition, the payment of maintenance rent is subject to the fulfilment of the performance objectives assigned to the project company and the availability of works and equipment in accordance with the terms of the contract. At the end of the partnership agreement, ownership of the railway line and its related infrastructure will be transferred to the public authority (SNCFT). The contract usually lasts between 20 and 40 years.
+Option 3: Engineering, Procurement, Construction and Financing (EPC + F)
+EPC+F is a project financing mechanism in which the EPC contractor also organises project financing through links with funding institutions. This model is useful when EPC contractors have better access to low-cost financing, particularly through EXIM Banks. Unlike the traditional EPC model, the private partner is responsible not only for the technical execution of the project, but also for mobilizing the financing of its implementation. This allows the public authority to benefit from an innovative financing approach where public sources of funding are provided by the private sector, thereby reducing the risk of availability of project funding. The public authority then reimburses funding over time, usually over a period of 5 to 10 years.
+
+Despite the existence in Tunisia of a legal and institutional framework for PPPs and the rail sector, it should be recalled that the success of a PPP/Rail concession depends on the following prerequisites:
+Develop a long-term rail sector strategy
+Securing public financial commitments
+Clarify the responsibilities of the public and private partners
+Establish regulatory bodies for the railway sector.
+In the rail sector, optimisation of operations is essential to ensure efficiency and profitability for both freight and passenger transport. International examples, such as the integrated Deutsche Bahn model in Germany, the Madaraka Express in Kenya, and the Sishen-Saldanha freight corridor in South Africa, demonstrate the importance of rigorous management, strategic infrastructure investments, and effective public-private collaboration. These systems illustrate how careful planning and well-structured partnerships can lead to high-quality and economically viable rail transport services.
+By integrating global best practices, the Kalâa Sghira-Kairouan railway project could benefit from technological innovations such as automation and digitalisation. The use of advanced technologies such as ETCS in Switzerland or high-speed trains in Asia points the way towards safer and more efficient management of rail traffic. By optimising rail operations, such as the use of double-storey cars in North America, the project could maximize logistics efficiency without requiring major infrastructure expansion. These innovative approaches and optimized practices could be integrated into the project's implementation scenarios, whether it be a concession, a PPP with public payments, or EPC+F, to ensure its success and sustainability.
+Depending on the PPP option chosen, the private partner may be involved in a variety of ways, depending on the levels of risk and responsibilities transferred and/or retained by the parties to the contract, as shown in the following table.
+Source: Author
+The comparison of project implementation options is a case-by-case process based on a multi-criteria analysis. The following criteria could be relevant for determining the preferred model, based on international experience in infrastructure development and understanding of project objectives:
+Minimizing State financing of investment costs
+Reducing the annuities of state debt
+Rapid tender and accelerated delivery of the project
+Attractiveness for the private sector
+Transfer of risks to the private sector
+Avoid/Reduce operational costs to the State
+Knowing the true cost of the railway path
+Project complexity
+Service Performance Level and Impact
+The following table provides a strategic and qualitative comparison of these project delivery options.
+
+The multi-criteria analysis of implementation options for the Kalâa Sghira-Kairouan railway project reveals distinct advantages and disadvantages for each model. The EPC option, despite its operational simplicity, imposes a significant financial burden on the State, with a high initial investment requirement. The EPC+F offers some flexibility by integrating financing into the construction contract, but this could lead to high long-term costs and limited private sector participation. The concession, on the other hand, transfers a significant share of risk and liability to the private sector, but its contractual complexity and uncertainty about future income may discourage some investors. Finally, the partnership contract, while allowing for a spread of investment and maintenance costs, involves regular state payments to the private sector based on the availability of infrastructure, thus providing a potentially more balanced model.
+SWOT analysis for the four project implementation scenarios reveals significant nuances in each option. The management of public works offers direct alignment with national objectives, a responsiveness to social needs, but carries the risk of fully involving the State in financial and operational terms, which may entail additional costs. The concession and PPP with public payment offer private expertise and innovation potential, but raise questions about contractual complexity and dependence on the concessionaire, requiring careful assessment of terms and associated risks.
+The project's investment costs, based on preliminary estimates, are summarized in the following table.
+The annual salary assumptions of VPS staff are as follows.
+Based on the operating accounts of SNCFT (2021), industry references and regional benchmarks, we have consolidated the forecast maintenance costs as shown in the following table.
+The annual costs of Operations and Maintenance therefore amount to DT.
+Estimates of freight and passenger traffic on the East Bar in 2027 are summarized in the following table.
+The analysis of the operating accounts of the SNCFT of 2021 indicated a freight rate of 0.073 DT/Tonne/ Km for each tonne of freight (excluding phosphate), with a cost coverage rate of 41.35%. By adjusting the company to balance (Revenue=Charges), we get a tariff of 0.176 DT/ Tonne/ Km. By applying the inflation rate between 2021 and 2023, we obtain a tariff of 0.200 DT/ Tonne/ Km for freight.
+The revenue generated by the demand for goods on the East Bar during the first year of operation (2028, CE 2023) is therefore summarized in the following table.
+Systra's 2016 review of the application adopted an average tariff to be applied for the new Kairouan-Sousse line on the entire route of 5 DT, a kilometric rate of 0.08 Dinar/km. This tariff is based on assumptions provided by SNCFT and the survey of reported preferences of potential users of the line. By applying the inflation rate between 2016 and 2021, this tariff amounts to 6.73 DT.
+To estimate the revenue received from the operation of the line by the SNCFT after its implementation, the study decomposed the line into five tariff zones according to the respective lengths of the sections and the data provided by the Traveler/day matrices on the project horizon. This breakdown gave the following estimates of revenue generated by passenger traffic for the first year of operation (2028).
+Apart from those generated by passenger traffic, other revenue from the operation of the line by SNCFT for passenger transport may come from several complementary sources, such as the sale of goods and services on board trains (catering, magazines, etc.), the operation of advertising spaces on trains, or premium services. The study used a rate of 5% of these additional revenues, i.e. 0.74 MDT in the first year of operation, resulting in a total revenue of 15.6 MDT (2028, EC 2023).
+SNCFT's operating costs consist of several essential elements for the day-to-day operation of trains and service maintenance. These charges include:
+Staff costs
+Energy and fuel
+Materials
+Other operational costs.
+In terms of order of magnitude, for a conservative and realistic estimate, and based on the operating accounts of the SNCFT of 2021, we estimated the costs of the SNCFT of the operation of the Bar Is as follows:
+The previous analysis resulted in a gross margin of SNCFT (Revenue-Charges, excluding furrow charges) estimated at 14.43 MDT. The key to this analysis is to ensure that SNCFT payments to the private partner for the purchase of furrows—the track charges for freight and passenger trains—do not exceed the gross margin of the SNCFT generated by the line.
+The operating income received by the private partner (in the case of a PPP) comes mainly from 4 sources:
+Royalties of Sillon (fret):
+On the basis of freight traffic forecasts for the year 2028, which amount to 2,487,496 tons per year, we estimated a total of 4,975 freight trains passing through the East Bar in 2028. The study selected a transit tariff of 30 DT/ Freight Train/ Km, which is essential for the financial viability of the project. This gives 1 767 DT/ Freight train on the entire East Bar route with a total length of 58.9 km. The annual revenue generated by the sale of furrows for freight therefore amounts to 8.79 MDT (2028, EC 2023).
+Sillon fees (passengers):
+The determination of the number of passenger trains per year is based on passenger traffic estimates for the year 2028 by tariff area, as detailed in the following table.
+
+Rental of Stations and Commercial Spaces:
+According to the proposed revenue model, it is planned to install 10 businesses, each occupying a space of 100 square metres. These commercial spaces will be rented at a rate of 15 DT per square metre per month. Annual rental revenues for railway stations and commercial areas are estimated at DT 180 000.
+Advertising:
+The project plans to set up 30 advertising sites, which will be rented to companies wishing to target travellers, with a rate for each location is set at 300 DT per month. Annual advertising revenues could amount to DT 108 000.
+The consolidated income for the first year of operation (EC 2023) is summarized in the following table.
+This table shows that the planned freight and passenger train charges are not too far from the EBE of the SNCFT line. This results in a net SNCFT result of -2.6 MDT during the first year of operation (EC 2023).
+The other assumptions of the project are:
+Inflation rate during the construction period – CAPEX: 8%.
+Inflation rate – OPEX (excluding staff) and other operating income: 6% per year
+Rate of growth of train fees: 5% every 5 years
+Rate growth rate of the SNCFT: 5% every 5 years
+Annual wage increase rate: 3% per year
+Risk-free discount rate (public + private): 9%
+Corporation tax: 25.0% (generally)
+VAT rate: 19.0%.
+Contract term PPP: 35 years
+Duration of the construction period: 3 years
+Construction period: 2025 - 2027
+Duration of operating period: 32 years
+Contract Start Date: January 1, 2025
+Operating Start Date: January 1, 2028
+Contract End Date: December 31, 2059.
+Debt/Clean Fund ratio - Concession: 65/35
+Debt/Clean Fund ratio - Partnership: 75/25
+Debt maturity: 32 years
+Private sector debt interest rate: 8%
+Public debt interest rate: 6%
+Grace period: 3 years (i.e. construction period)
+Reimbursement method: P+I constant.
+The other assumptions for the EPC+F contract are as follows:
+Commission of engagement : 1.5%
+Commission of Arrangement : 1.5%
+Term of maturity of sovereign debt: 15 years
+Public interest rate: 6%.
+The results of the pre-financial diagnosis and pre-project evaluation are summarized in the following table.
+For the concession scenario without public subsidy (Option 1.1), the initial construction cost of 587.7 MDT, after inflation, amounts to 741.6 MDT, with additional interlayered interest leading to a total cost of 800 MDT. The revenue received by the private partner, i.e. furrow royalties and other related activities, is not sufficient to cover the project costs (operation, maintenance and repayment of the investment), resulting in a 0% own funds TRI and a zero CDSA, indicating the non-viability of the project without public subsidy.
+To achieve a 15% own funds TRI and a minimum ADSCR of 1.2, it is necessary to increase the passenger train and freight train path rate by %. This would result in DT/Train freight/km tariffs for freight and DT/Train passenger/km paths for passenger trillions.
+For the public grant scenario (Option 1.2), a subsidy of ,MDT is required to cover the construction cost, leaving a small funding gap to the private partner less than MDT. Despite an attractive equity TRI of 15.1%, the adsCR of 0, indicates that the private partner could still not cover debt servicing, making this scenario unsustainable in the long term.
+As regards the partnership contract scenario (Option 2), the private partner does not generate direct revenue, but collects rents for the repayment of the investment (Investment Rent) and for the maintenance and renewal of the project (Maintenance Rent). The total annual rent required for a return on equity of more than 15% and an ADSCR of 1.2 would be 14 MDT for the first year. This rent will be paid by the public sector to the private partner.
+The EPC+F option has lower initial construction costs than other options and, although funded primarily by debt, the SNCFT Network is able to generate post-service revenues to repay part of the debt. However, these revenues are not sufficient to cover the debt service at -439.8 MDT and the OPEX of the - MDT project.
+The summary of Value for Money analysis is presented in the following table:
+Analysis of the Value for Money (VfM) of the public-payment PPP shows that furrow charges, although a significant transaction between SNCFT and SNCFT Network, cancel each other in their impact on the public sector. Annual rents paid to the private partner are the main financial burden for the State. These payments cover initial investment, debt servicing, capital gains, operating, management and maintenance expenses.
+The high cost of these rents, necessary to ensure the profitability of the private partner and the maintenance of the infrastructure, weighs heavily on the public budget, as shown by their net present value of TDS. This means that the benefits of the partnership contract do not offset the State's financial obligations, resulting in a negative VfM of -5%.
+The Value for Money (VfM) analysis for the EPC+F option indicates a Positive Value for Money. The overall NPV in the public sector is negative, with a higher debt service than in conventional lending (~ -MDT in NPV). This is explained by the repayment modalities specific to this option involving shorter public debt maturity (15 years), which increases public debt servicing.
+Although operating revenues are positive, they do not compensate enough for operational costs. However, the risks associated with this option are lower than those of the PMO, mainly due to the transfer of the risk associated with the availability of public funding under the EPC+F modality.
+This suggests that the EPC+F option, thanks to its initial advantages in terms of simplification of construction and financing, could be the most economically viable option in the long term for the public sector compared to other possible options. Value for Money is positive (26,MDT), which means the implementation of the Bar Association project Is under an EPC+F makes it possible to reduce the total cost of the project for the public sector by about % compared to the control of conventional works.
+In conclusion, it is recommended that option 3 – EPC + Funding be preferred. Since SNCFT is already in deficit, it would be difficult to bear additional costs imposed by the other options. The EPC+F, although requiring a larger initial state investment, could be more sustainable in the long term in terms of project risks. Finally, the lack of significant revenue potential to justify a PPP model reinforces this recommendation. However, an in-depth review and negotiation of funding terms, as defined by the EPC's funding approach, could optimize the effectiveness and sustainability of the project for the public sector.
+INTRODUCTION
+Project context, characteristics and objectives
+This project is part of the activities of the European Investment Bank (EIB) in the Mediterranean partner countries that are grouped under the Facility for Euro-Mediterranean Investment and Partnership (FEMIP), which supports infrastructure projects while protecting the environment. The beneficiary country of this operation is the Tunisian Republic and the promoter is the Ministry of Transport, in cooperation with the National Society of Tunisian Railways (SNCFT). The project was planned in the National Transport Management Plan (PDNT) of Tunisia in Horizon 2040.
+The main objective of this project is to bring the number 11 railway line back into service, thus providing freight and passenger services. This initiative includes the rehabilitation of a 51-kilometre railway section from Kalaa Sghira to Sidi Amor Kenani, the new link to Kalaa Sghira station and Sousse freight station, and the construction of a new nine-kilometre infrastructure between Sidi Amor Kenani and Kairouan south, which represents an extension of the line to Kairouan. The project will improve and consolidate the transport network in the central regions of Tunisia, connecting it more effectively with key development areas such as Sousse. The total investment cost of the project is estimated at 493.8 MDT (HT).
+Line 11 was partially destroyed in 1969 in the Kairouan plain including the Khazzzia-Kairuan ramp. It is a metric line (range of 1.0 metres) on a platform allowing the change with standard gauge and electrification, with characteristics that allow the movement of up to 140 km/h for a metric gauge and 160 km/h for a standard gauge.
+
+
+Source: Economic Factibility Report
+Objectives of the study
+The main objective of this pre-financial diagnosis and pre-assessment study of PPP options is to provide an in-depth analysis of the different possibilities for project implementation and exploitation, highlighting their respective advantages and disadvantages. Our approach is to develop a sound pre-diagnostic financial system, develop a robust financial model, and conduct a detailed comparative assessment between public-private partnership (PPP) options and traditional public procurement (PMO) methods. Our study is based on the Tunisian national regulations in force, while considering the specificities of the project, its complexity, its estimated overall cost, risk sharing, the level of performance of the service rendered, and the objectives and expected impacts.
+Ultimately, the purpose of the study is to provide informed recommendations to the contracting authority to assist it in decision-making for optimal project execution, both financially and operationally.
+Pre-Financial Diagnosis and Presentation of Project Implementation Scenarios
+International rail project benchmarking
+In this section, we present four international rail project benchmarks to draw the best practices and lessons that will benefit the project:
+The Gautrain Rapid Rail Link project - South Africa
+Liefkenshoek Railway Liaison Project - Belgium
+Rehabilitation and modernization of Abu Qir Urban Railway Line in Alexandria - Egypt
+Camrail (Cameroon Railways) – Cameroon.
+The Gautrain Rapid Rail Link project - South Africa
+Presentation of the Project
+The Gautrain Rapid Rail Link rail project in South Africa was launched in 2006 with the aim of solving persistent road congestion problems and improving connectivity between Johannesburg and Pretoria. Extending 80 km, the Gautrain quickly positioned itself as a flagship project in the South African transport landscape. The contracting authority, responsible for overseeing the project, entered into a 19.5-year partnership covering the design, construction, financing, operation and maintenance of a 77-km railway line equipped with 96 cars. The project was inaugurated in 2011, after five years of work and preparations.
+
+Source: Bloomberg
+Contractual structure of the Project
+The PPP model chosen is under the Design-Build-Finance-Operate-Maintain (DBFOM) model, in accordance with the regulations of Law No. 1 of 1999 on Public Finance Management in South Africa.
+This 19.5-year partnership began in 2006 and was won by the Bombela consortium, selected as a private partner. The PPP has integrated both a construction phase and an operating phase with phased payments.
+Gautrain funding was supported by a substantial US$3 billion grant from the Contracting Authority. This amount was supplemented by US$360 million in debt and US$70 million in equity provided by the Project Corporation.
+The project faced a variety of challenges, including change management, with slow negotiations on boundary changes and a lack of clear definitions for a quick response. Relationship challenges, including the lack of regular communication between the Contracting Authority and the Project Corporation, have also been an obstacle. However, these obstacles were overcome, and Gautrain began operations between Or Tambo and Sandton International Airport in June 2010 and between Rosebank station in Johannesburg and Hatfield in August 2011. The project had a significant impact on the local economy, creating more than 122,000 jobs between 2006 and 2011.
+Liefkenshoek Railway Liaison Project - Belgium
+Presentation of the Draft
+The Liefkenshoek Rail Link (LHRL) project, located in the heart of the port of Antwerp, Belgium, is the largest public-private partnership (PPP) in Belgium. Launched in 2008 and inaugurated in 2014, the LHRL aims to link directly the left and right shores of the port of Antwerp with the intention of improving the management of freight transport. The project consists of the creation of a 16.2 km dual rail link, which crosses the Scheldt River and connects the terminals on either side of the port. The project includes:
+a railway platform in embankment (4.76 km) with several concrete works;
+an open and covered trench section (4.27 km);
+the upgrading of the existing Beveren submerged tunnel (1.2 km); and
+construction of 2 parallel tunnels drilled simultaneously 5.97 kilometres long each passing under the Kanaaldock and the Scheldt.
+The main challenge of this project was to facilitate and optimize connectivity within the port of Antwerp, which is one of the largest ports in Europe. By establishing this new link, the project aimed not only to improve access between the various sections of the port but also to increase the share of rail traffic in all freight movements. The Liefkenshoek Rail Link was designed to reduce road congestion by providing an efficient and reliable transport alternative for freight.
+
+Source: Vinci Construction
+Contractual structure of the Project
+The contractual structure of the LHRL project was based on a public-private partnership (PPP) model, a strategic approach chosen by Infrabel, the national operator of the Belgian railway network. This model was adopted mainly in response to the budgetary constraints of the Belgian Federal State and was intended to guarantee private financing and a higher quality in the design and construction of the project.
+LHRL's work was entrusted to the LocoRail group and was carried out in Design-Build-Finance-Maintain (DBFM). The LOCORAIL NV group, which brings together CFE (25 %), VINCI Concessions (25 %) and BAM PPP-PGGM (50%), was mandated by Infrabel for the financing, design, construction and maintenance of infrastructure for 38 years. The total duration of the PPP contract is 42 years. In the PPP contract, Infrabel undertook to use the infrastructure for 38 years against an annual rent of EUR 50 million paid to the private partner LOCORAIL NV.
+
+Source: Infrabel
+The total investment cost of the project was estimated at EUR 765 million, financed by a mix of public and private funds. Financing was provided by the EIB (European Investment Bank) and six commercial banks: Bayern LB, Bank Nederlandse Gemeenten, BNP Paribas Fortis, ING, Banco Santander and Société Générale.
+Construction of the project started at the end of 2008 and ended in mid-2013, with the operational implementation of the line at the end of 2014. Among the significant challenges encountered, the management of railway capacity constraints and the reduction of road congestion were particularly prominent. Nevertheless, the project has achieved its objectives, notably by increasing the reliability and quality of access to the port from the trans-European transport network (TEN-T). It has also contributed to an expected increase in the share of rail traffic in the port of Antwerp, from 8% to about 15% in 2020.
+Rehabilitation and modernization of Abu Qir Urban Railway Line in Alexandria - Egypt
+Presentation of the Project
+The Abu Qir Urban Railway Rehabilitation and Modernization Project is an initiative to transform and modernize the transportation network in Egypt. This line, linking the city centre of Alexandria to the north-east town of Abu Qir, extends 21.7 km. Mainly raised, this line was previously obsolete and underused, suffering from lack of efficiency and modernity. The project includes not only the reconstruction of the existing line but also the addition of new metro stations, as well as the elimination of level intersections that hindered traffic flow. This project is part of the Urban Transport Infrastructure Framework, which aims to finance major public transport projects in the cities of Alexandria and Cairo in Egypt over a five-year period.
+With a planned completion date of 2028, the Abu Qir - Alexandria project is expected to provide efficient and modern transportation services to approximately 520,000 daily passengers. This project, once completed, is expected to significantly improve the accessibility of urban dwellers, while contributing to the economic dynamics of the Alexandria region.
+
+Contractual structure of the Project
+The project, with a total value of €1.3 billion, received financial support from several major international institutions. The European Investment Bank (EIB), the European Bank for Reconstruction and Development (EBRD), the French Development Agency (AFD), and the Asian Investment Bank for Infrastructure (AIIB) all contributed to the financing of this project. The Egyptian government also played a crucial role in contributing EUR 264 million.
+The main activities of the project will be carried out by EPC companies/consortiums for the construction and supply of rolling stock.
+
+This project is planned as a Design-Build (DB) contract. The main contractor will be responsible for providing a detailed design of the metro system. The operations of rolling stock and metro will be subject to separate tenders. Systra, one of the world's leading engineering and consulting groups specializing in the design of public transport and railway lines, has been commissioned by the Contracting Party (the National Tunnel Authority - NAT) to prepare the technical design principles of the project which will serve as the basis for the detailed design to be provided by the main manufacturer (EPC 1 - Lot 1). The design principles include:
+modernisation of an existing railway line with sufficient right-of-way;
+the criteria for the design of horizontal and vertical alignment as regards urban mobility, urban habitability, access to stations which could be at ground level, raised and underground;
+station design criteria for all 20 stations (five new stations and three interchange stations with Egyptian National Railways - ENR).
+CAMRAIL (Cameroon Railways) - Cameroon
+Introduction
+CAMRAIL or Cameroon Railways is the result of the concession of Cameroon's railways, initiated by the Government of Cameroon as part of its economic recovery programme aimed at diversifying freight transport modes in the country.
+The concession process started in January 1996 with the signing of the concession agreement on 19 January 1999 and the effective start of CAMRAIL's activities on 1 April 1999.
+The concession agreement grants CAMRAIL:
+Technical and commercial operation of rail transport services;
+Maintenance, development and management of railway infrastructure; and
+The day-to-day management of the railway domain.
+The company has been active since 1 April 1999 and operates under the concession of the State of Cameroon, with a shareholding divided as follows:
+SCCF (Bolloré Group): 77.4%
+Cameroonian State: 13.5%
+Total Cameroon: 5.3 per cent
+ESCB (Thanry Group): 3.8%.
+
+
+Source: Cameroon's railway concession: paradoxes of unpopular success AFD (2007)
+As part of this model, CAMRAIL provides maintenance for the entire railway, buildings, railway infrastructure (bridges, pipelines, etc.), railway equipment and rolling stock in Cameroon. CAMRAIL also covers all investment programmes.
+
+Source: camrail.net
+Contractual structure
+The Cameroonian government, in its strategic approach, opted for a concession model, entrusting management to SAGA/SDV (Bolloré Group) and Comazar. This management structure assigns responsibility for railway operations to Camrail, dominated by Bolloré and Comazar, while the government and employees hold minority interests.
+The duration of the concession, initially set at 20 years and renewable for five years, gives Camrail the task of managing and improving the railway infrastructure. This responsibility is accompanied by an important investment programme, mainly financed by international borrowing.
+Camrail - an example of failure
+Camrail's failure was tragically highlighted by the Eseka rail accident in October 2016, which resulted in the death of 79 people and resulted in approximately 600 injuries. This incident revealed major shortcomings in the management and maintenance of infrastructure since the privatisation of the railways and the concession in Camrail. Partly attributed to unexpected overload due to the collapse of a bridge, the accident raised concerns about the network's ability to withstand such loads, especially considering its delapidated state.
+
+Source: Le Parisien
+This event highlighted the inadequate maintenance and security of infrastructure on company-managed lines, raising critical issues on liability and risk management in PPPs, particularly for vital infrastructure such as railways.
+The failure of the CAMRAIL model in Cameroon is attributed to a series of operational and governance failures. First, technical problems such as train overloading, braking failures and lack of adequate controls all contributed to the Eseka accident. In addition, considerable delays in the implementation of the infrastructure renewal work, scheduled for 2009-2012 in an amendment to the concession contract, and the lack of transparency and evaluation on the progress of this work raise questions about project management and monitoring. In addition, the Eseka accident highlighted significant judicial and financial liability for CAMRAIL, demonstrating shortcomings in the company's commitment to safety and maintenance. This suggests negligence in risk management and insufficient concern for rail safety standards.
+Summary and lessons learned from the benchmarking study
+The study of international benchmarks for railway projects under PPPs or public procurement provided the following lessons for the Line 11 (East Barrier) project:
+Importance of careful planning and management: The Liefkenshoek project in Belgium and the Gautrain in South Africa demonstrate the importance of rigorous management and careful planning in the implementation of railway projects. These projects have been successful through close collaboration between public and private partners, emphasizing the importance of clearly defining roles, responsibilities and expectations from the outset.
+Need for solid infrastructure and regular maintenance: Camrail's tragic failure in Cameroon highlights the consequences of the concessionaire's negligence in maintaining and updating the infrastructure. For the Line 11 project, regular maintenance and inspections are crucial to ensure the safety and sustainability of infrastructure.
+Involved mixed financing for financial sustainability: The joint financing approach, observed in projects such as Abu Qir - Alexandria, where contributions are shared between international public and private institutions (such as the EIB and AIIB), could be a viable model for the Line 11 project. This funding method provides a balanced distribution of financial risks and ensures a stable source of funding for the project.
+For the Eastern Law Society project, it will probably be recommended to adopt a public-payment PPP structure similar to that used in the Liefkenshoek or Gautrain project, where responsibilities, obligations and risks are clearly distributed between the public and private parties. This is essential to attract trusted investors and ensure effective project execution.
+Inspired by Camrail's lessons, the Line 11 project must also place particular emphasis on safety and a regular maintenance program. This involves allocating sufficient financial and human resources for ongoing maintenance and infrastructure upgrades to avoid potential incidents.
+Finally, the mobilisation of diversified financing, as in the case of the Abu Qir - Alexandria project, could be beneficial for Line 11. Exploring various sources of financing, including international loans, grants and private equity, could provide the financial stability needed for the success of the project.
+Legal and institutional framework of the project
+In this section, we detail the legal and institutional framework for the railway sector and public-private partnerships in Tunisia, in relation to this project to rehabilitate Line 11.
+Legal framework for the railway sector in Tunisia
+In the following we present the main laws and decrees constituting the legal framework governing the railway sector in Tunisia.
+Act No. 98-74 of 19 August 1998 on railways, supplemented and amended by Act No. 2005-23 of 7 March 2005
+Act No. 98-74 of 19 August 1998 (amended and supplemented by Act No. 2005-23 of 7 March 2005) lays down the rules governing the public railway domain in Tunisia and establishes the principles of its conservation, protection and safety standards for the operation and traffic on the railway network. It applies to railway lines officially classified as railways and their dependencies, the designation of which is made by ministerial order. The law also stipulates that current legislation on roads is applicable in the railway sector unless otherwise stated. Railways, railway stations, depots and associated land are part of the public domain of railways, which is defined as inalienable and elusive, thus stressing its strategic importance and its protection against usurpation or degradation.
+In addition to defining the consistency of the railway area, the Act also specifies the obligations of riparian properties with respect to alignment, flow of water, and other restrictions to protect the integrity and functionality of railway infrastructure. It prohibits unauthorized construction in the immediate vicinity of railway lines and imposes easements on neighbouring properties to ensure safety and visibility, including around level crossings. Specific provisions regulate activities that may interfere with railway operations, such as the establishment of crossings, land changes and the prevention of fire risks, in order to ensure a safe and efficient environment for rail transport.
+Act No. 2005-23 of 7 March 2005 deals with the technical specifications of railway rolling stock, with emphasis on the introduction of enhanced maintenance and safety measures. In addition, it incorporates updated regulations, such as those set out in Article 25, relating to the transport of dangerous goods.
+Act No. 98-90 of 2 November 1998 on the Tunisian National Railway Company
+Act No. 98-90 of 2 November 1998 defines the responsibilities and scope of action of the National Society of Tunisian Railways (SNCFT). According to this legislation, SNCFT is responsible for the operation of the Tunisian railway network. It is responsible for the management and maintenance of the infrastructure entrusted to it by the State in the form of a concession. This includes rail passenger and freight transport. The Act also assigns SNCFT the task of managing, developing and developing the national rail network, while exploiting these services in a competitive commercial spirit vis-à-vis other modes of transport, while taking into account public service obligations dictated by the State.
+In addition, Article 2 of the Act establishes that the State grants SNCFT, through a concession agreement, the rights to fixed installations necessary for the operation of the railway network. This includes railways, stations, workshops, depots and other components essential for the operation and operation of the network. This agreement determines the precise details of the area granted and the arrangements for its management. The signing of this agreement between the State and SNCFT is formalized by a decree, which is promulgated on the proposal of the Minister in charge of transport.
+Law No. 2004-33 on the organization of land transport
+Existing legislation governing the transport sector does not establish specific provisions for rail transport as such, but rather deals with it in the wider context of land and public transport. Under these general laws, rail transport is subject to the same regulations as those applicable to all land transport, covering aspects such as safety, cost, environmental impact and response to community needs. Although the legislation does not explicitly mention rail transport, the principles contained therein in the studies, planning and management of transport infrastructure are assumed to apply implicitly.
+In addition, the legislative framework in place addresses coordination, financing, pricing and subsidies that could influence the rail sector, as suggested by several sections of the Act. For example, Article 4 emphasizes the promotion of public transport, including rail, for its efficiency in mass transport and certain goods. According to Article 20, the State may entrust the management of public public transport services to public or private undertakings through operating or concession contracts, with due regard for competition. These contracts specify the operational modalities, the obligations of the parties, the pricing, and the financing conditions, under the supervision of decrees.
+Legal framework for procurement in Tunisia
+The legal framework for public procurement in Tunisia is represented by:
+Decree No. 2014-1039 of 13 March 2014 regulating public procurement;
+Government Decree No. 2018-416 of 11 May 2018, amending and supplementing Decree No. 2014-1039 of 13 March 2014 regulating public procurement
+
+The players in a public procurement contract are:
+The contract holder: the undertaking, supplier or service provider enters into the contract with the public purchaser. It is a public or private person.
+The public purchaser is a person governed by public law: the State, local authorities, public institutions, non-administrative public institutions and public enterprises, which are authorized to conclude public procurement contracts.
+Orders in excess of DT 200 000 in respect of works or in excess of DT 100 000 in respect of the supply of goods and services shall be subject to "public procurement" within the meaning of the Decree of 13 March 2014.
+Under these thresholds, orders must be competitive but are not subject to procurement-specific procedures. In any event, they must respect a written procedure as well as the principles of transparency, efficiency, good management of public funds, competition, freedom of access to public order, equality before public order and integrity of procedures.
+Among public procurement, the only contract for an overall mission is the design contract, which involves both the design of a project and the execution of the work or the design of a work, the supply of its equipment and its execution. The possibility of using such a contract must be justified on technical grounds relating to the functionality and technical implementation of the work.
+Legal framework for public-private partnerships in Tunisia
+The Public-Private Partnerships in Tunisia are based on a bicephalous legal system that governs two forms of contracts: concessions and partnership contracts.
+Concession Contracts
+Concession contracts in Tunisia are governed by Law No. 2008-23 of 1 April 2008, on the concession regime as amended by Law No. 2019-49 of 29 May 2019 on the improvement of the business climate and Decree-Law No. 2020-24 of 28 May 2020 laying down special measures relating to cases of extension of concession contracts, as well as its implementing decrees.
+According to Article 2 of the Law, the concession is "a contract whereby a public person referred to as the "grantor" delegates, for a limited period of time, to a public or private person referred to as the "dealer", the management of a public service or the use and exploitation of public domains or tools in return for remuneration which he receives from users for his benefit under the conditions laid down in the contract".
+The law also limits the concessionaire's powers under a concession contract, namely "the realization, modification or extension of constructions, works and installations or the acquisition of property necessary for the performance of the subject matter of the contract".
+"The contract may authorize the concessionaire to occupy parts of the domain of the licensor in order to carry out, modify or extend the above-mentioned constructions, works and installations," adds the law. The concession, therefore, is with or without construction, with or without financing by the concessionaire.
+The two pieces of legislation implementing the concession law in Tunisia are:
+Decree No. 2008-2034 of 26 May 2008 laying down the procedures for maintaining the register of real rights in fixed buildings, structures and equipment built within the framework of concessions.
+Decree No. 2010-1753 of 19 July 2010, laying down the conditions and procedures for granting concessions, revised and supplemented by Decree No. 2013-4631 of 18 November 2013.
+The concession law is supplemented by the following decrees:
+Decree No. 2010-1753 of 19 July 2010 laying down the conditions and procedures for granting concessions;
+Decree No. 2013-4630 of 18 November 2013 establishing a concession monitoring unit within the Government Presidency; and
+Decree No. 2013-4631 of 18 November 2013 amending and supplementing Decree No. 2010-1753 of 19 July 2010 laying down the conditions and procedures for granting concessions.
+Partnership Contracts
+Another law complements the Concessions Act by allowing payment by the contracting authority of the private partner. This is Law No.2015-49 of 27 November 2015 on public-private partnership contracts, as amended by Law No.2019-47 of 29 May 2019 on improving the investment climate.
+Article 3 defines a private public partnership contract as "a fixed-term written contract whereby a public person entrusts to a private partner a global task, in whole or in part, relating to the design and implementation of works, equipment or physical or intangible infrastructure necessary to provide a public service". According to the same article, the partnership contract "consists of financing, carrying out or processing, as well as operation where necessary, and maintenance for remuneration paid by the public person to the private partner during the duration of the contract and in accordance with the conditions laid down therein ...".
+Under this partnership contract, the risk of fluctuation in project revenues is not transferred to the private partner even if the private partner collects on behalf of the State. The partnership contract involves the use of a project company. The composition of the ownership of the project company must reflect the overall nature of the contract (Article 17 of the 2015 Act).
+The decrees implementing Partnership contracts in Tunisia include:
+Government Decree No. 771 of 20 June 2016, on the composition and prerogatives of the Strategic Council of Public-Private Partnerships.
+Government Decree No. 772 of 20 June 2016, laying down the conditions and procedures for awarding public-private partnerships contracts.
+Government Decree No. 782 of 20 June 2016 on the arrangements for the maintenance of the register of real rights in fixed buildings, works and equipment built under public-private partnership contracts.
+Government Decree No. 1104 of 4 July 2016, laying down the conditions and procedures for fixing the consideration to be paid by the public person to the project company, and laying down the conditions and procedures for the assignment and pledge of claims.
+Government Decree No. 1185 of 14 October 2016, on the organization and powers of the General Forum of Public-Private Partnerships.
+Institutional framework of the project
+Institutional framework of the railway sector in Tunisia
+In the following we present the main players in the railway sector in Tunisia.
+The Ministry of Transport:
+It is the department responsible for transportation policies and programs (land, sea, air, logistics and rail). The Ministry has under its supervision, among others, the National Society of Tunisian Railways (SNCFT) and the Société des Travaux Ferriaires (SOTRAFER).
+
+
+
+Within the framework of the railway line 11 project, the Ministry of Transport will have a role of supervision and coordination between the various actors to ensure the overall governance of the project.
+
+The National Society of Tunisian Railways (SNCFT):
+It is a non-administrative public establishment responsible for the management, operation and maintenance of the Tunisian railway network, which covers more than 2167 km. SNCFT is responsible for the development of this network by extending existing lines or creating new lines. This institution, which has civil personality and financial autonomy, is under the supervision of the Ministry of Transport.
+The mission of the company is to:
+To ensure, in the best conditions of safety and punctuality, rail passenger and freight transport services on the Tunisian railway network.
+To manage and control the property entrusted to it by the State in the form of a concession.
+
+
+Within the framework of the project , the SNCFT will act as the public partner involved in structuring the PPP and identifying a private partner for the effective management of the line, covering rehabilitation, operation and maintenance.
+The SNCFT Network - the future railway infrastructure manager:
+According to the study of the National Transport Management Plan by 2040, SNCFT Network would be an entity of the SNCFT Group responsible for:
+Maintenance of the national rail network,
+The construction of new railway lines,
+The management of the traffic of all trains using the national rail network by:
+Assigning train paths (assignment of a portion of track over an hourly slot) to railway operators (subsidiaries of the SNCFT Group and long-term other independent entity).
+Receiving from them the network access charges, which should, in principle, constitute an essential part of its revenue.
+If the project is implemented in the public market, the SNCFT Network will be the public entity which:
+
+Conduct line maintenance work
+Collect furrow royalties from SNCFT (and in the long term any other independent entity).
+
+
+The focus of the SNCFT Network is aligned with institutional reform practices observed in similar contexts, such as that of the ONCF in Morocco. In this context, the Moroccan State has restructured its railway sector to clearly separate financing and operating responsibilities, maintaining the ONCF as a bearer of the infrastructure while creating an operational subsidiary.
+Similarly, the SNCFT Réseau will centralize the management of Tunisian railway infrastructure, dealing with maintenance, construction of new lines and traffic management, by allocating train paths and collecting charges, which is essential for the sustainability and efficiency of the network.
+This approach will improve resource management, improve operational efficiency and streamline government engagement. It should also promote more targeted infrastructure financing, which is essential for territorial development and economic growth.
+In Tunisia, this structure aims to optimize network performance, encourage innovation and ensure a better quality of service, aligning the country's development objectives with a strategic and modern management of the rail sector.
+
+The Railway Works Company (SOTRAFER) - Ministry of Transport:
+Founded in 1984, SOTRAFER is an Anonymous Company specializing in:
+Renewal of existing channels.
+The laying of new paths.
+Track maintenance.
+Development of tracks, stations and workshops.
+The laying of light metro tracks.
+Construction and maintenance of railway lines.
+Within the framework of the project of the , SOTRAFER will be able to act as a subcontractor for the performance of the railway works, in collaboration with the selected private partner.
+The Ministry of Equipment and Habitat (MEH):
+This Ministry is responsible for planning, coordinating and supervising transport infrastructure projects in Tunisia, including railway lines. It develops railway development policies and strategies and ensures the implementation of projects.
+As part of the project, MEH would work closely with the Ministry of Transport to align the project with national infrastructure and spatial planning objectives.
+Institutional framework for PPPs in Tunisia
+The institutional framework of the Public-Private Partnerships in Tunisia consists mainly of:
+The General Forum of Public-Private Partnerships (IPPP) – Government Presidency: Created in 2015, is responsible for assisting public entities in the preparation, granting, monitoring and monitoring of concessions and partnership contracts. It is composed of different units, including control, studies, support, synthesis, and monitoring.
+The Public-Private Partnership Strategic Council: The Council develops national strategies, approves the national public-private partnership strategy, monitors its implementation, provides necessary support, issues guidelines, sets sectoral and regional priorities, and five-year programmes for projects. It is also studying the necessary legislative changes and proposing measures to prevent corruption.
+The National Committee for the Approval of Public Projects - Ministry of Investment Development and International Cooperation: This committee was established to assess and manage public investment. It approves projects included in the State budget as well as projects requiring prior studies before being forwarded to the Ministry of Finance, including public-private partnership projects.
+The departments of the Ministry of State and State Affairs: These departments are responsible for setting and revising concession fees, as well as monitoring the allocation and operation of public concessions to administrative undertakings.
+
+Contracting Authority of the Railway Re-establishment Project 11 (East Bar)
+
+
+
+
+Initial mapping of private investors and developers
+This section provides an overview of key players in the rail sector in Tunisia, Africa and around the world, highlighting their profiles, areas of specialization and major projects.
+Main players in rail transport worldwide
+The following table summarizes the information collected on the main international companies involved in the rail sector.
+Main rail transport stakeholders in Africa
+In Africa, the railway industry is largely dominated by public entities. However, there are some notable private operators that play a significant role in some regions.
+Main rail transport stakeholders in Tunisia
+The following table provides an overview of the main railway operators in Tunisia. Each operator brings unique expertise and contributes significantly to the development and modernisation of rail infrastructure in the country.
+The following table details the main companies that contributed to the construction of the D Lines (Tunis City - Mnihla Region) and E (Tunis City - Sejoumi Area) of the RFR network in Tunisia.
+Source: http://rfr.tn/worklots/
+Potential public and private sources of funding for the project
+Introduction
+Funding for the project is expected from various sources:
+Commercial banks (loaners/project debt),
+The donors,
+The equity of the shareholders of the project company (SPV) or other investors, and
+Government support.
+The purpose of the project's financing strategy is to identify the funds needed for the project by minimizing capital costs. The project funding strategy is usually developed according to the following principles:
+Diversification of sources and financial instruments to select the most effective funding for each goal/objective of the life-cycle phase of the project;
+Each step of the financial strategy accumulates a positive credit history and attracts the necessary financial resources from available sources;
+The higher the level of development of the project company, and the more opportunities it has to attract funds for the project; and
+Balance between benefits and costs associated with debt financing.
+In the following we propose a financial strategy to raise capital, typical for PPP railway infrastructure projects.
+Private and commercial financing
+Generally, private financing is made available to PPP projects without recourse or with limited recourse using the principles of project financing. The capital structure of a project financing transaction can vary considerably between sectors and countries, and is dependent on the maturity of the project financing market in Tunisia.
+
+
+
+
+
+The table below identifies and describes the different sources of private and commercial funding that could be applied to the project.
+
+Multilateral and bilateral funders
+Major infrastructure projects such as line 11 may impose additional constraints on the financing market, hence the need for additional non-commercial sources of financing, such as multilateral and bilateral financial institutions.
+The table below identifies and describes the different sources of funding provided by multilateral and bilateral financial institutions that may be applicable to the project.
+
+Project own funds
+Own funds represent the capital introduced at the beginning of the Project and which suffers the first loss if the financial performance of the Project (from the point of view of the PPP partner) is lower than expected. As this is the first on-line to absorb losses, shareholders demand returns that are proportionate to the risks they take and that are slightly higher than those required by top lenders. Share returns vary according to the level of risk perceived in a particular project, but nominal pre-tax returns on shares generally vary between 12% and 18%. Although it may vary from one project to another, own funds generally represent between 10% and 40% of the financing needs of a PPP project.
+While equity can represent 10 to 40% of the project's financing requirement, "pure" equity represents a much lower proportion because shareholders use subordinated debt (shareholder loan).
+In many markets, the use of shareholder loans offers many advantages over equity. These benefits include:
+The potential to reduce the overall cost of funds;
+The ability to draw profits during the first years of operation (not always possible with capital dividends according to certain accounting principles);
+The use of shareholder loans as a tax shield; and
+Priority in case of liquidation for different classes of shareholders and allowing differential returns for different shareholders.
+Analysis of possible forms of public contribution and support
+The size and scale of the project is important. The feedback from the market analysis suggests that significant capital requirements for the project could be an obstacle to its implementation. Comparable projects currently on the market and recent transactions show that it is unlikely that projects of this size can be financed solely from a combination of equity and debts of commercial lenders or financial markets. For example, several PPP motorway projects in Vietnam have recently (mid-2020) failed to attract bank financing and will be financed from the state budget. These are 8 sections 40 to 50 km long, which the Government has called for in PPPs and of which only 3 sections have been financed and concluded in PPPs.
+Therefore, a combination of commercial debt, equity, government support and international financing is recommended.
+
+
+Each of the above sources of funding has different advantages and particularities. However, recent project financing operations suggest that a mixture of senior commercial debt and export credit agency financing (where the project includes rolling stock to be purchased from a foreign country) is most appropriate for such projects. The use of export credit agency financing significantly reduces financing costs, as the margins of these agencies are generally lower than those of commercial banks. Generally, the financing of export credit agencies is linked to the purchase of equipment in exporting countries.
+The interest of multilateral donors is likely to be linked to the social benefits arising from the project, and a major challenge will be to structure the project in accordance with the principles of donor intervention (equator principles, etc.) and environmental requirements. Indeed. These principles, if not taken into account early in the project process, may delay and increase the cost of the project.
+The final financing solutions proposed by each private sector candidate will inevitably include a mix of the above sources of financing (private, commercial, public and donor).
+Potential PPP construction and operation models for rail systems
+Identification of potential railway PPP models
+We explore in the following the various possible options for the construction and operation of the railway line Kalaa Sghira-Kairounan (East Barrel). This analysis shall be carried out from the point of view of the private partner responsible for the construction and/or maintenance of the line, according to one of the following assembly schemes:
+Mastery of Public Works (public procurement – no PPP), represented by a contract under which one or more private actors will undertake to ensure the design and construction of the line (Design-Build), with the possibility of adding funding.
+A concession contract, with the design, financing, operation and financing provided by the private partner (the concessionaire); and
+Implementation of the project under a partnership contract, with also the design, financing, operation and financing provided by the private partner.
+Option 1: Master of Public Works (MOP)
+The Master of Public Works (MOP) is governed in Tunisia by the legal cade of public procurement, namely Decree No. 2014-1039 of 13 March 2014, regulating public procurement, and Government Decree No. 2018-416 of 11 May 2018, amending and supplementing Decree No. 2014-1039 of 13 March 2014, regulating public procurement.
+A PMO or public contract is defined as a written contract for consideration, whereby the public or private contract holder undertakes to a public purchaser, either to carry out works, to provide goods or services, or to carry out studies.
+In this option, the public party mobilizes the necessary funding for the project, using either its own resources or donors.
+The public procurement option may be appropriate when the risks of the project (in concession or partnership contract) are considered to be adverse to the private sector.
+Contracts are concluded to meet the annual needs of the Public Person. However, it is possible for a Public Person to use a framework market if such a remedy has advantages of a technical or financial nature and if the orders requested are intended to satisfy needs of the same nature or of a complementary nature of a permanent and predictable nature.
+Public contracts shall be awarded by open or restricted tendering. However, public procurement may exceptionally be awarded through direct negotiation. These exceptions do not affect the obligation to respect the fundamental principles of public procurement, namely: competition, freedom of access to public order, equality before public order, transparency and integrity of procedures. Public procurement is also governed by the rules of good governance and takes into account the requirements of sustainable development.
+The public procurement mechanism is not a tool to entrust a global mission within the meaning of the PPP (concession or partnership contract). The use of this mechanism requires the division of the project into several parts: design, implementation, maintenance and operation. When the Public Person wishes to entrust a mission that includes the design and execution of a project through a public procurement, the operation is carried out through two distinct operations. From the point of view of the international investor, this division also leads to heavy and complex procedures with local government and does not suit the need of the Public Person to undertake an accelerated infrastructure project.
+The following table summarizes the advantages and disadvantages of the public procurement option.
+The application of public procurement rules therefore leads to:
+design and implementation (EPC)
+design, implementation and funding (EPC + F)
+
+The Design-Build contract (DB)
+The D-B (Design-Build) or D-EPC (Engineering, Procurement and Construction) contract is an engineering and construction contract in which the private partner takes over the design and construction of the publicly financed railway line, which it then delivers to the public authority, according to a timetable and at a firm price.
+In contrast to a master's degree in public works, with a multiplicity of contracts with different suppliers (study office, construction company, equipment manufacturers, etc.), the private sector is entrusted here with the control of delegated works of the project. The public authority therefore has a single interlocutor who bears the risks of interface and exceeding costs and delays during the design/construction phase.
+This type of contract therefore allows for the expected gains from the private sector in the development phase of projects.
+The following figure presents the structure of a DB contract.
+
+Source: Author
+The contract Engineering, Procurement, Construction and Financing (EPC + F)
+In emerging countries, projects are being developed through EPC + Finance to accelerate the development of critical infrastructure projects needed to improve connectivity and trade. In a typical EPC+F project, the proposer (supplier or EPC company) submits "the financing approach with the technical proposal to the sovereign buyer, thus providing a global solution for the implementation of the project".
+EPC+F is a project financing mechanism in which the EPC contractor also organises project financing through links with funding institutions. This model has been implemented for project development, particularly in developing countries. It is useful when EPC contractors have better access to low-cost financing, notably through EXIM Banks (India, Turkey, China, Japan, Korea).
+Unlike the traditional EPC model, the private partner is responsible not only for the technical execution of the project, but also for mobilizing the financing of its implementation. This allows the public authority to benefit from an innovative financing approach where public sources of funding are provided by the private sector, thereby reducing the risk of availability of project funding. The public authority then reimburses funding over time, usually over a period of 5 to 10 years.
+
+The following figure presents the typical structure of an EPC+F contract.
+
+Source: Author
+
+
+
+
+
+
+
+Option 2: Concession contract
+Concession contracts in Tunisia are governed by Law No. 2008-23 of 1 April 2008, on the concession regime as amended by Law No. 2019-49 of 29 May 2019 on the improvement of the business climate and Decree-Law No. 2020-24 of 28 May 2020 laying down special measures relating to cases of extension of concession contracts, as well as its implementing decrees.
+Historically, concessions were the only PPP model adopted in Tunisia for various projects in sectors such as transport and energy, initially governed by sectoral laws.
+In the case of a railway project with a historical railway operator such as SNCFT, the concession is an act attributable to the State by which a contracting authority, such as SNCFT, entrusts to a private partner the partial management of public services normally entrusted to that authority and of which the third party assumes all or part of the risk.
+The BOT (Build-Operate-Transfer) formula is the most common form among the concessive forms. This is a concessional contractual agreement whereby the concessionaire undertakes to build (on a turnkey risk basis) and maintain (the operation being carried out by SNCFT) the railway line for a specified period, after which the infrastructure is transferred to the granting authority. The duration of the concession contract for railway lines generally varies between 20 and 40 years.
+The private partner assumes the risk of revenue fluctuation. It collects them on its own account to cover the costs incurred (investment, maintenance and renewal). At the end of the concession contract, ownership of the railway line and its dependencies will be transferred to the contracting authority (the licensor), usually without payment of any compensation.
+The following figure details the structure of a Concession contract.
+
+Source: Author
+In this option, the beneficiary, i.e. the SNCFT, or the Mining Company (MCT) pay the line user fee. Revenues are expected to reimburse the private partner (the concessionaire) for the construction and maintenance costs of the railway line. The risk of demand (traffic) is transferred to the private partner.
+This option is used when the project's revenue potential is high due to the combination of a high demand (traffic) and/or high income. This is often the case for mining and freight lines.
+This option is generally attractive to the public sector, which transfers responsibility for the construction and maintenance of the line to the private partner under a turnkey concession contract that generally covers a long term.
+The following table summarizes the advantages and disadvantages of the Concession option.
+Option 3: Partnership Agreement (Public Payments PPP)
+The partnership contract is governed in Tunisia by Act No. 2015-49 of 27 November 2015 on public private partnership contracts, as amended by Act No. 2019-47 of 29 May 2019 on improving the investment climate.
+The partnership contract, also known under the PPP based on performance, PPP based on availability, PPP with public payment or PPP with deferred payment, is a contract under which the private partner is entrusted with the following services:
+Investment financing: the private partner is responsible for financing all or part of the investment cost of the project.
+The implementation or transformation of the investment: the private partner is responsible for implementing the services enabling the use of the project by the public person.
+Investment maintenance: The private partner is responsible for the technical maintenance of the railway line and related infrastructure during the contract term. It thus provides the services of large maintenance and renewal "GER" equipment but can also be responsible for certain routine preventive or curative maintenance operations. It will also ensure that the railway line is in good working order throughout the duration of the partnership contract.
+Under the partnership contract, the private partner does not cover the risk of fluctuation in the railway line's revenues, however, it collects them from the State rents to cover the costs incurred (investment, maintenance and renewal). At the end of the partnership agreement, ownership of the railway line and its related infrastructure will be transferred to the public authority (SNCFT).
+The following figure presents the typical structure of a partnership contract.
+
+Source: Author
+Unlike the concession, the private partner of the partnership contract receives his remuneration from the public party (SNCFT the Ministry of Finance or an ad hoc escrow account) and not from the users. This implies that the risk of income fluctuation is not transferred to the private partner. This remuneration shall be paid by the public person from the date of final receipt of the works subject to the partnership contract. In addition, the payment of maintenance rent is subject to the fulfilment of the performance objectives assigned to the project company and the availability of works and equipment in accordance with the terms of the contract.
+The duration of the contract depends on the amortisation period of the investments to be made and the financing arrangements chosen. She is usually between 20 and 40 years old.
+The following table summarizes the advantages and disadvantages of the partnership contract option.
+Preliminary identification of risks and possible mitigation for the duration of the mission
+In order to succeed in a railway PPP, several risks must be mitigated and conditions must be created to avoid the cancellation or restructuring of projects. Rail concessions were cancelled in African countries due to erroneous traffic forecasts or poor upstream simulation as presented in the following table:
+Sources: (1) Rail Transport, Analysis Scheme to Improve Rail Performance in Sub-Saharan Africa, BIRD/BM, March 2013 (2) Modern Railway Services in Africa: Building Traffic – Building Value, BM, 2020
+In 2013, private partners are responsible for over 70 per cent of rail activity in Sub-Saharan Africa (except South Africa). The concessions could have solved many of the problems of the sub-Saharan railways, helping to improve the financial performance of previously deficit companies, and to stabilize freight volumes in countries that were losing market shares at a fast pace. In many cases, these results have been achieved by reducing the level of dependence on public funds.
+Impacted by strong competition with the road mode, these concessions were not able to capture enough freight traffic to be profitable so that they remained fragile and dependent on the support of the international financial institutions. The weak financial performance did not allow the necessary rehabilitation of the networks, the renewal of rolling stock, the introduction of better quality services and, ultimately, the increase in the market share of the railway.
+Indeed, these concessions are mostly "born" fragile with a systemic imbalance due to low traffic volumes and its reduced density. This weakness does not allow sufficient revenue to be generated to cover the operating-maintenance-renewal costs of obsolete rolling stock and dilapidated infrastructure, pay concession fees, pay taxes and generate a profit that allows the investor to continue to be interested in the concession.
+Best Practices for Global Railway Systems Operating and Operating Plans
+In the rail sector, optimisation of operating and operating plans for railway systems is a crucial issue for operators, whether it is freight, ore or passenger transport. Across the world, various models have emerged, demonstrating a constant quest for efficiency and profitability.
+In Europe, for example, the German Deutsche Bahn model (the German public railway operator) illustrates the success of an integrated rail system, combining freight and passengers with remarkable synchronization. The emphasis is on punctuality, reliability and intermodality, allowing a smooth transition between different modes of transport. The network benefits from meticulous planning and sustained investment in infrastructure, resulting in high quality service and good profitability.
+In the African context, Kenya recently launched in 2017 the Madaraka Express, a passenger railway service that connects Nairobi with Mombasa. This project, funded by Chinese funds, significantly reduced travel time between the two cities, while providing a high level of comfort and safety. The success of this project depends on close collaboration between the public and private sectors, ensuring efficient operation and regular maintenance of infrastructure.
+As for freight, the South African model with the Sishen–Saldanha mining corridor is a school case. This specialized corridor transports iron ore over a distance of more than 800 km and is known for its operational efficiency thanks to the use of long and heavy trains, optimized for the transport of minerals, and a high time management to avoid congestion.
+In the global rail system arena, best practices are emerging, combining technical ingenuity and technological advances to boost performance and efficiency. Take an example on the Swiss rail network, which is known for its accuracy and reliability, where the integration of advanced technologies such as the European Train Control System (ETCS) contributes to safer and more densely managed rail traffic. This system is also suitable for more mountainous regions, demonstrating its flexibility and adaptability to different geographic environments.
+Moreover, the adoption of high-speed trains in Asia, notably in Japan with the Shinkansen, and in China with its extensive network of high-speed trains, illustrates how technological innovation can revolutionize passenger rail transport. These trains, known for their speed and punctuality, reflect the commitment to quality infrastructure and efficient operationality, thus offering a competitive alternative to air transport over medium distances.
+In the freight sector, the North American model presents notable lessons, with companies such as BNSF Railway and Union Pacific Railroad that optimize the use of double-storey cars and cargo tracking systems to maximize logistics efficiency. These methods enhance freight capacity without requiring major expansion of existing infrastructure.
+These examples illustrate a trend towards automation and digitalisation, where the Internet of Things (IoT) and artificial intelligence (IA) play increasingly predominant roles in optimising railway operations. With the implementation of advanced sensors and data analysis, operators can predict maintenance requirements before breakdowns occur, thus reducing downtime and improving service regularity.
+In our case, the project to rehabilitate the railway line between Kalâa Sghira and Kairouan can draw on these examples for its own execution scenarios. The concession could provide an appropriate framework to attract private investment and benefit from the technical and managerial expertise needed to modernize the line. The public-payment PPP option, for its part, could ensure continuity of service while allowing the State to maintain strategic control over tariffs and quality of service, thus ensuring equitable access for all users.
+Technological innovations and international practices can also be considered for the project to ensure harmonious integration within the proposed implementation scenarios. Whether through a concession, public PPP or EPC+F, the emphasis must be on infrastructure that can accommodate advanced technologies and flexible operations to meet the changing needs of rail transport, while maintaining optimal performance and safety. The integration capacity of innovative solutions such as digital signalling, automated train control systems and real-time data management platforms is crucial for the evolution towards an intelligent and responsive rail transport system. These elements will be critical to the long-term success of the project and its integration into the national network of the CFLTS.
+
+Determination of operating plans for each railway system (freight/minerai and passengers)
+Despite the existence in Tunisia of a legal and institutional framework for PPPs and the rail sector, it should be recalled that the success of a PPP/Rail concession depends on the following prerequisites:
+Establish a long-term rail sector strategy: A concession is not simply a means of achieving a goal, such as mobilizing international financing and getting a private investor to maintain transport services on a line that would otherwise continue to be abandoned (as in the present case). A concession must be integrated into a long-term vision for the transport sector in general and the rail sector in particular. Indeed, the financial viability of the concessions requires visibility on the flows of goods (or ore) with incentive mechanisms for the postponement of traffic towards the railway. In this context, a concession must be defined as part of a comprehensive strategy for the development of a transport system in which the State must exercise its role as decision-maker, regulator, infrastructure holder and customer of transport services. This requires strengthening its capacity for good governance.
+Secure public financial commitments: The concessionaire alone cannot finance decades of railway underinvestment. It is therefore essential to establish some discipline and probably payment guarantees for any future private partner. The State must contribute financially to the construction and sustainable maintenance of rail transport infrastructure. An appropriate contractual framework must be in place to mobilize the resources necessary for the sustainable financing of railway infrastructure by the State, from a perspective similar to that applied to roads. The creation of railway funds based on existing road funds in other African countries could be considered.
+Clarify the responsibilities of the public and private partners: Concession contracts must specify the responsibilities of the concessionaire, consistent with the objectives of the strategy. In all cases, the main rule should be that all infrastructure costs should be fully covered by the concessionaire and the State. Four elements are then of vital importance: (i) a precise estimate of infrastructure maintenance costs when defining the financing system in the concession agreement based on a five-year contractual maintenance plan and updated with the evolution of traffic; (ii) the determination by an independent regulator of the fair price to be paid by SNCFT (and, where applicable, the GCT) to the concessionaire; (iii) acceptance of a flexible method of setting the price of the furrow on the basis of a fair, independent and transparent assessment of the financial performance of the concession; (iv) the allocation of full responsibility for carrying out rehabilitation work to private operators.
+Establish regulatory bodies for the railway sector: In order to improve the performance of concessions, it is essential to establish and consolidate strong, independent and accountable regulatory bodies in order to resolve unforeseen problems that may arise during the concession. They would provide all participants in the process with more flexibility in managing agreements and greater visibility in decision-making. In this regard, a clear set of rules must be established for monitoring the concession in order to avoid undesirable developments. The concessionaire shall provide the regulator, on a regular basis and in a pre-established form, with detailed financial and operational information for the calculation of essential indicators (e.g. rate of return on equity and capital assets, rate of economic return, etc.). This communication will make it possible to calculate in full transparency the State contribution to the financing of railway infrastructure and to modulate the charge for each path. Annual independent audits of the concessionaire's financial accounts and operating results must also be forwarded to the railway regulator at annual deadlines.
+Critical comparison of best scenarios to the current situation
+The choice of the type of PPP for each infrastructure family depends on several factors, ranging from the balanced design of contracts to the equitable distribution of risks between public and private parties, until the commitment of the various stakeholders is obtained in order to improve service delivery. It is also essential to ensure sustainable change (in particular in terms of the quality of service and the capacity of the private sector to provide this service) to facilitate long-term delivery for a long period after the transaction has been completed.
+General considerations regarding the choice of the option to carry out the project
+In selecting the appropriate option for the implementation of railway projects, the following lessons learned from international practice should be taken into account:
+The adaptation of PPP implementation models in railway projects requires an important learning process. Countries that have achieved good results have gone through a significant effort and process that have demonstrated strong leadership and good management practices. It should be noted that this was not achieved overnight and that there were bottlenecks and resistance to change, but continuous iterations should be used to determine the optimal characteristics of the most appropriate implementation model;
+Good open communication within project teams is essential throughout the development of the project until its completion. In addition, it is crucial that the public sector, particularly the LFCS, consult with the private sector (entrepreneurs, research organizations, supply chain) to refine the development of new models, innovations, systems and practices. It is also very important to use a transparent and fair procurement process;
+Risk transfer is the most important challenge. Most private developers generally avoid projects where risks are not well defined and reasonably distributed. Only the most experienced and advanced private players (industry champions) seem to accept and manage certain types of risks (e.g. wheel-rail interface). Once risk management begins to mature, there may be optimization of risk sharing strategies;
+The investor's involvement in the project as early as possible in the planning phase is one of the key factors in the success of PPP procurement models. This is where construction, cost optimization and early impact to support innovative design concepts can be achieved. This is difficult to achieve in the traditional model where no (or few) design changes are possible once the contract has been awarded;
+Quality and rail standards are very important aspects and these key aspects should not be compromised. It is important that the planning and design criteria applied in PPP procurement processes be equal or better than those of traditional methods. Quality control by investors can be a form of quality control during the construction phase, and having the right level of performance specifications can increase the potential for innovation and alternative concepts. In addition, tenders must take account not only of price criteria but also of the quality and distribution of risks, which can attract better quality investors; and
+A well-balanced procurement portfolio helps maintain the market base of investors and professional service providers. Not only projects, but also programmes must be analysed taking into account an appropriate implementation model strategy. In addition, coordination of project delivery with other infrastructure sectors (road, port, etc.) will prevent market overheating.
+Criteria for selecting project implementation options
+The relevance of the delivery option should be carefully considered taking into account the needs and capacities of the public sector, the requirements of the project and the objectives at the strategic and project level. On the basis of the analysis of international benchmarks, the following main criteria were identified for investigation and evaluation as part of the selection process for the appropriate implementation option:
+Size/scale: for example, PPP tendering is more efficient and generally applies to projects with a value above a certain threshold;
+Complexity: Some complex projects may require more innovation and ability to manage interface risks. Therefore, for example, the DBB with a prescribed design specification may not be the most appropriate method of implementation for projects requiring design flexibility and innovation;
+Constraints of the programme: The models separating design and construction do not allow these activities to be carried out in parallel and therefore extend the process of realization. The PPP procurement process is long and complex and, therefore, may not be the most appropriate for projects with difficult deadlines;
+Investor availability: a market assessment of local/international investors must be carried out to determine the market's ability and appetite to take certain types of risks by investors;
+Financing market: Similarly, the capacity of the financing market (equity and debt) must be taken into account where external sources of financing are essential for the implementation of the project;
+Risk allocation: This is the key factor in the assessment. The public sector should determine its desire to retain or transfer certain types of risks, such as the D&B interface, maintenance, life cycle, funding, etc.;
+Stakeholders: the identification of stakeholders and their interests/preferences should be taken into account in light of the capacity of the implementation model to adapt to appropriate stakeholder management strategies;
+Public sector know-how: various delivery models require different levels of public sector technical capacity and offer a different scope of private sector knowledge transfer; and
+Value for Money: it should be possible to demonstrate that the selected procurement method is more efficient, efficient and cost-effective than other alternatives considered.
+The above list is not exhaustive, but it includes the main factors to be considered when selecting the most appropriate delivery model. The key aspect to mention is that evaluation criteria can be classified in the three key areas:
+Cost;
+Time; and
+Quality.
+Distribution of risks by different implementation options
+Depending on the PPP option chosen, the private partner may be involved in a variety of ways, depending on the levels of risk and responsibilities transferred and/or retained by the parties to the contract, as shown in the following table.
+Source: Author
+Multicriteria analysis of the proposed options
+A comparison of project implementation options (PPPs or not) is a case-by-case process based on a multi-criteria analysis. Such an analysis is essential to preselection the best possible options for infrastructure. We have listed below 9 selection criteria which should also be aligned with the objectives of the Tunisian State.
+The following criteria may be relevant for determining the preferred model, based on international experience in infrastructure development and understanding of project objectives.
+
+Minimize the financing of the investment cost by the State: In situations of public budgetary constraints, the option chosen should enable the contracting authority to minimise the budgetary impact of the project by reducing immediate and overall public expenditure. The life-cycle costs of the project must also be minimized by choosing the right option.
+Reduce the annuities of a state debt: Avoid/Reduce the annuities of a state debt: The option chosen should seek to minimize the debt burden on the Tunisian State by avoiding or reducing interest payments and repayment of the debt contracted to finance the project. An option to mobilise private financing for infrastructure can help avoid a significant increase in public debt. The public-private partnership (PPP) could finance the project through private investment, thus freeing up government budgetary resources for other priority needs.
+Rapid Call for Bids and Accelerated Project Delivery: It is important that the selected option can speed up the tendering process and reduce the risk of delays in the procurement phase. The project must also be tendered through a process that maximizes efficiency and transparency and encourages sound competition between reliable bidders. Ultimately, the accelerated delivery of the project should be guaranteed by maximizing the project delivery potential on time.
+Attractiveness to the private sector: An option is considered attractive to the private sector when it guarantees maximum "bankability". The selected option should allow the project to be accepted by lenders as an investment and to raise a significant amount of financing through long-term loans under project financing, due to its solvency in terms of the adequacy and reliability of future cash flows.
+Transfer of risks to the private sector: Balance, allocation, transfer and risk sharing between the public and private sectors is at the heart of all PPP projects. Effective risk allocation is generally the most important driver for obtaining the best Value for Money. For this reason, it is considered crucial that the option reduce the level of risks, including interfaces, borne by the public partner and maximize the risks transferred to the private partner.
+Avoid/Reduce operational costs to the State: The preferred option should seek to minimize the operational costs incurred by the Tunisian State once construction is completed. This may include savings on rail line maintenance. The chosen model should enable the private sector to manage the maintenance of the railway line efficiently and at a lower cost, while ensuring a high and safe level of service for the railway operator. In this way, the State can focus on its sovereign functions and the resources released can be reallocated to other essential public needs.
+To recognize the true cost of the railway path: It is important to select an option that provides a mechanism for knowing the cost of the train path that the railway operator should pay for each train using the railway infrastructure. The Tunisian State may wish to ensure, in the long term, the railway operator's ability to pay the price of the path that ensures the profitability of the private partner without further damaging the financial statements of SNCFT. Control of the price of the furrow can be carried out through specific contractual clauses, regulatory mechanisms, or by setting ceilings or specific rules for the adjustment of tariffs. This ensures that the track price remains reasonable and affordable for the railway operator while ensuring that the private partner can achieve its financial objectives over the life of the contract. This may also include provisions for reasonable and regulated increases in the price of the furrow over time, aligned with inflation or other parameters.
+Complexity of the project: In evaluating project options, complexity plays a crucial role. This criterion examines the diversity and difficulty of the technical, legal, financial, social and environmental challenges facing the project. It assesses the capacity and constraints of the competent administration to effectively manage these complexities. An option is considered beneficial if it simplifies project management, reduces technical and regulatory barriers, and facilitates social and environmental integration. On the other hand, an option that increases complexity, requires additional resources or expertise, is considered less advantageous.
+Service Performance Level and Impact: The objective of this criterion is to assess the quality and effectiveness of the service provided under each project option, based on the objectives and expected impacts. An option is favourable if it promises a high level of service, meeting or exceeding expectations in terms of reliability, security, timeliness and positive impact on mobility and accessibility. It must also contribute positively to the social, economic and environmental objectives of the region. On the other hand, an option that presents risks of underperformance or negative impacts on the community or the environment is considered less advantageous.
+These criteria are considered the most relevant for the project and will then be used to assess the different options for the project.
+The following table provides a strategic and qualitative comparison of these project delivery options.
+
+The following table provided the following observations:
+Option 0: EPC (Engineering, Procurement, and Construction): In this approach, the state faces a financial dilemma. Although the EPC simplifies the design and construction process, by entrusting everything to a single provider, it weighs heavily on the state budget, demanding a substantial initial investment and thus carrying the debt burden. This option, while being direct, is not attractive to the private sector, limiting its potential in terms of innovative financing and risk sharing.
+Option 1: Concession: The concession is an attractive formula, transferring much of the financial responsibilities and risks to the private sector. However, the private sector could be deterred by the complexity of concession contracts and uncertainties related to future revenues. In addition, the State could find itself seeking to balance the need to make the project attractive to private investors while maintaining affordable tariffs for the railway operator.
+Option 2: Partnership Agreement: In a partnership contract, the government owes private sector rents for investment and maintenance, which depend on the "availability" of the infrastructure. The Partnership Agreement allows the smoothing of investment and maintenance costs while freeing the State from the obligation to increase immediately the price of the furrow.
+Option 3: EPC+F (EPC plus Funding): The EPC+F appears to be a more flexible solution, where the contractor not only builds but also proposes the project financing approach. This reduces immediate pressure on public finances, but does not escape the problem of high long-term costs. The private sector, while partially involved, may be reluctant to deal with significant financial risks without guaranteeing long-term benefits after construction.
+Recommendation for a PPP operating scenario for each system (freight/minerai and passengers)
+Based on the preliminary comparative analysis of the various construction and operation options of the two systems (freight/minerai and passengers) of the railway link Kallâa Sghira-Kairouan, we find that the EPC+F option provides the most advantages for the contracting party compared to the other options.
+The EPC+F option relieves the State from having to secure project financing but requires it to repay a debt over a relatively short period (7-15 years). The concession and the partnership contract offer a more strategic division of responsibilities, but require rigorous management and careful contractual structuring to ensure successful cooperation between the public and private sectors, while protecting public interests and ensuring the long-term viability of the project.
+The analysis and financial modelling will have to confirm or rectify the findings of the multi-criteria analysis and provide more details on the financial viability of the project, expected returns on investment, cash flows and projected revenues for each of the options. This will enable the contracting authority to make informed decisions taking into account the financial and economic implications of the project.
+Elements impacting decision-making on the scenarios considered
+Decision-making on the project scenarios for the Kalaa Sghira-Kairouan railway line must be based on a multidimensional analysis where each aspect will play a decisive role in this process, ensuring that the scenario chosen meets the needs and expectations of all stakeholders by being technically feasible, environmentally sustainable, socio-economically beneficial, institutionally aligned, legally viable and financially sound. These elements include:
+Technical aspects: The technical assessment focuses on the feasibility of the construction and operation of the line. This includes studying the technologies to be used, adapting the project to local geographic and climatic conditions, and maintenance requirements. The selection of rolling stock, the requirements for signalling and communication, and the management of interfaces between different components of the project are also crucial. Particular attention must be paid to the safety and sustainability of the proposed infrastructure.
+Environmental aspects: The environmental impact of the project must be assessed in terms of pollution, waste management, ecosystem disturbance and the use of natural resources. Negative impact mitigation measures and sustainability initiatives, such as carbon footprint reduction and biodiversity promotion, must be integrated into the various project options.
+Socio-economic aspects: This component analyses how the project will affect local communities. Emphasis will be placed on accessibility, improving urban and rural mobility, employment, economic development and improving quality of life. Potential effects on the local labour market and skills development opportunities must also be taken into account.
+Institutional aspects: Institutional implications include aligning the project with national and regional development policies and plans. Interaction with local, regional and national authorities and compliance with existing regulations and standards are essential. Institutional capacity to manage, supervise and regulate the project is a key factor.
+Legal aspects: The legal viability of the project is assessed taking into account the legislative and regulatory framework. This includes compliance with national and international laws, contract management, intellectual property aspects and dispute resolution mechanisms. The legal implications of the different contractual structures (EPC, EPC+F, concession, PPP) need to be carefully examined.
+Financial aspects: The financial analysis focuses on assessing the costs and benefits of the different scenarios, involving, inter alia, analysis of financing structures, income models, profitability and financial risks. Long-term sustainability, including operating, maintenance and renewal costs, and return on investment for all stakeholders, are crucial.
+SWOT analysis of PPP scenarios
+In this section, we present a SWOT analysis (Forces, Weaknesses, Opportunities, Threats) for each PPP project implementation option, focusing on aspects of construction, maintenance, maintenance, wholesale renewal, services and operation, as well as the legal and institutional environment and traffic forecasts.
+The Masters of Public Works, where the State fully controls design, construction, operation and maintenance, has the significant advantage of direct alignment with public development policies and objectives. This approach ensures a close match between the needs of the community and the services provided, and allows an agile response to changing political and social demands. However, it has significant weaknesses, including the financial and operational risk entirely borne by the State, thus limiting available resources and expertise compared to those of the private sector. These limitations can lead to delays in implementation and challenges in long-term maintenance. In terms of opportunities, this option offers the possibility of directly adjusting services according to public needs and creating jobs, but it is also vulnerable to political changes and budgetary constraints, which can lead to additional costs and delays.
+The concession, which involves the design, financing, operation and financing of the private partner, enables private expertise and financing to be mobilized, thereby reducing the financial burden on the State and transferring many operational and financial risks to the concessionaire. This option has the advantage of bringing innovation and efficiency through the involvement of the private sector, thus providing better service through advanced management technologies and methods. However, there are significant challenges, including the complexity of contractual negotiations, the need for strict State oversight and the risk that commercial interests will prevail over public service. Opportunities include access to advanced technologies and the possibility of developing innovative service models, but there are risks of conflicts around concession conditions and increased reliance on the concessionaire for essential services.
+
+The partnership contract (PPP for public payment) is distinguished by a balanced sharing of skills, resources and risks between the public and private sectors. This option is beneficial for its ability to combine private expertise with public objectives, thus ensuring a long-term commitment to quality and performance. However, the complexity of structuring and monitoring the contract, as well as the need for effective monitoring and evaluation mechanisms, are major challenges. The opportunities for this approach lie in the development of customized solutions for the needs of the project, the improvement of the quality of services thanks to private expertise and the potential for innovation. However, this option carries risks such as excessive dependence on the private partner, long-term challenges in managing the partnership relationship and sensitivity to changing economic or political circumstances.
+
+
+Simplified Project Screening
+Analysis of the financial affordability of the project
+Introduction
+A railway project like the project requires substantial funds to be committed. Financial evaluation is essential in this regard by providing a solid basis for the decision-making of the contracting authority (and the state), which seeks to implement the most effective use of public funds. The selection of the optimal structure of the project is a balancing exercise between the affordability of the project for the public sector in general, its bankability and its attractiveness for the private sector (for PPP option).
+The screening assessment takes the public sector perspective by presenting a cost-benefit analysis (the Value for Money concept), while illustrating some of the key financial characteristics from a private sector perspective that need to be taken into account in the decision-making process. Indeed, structuring the project in a way that attracts interest from the private sector will encourage competition between applicants and generate benefits and a positive and sufficient Value for Money for the public partner.
+Public Sector Affordability: The chosen structure must be more effective than any other evaluated option. An accurate and widely used method for assessing efficiency is the value for money (VfM) achieved for the public sector. A positive VfM illustrates that the structure of the PPP evaluated is economically superior to the Comparator of the Public Sector ("CSP" which is the mirror of the case where the project is carried out in Master of Public Works or MOP), i.e. an option where the project is implemented via a conventional public market). The VfM is calculated from a public sector perspective, i.e. the revenues received by the public sector less the costs incurred by the public sector. It monetizes the risks incurred by the public sector in the form of costs which are deducted from the overall balance sheet. Also VfM is net of these risks.
+Affordability is all the more improved as the PPP option reduces the burden on the public sector, i.e. financing of the investment cost but also financing of the operation. In fact, under the CSP, financing of the investment cost is provided in advance by the public sector. This funding is then repaid by the public sector with the influx of project revenues which generally cover only part of this repayment. In the case of a PPP option, all or part of investment financing is provided by the private partner. The limit of private financing is that it is more expensive than sovereign financing. Also, in order to reduce the overall cost of financing, states often finance part of the cost of rail investment (30 to 60%). This funding is contracted by the State and is repaid by the State over a long period of time. It reduces the financing needs of the private partner.
+Bankability and attractiveness for the public sector: Bankability is a concept widely used in infrastructure financing and refers to a contractual/financial structure that is positively assessed by potential lenders of a project. In particular, potential lenders will review the total contract value and risk profile of the project cash flow. Each lender has a certain loan mandate and is allowed to provide funds within a specified range (e.g. no more than $20 million per project in Tunisia). Increasing the total private funding requirement beyond a limit (e.g. $150 million) may deter some lenders from participating in the project. In addition, risk allocation is important in terms of credit risk analysis. Lenders will consider committing their funds to projects that offer them the highest guarantees and allocating risks to the private partner that it can manage. Notwithstanding the above, the profitability required by private investors will increase as project risks increase.
+This section provides the results of the in-depth financial modelling exercise. The objective is to present the main assumptions and results for each of the PPP options envisaged. In particular, this section presents the basic assumptions that were used to determine the Value for Money of each PPP option considered. The section provides an overview of the project's funding needs, the sources of funding used and the capital structure used.
+Assumptions of the financial model
+The project's investment plan
+The project's investment costs, based on preliminary estimates, are summarized in the following table.
+Operating and maintenance costs
+The annual operating expenses included in the financial analysis consist of:
+Wage costs;
+Maintenance costs;
+Renewal costs, taking into account the life of the works; and
+Other operating costs (energy and fuel, materials and supplies, etc.).
+Wage costs
+Staff assigned to the operation of the railway link shall include:
+Staff assigned to stations and stops,
+Support staff, and
+Management staff.
+The annual salary assumptions of VPS staff are as follows.
+Other operating expenses
+We assumed that other operating costs (energy and fuel, materials and supplies, etc.) accounted for 40% of the wage costs, or DT 220 000.
+Infrastructure maintenance costs
+According to the SNCFT, the costs of rail operations for services: Main lines (passenger transport) and freight (transport of goods without taking phosphate transport into account), for the year 2021, are recorded in the following table.
+Source: DPCG/DCG - SNCFT (2021)
+Our analysis led to an assessment of the annual maintenance costs of the railway line, expressed as a percentage of the total investment cost. This estimate is based on in-depth sectoral comparisons and the review of the financial statements of the SNCFT for the year 2021.
+Analysis of SNCFT operating accounts
+The financial statements of SNCFT for the year 2021 reveal a fictitious value of 13.664 billion Tunisian dinars. The maintenance costs for SNCFT's main lines and freight transport are detailed as follows:
+Line track maintenance accounts for 0.10% of the network value, with an annual cost of 13.6 MDT.
+Station track maintenance is 0.01%, or 1.83 MDT annually.
+The maintenance costs of the works of art and level crossings are 0.02%, corresponding to 2.5 MDT per year.
+For signalling, maintenance is 0.03% of the value of the network, or 3.8 MDT annually.
+Sector Reference Analysis – Structure of Rail Maintenance Activities
+The organisation of maintenance operations depends on various priority criteria such as the geographical location of the railway line, the layout of the railway infrastructure, the operations carried out on the line and the contractual basis (roles and responsibilities) of the operations.
+Maintenance is generally divided into four distinct categories, applied in a coordinated manner according to the respective processes and stages of the project life cycle:
+Corrective maintenance (major unplanned maintenance):
+This involves interventions after a mechanical defect in a system, subsystem or component of the railway or civil engineering infrastructure. These operations cannot be planned in advance and are generally the responsibility of the contractor who built/installed the work.
+The availability of the railway line depends on the ability to quickly and efficiently repair assets, systems, subsystems and components in the event of mechanical failure or incident. The non-availability of the line is a function of the time it takes to resolve an incident and obtain the approval of the interventions to return the line to operation.
+Preventive maintenance (routine):
+This is the maintenance performed during the commercial operating period of the line and during the periods foreseen for the ongoing maintenance work. It may involve interventions based on the interpretation of asset status data from various sources of information and may be planned in the medium and short term.
+This category requires complete knowledge of the current status of the various assets and components that make up the railway. Periodic inspections will be carried out for the various components, which will include the recovery of specific measurements and data to determine the nature of the interventions required.
+End-of-life asset renovation maintenance:
+These include the replacement of infrastructure assets, systems or subsystems that have expired, are obsolete or for any other reason have become obsolete. These operations can be planned in the long and medium term.
+The concessionaire will be responsible for managing the wear and tear of the various materials contained in the various components of the railway infrastructure and systems. A five-year maintenance plan will be developed which will include all necessary interventions.
+Asset replacement maintenance at end of concession:
+This is the replacement of infrastructure assets and railway systems with insufficient life expectancy at the end of the concession. At the end of the concession, the concessionaire will replace assets with insufficient life expectancy to ensure their proper functioning and maintenance.
+Emphasis should be placed on regular and preventive maintenance to ensure the sustainability and efficiency of railway infrastructure, stressing the importance of computer-assisted maintenance management systems (e.g. RAMSYS) and the quality of specialized personnel. These elements are crucial in determining the dates specified for the renovation of the various railway components.
+Below is a standard summary table identifying the life cycles of the main components of the civil infrastructure and track and system railway assets.
+
+Source: Consultant
+The maintenance costs of railway systems, with the exception of rolling stock, including current operations to maintain the network in good condition, may represent about 2% of the capital costs. Regular maintenance of the infrastructure itself, such as railways and support structures, may constitute an additional 0.6% of capital costs, while station maintenance, including commercial spaces and platforms, may represent up to 8%. Finally, the renewal of the infrastructure, necessary to maintain safety and efficiency standards over time, can correspond to 1.2% of the capital costs.
+Consolidated maintenance costs
+Based on these data and industry references, we consolidated the forecast maintenance costs as shown in the following table.
+The annual costs of Operations and Maintenance therefore amount to DT.
+Income assumptions
+Traffic assumptions
+The estimates of passenger traffic on the East Bar on the project horizon are summarized in the following table.
+Source: Traffic studies
+The estimates of freight traffic on the East Bar in the project horizon are summarized in the following table.
+Source: Traffic studies
+SNCFT's gross operating surplus (GET) assumptions
+The financial analysis of a PPP project for the rehabilitation and operation of the railway line involves a careful assessment of the financial flows between the private partner and SNCFT. The objective is to ensure that the business model is sustainable and does not create a financial imbalance for the CFLTS.
+Freight revenue
+The analysis of the operating accounts of the SNCFT of 2021 indicated a freight rate of 0.073 DT/Tonne/ Km for each tonne of freight (excluding phosphate), with a cost coverage rate of 41.35%. By adjusting the company to balance (Revenue=Charges), we get a tariff of 0.176 DT/ Tonne/ Km. By applying the inflation rate between 2021 and 2023, we obtain a tariff of 0.200 DT/ Tonne/ Km for freight.
+The revenue generated by the demand for goods on the East Bar during the first year of operation (2028, CE 2023) is therefore summarized in the following table.
+
+Travel income
+Systra's 2016 review of the application adopted an average tariff to be applied for the new Kairouan-Sousse line on the entire route of 5 DT, a kilometric rate of 0.08 Dinar/km. This tariff is based on assumptions provided by SNCFT and the survey of reported preferences of potential users of the line. By applying the inflation rate between 2016 and 2021, this tariff amounts to 6.73 DT.
+To estimate the revenue received from the operation of the line by the SNCFT after its implementation, the study decomposed the line into five tariff zones according to the respective lengths of the sections and the data provided by the Traveler/day matrices on the project horizon. This breakdown gave the following estimates of revenue generated by passenger traffic for the first year of operation (2028).
+Apart from those generated by passenger traffic, other revenue from the operation of the line by SNCFT for passenger transport may come from several complementary sources, such as the sale of goods and services on board trains (catering, magazines, etc.), the operation of advertising spaces on trains, or premium services. The study used a rate of 5% of these ancillary revenues, i.e. 0.74 MDT in the first year of operation, resulting in a total annual revenue of 15.6 MDT (2028, EC 2023) for SNCFT.
+
+Operating costs of SNCFT
+In order to arrive at a realistic estimate of the Gross Operating Excess (GOP) generated by this line, it is essential to carefully examine the operating costs that SNCFT will have to bear. SNCFT's operating costs consist of several essential elements for the day-to-day operation of trains and service maintenance. These charges include:
+Staff costs: This includes compensation for drivers, controllers, maintenance and safety personnel, as well as station employees. These costs generally represent the largest share of the operating costs of a railway undertaking.
+Energy and fuel: For non-electric trains, fuel costs are a significant factor, influenced by market prices and specific locomotive consumption.
+Materials: This covers spare parts and supplies required for the routine maintenance of rail cars, locomotives and infrastructure, including rail and signalling.
+Other operational expenses: These expenses may include insurance costs, logistics costs, administrative costs, and costs associated with marketing and selling tickets.
+It should be noted that these charges do not cover the maintenance of the infrastructure itself, as this is borne by the private partner under the PPP or the SNCFT Network if not.
+In terms of order of magnitude, for a conservative and realistic estimate, and based on the operating accounts of the SNCFT of 2021, we estimated the costs of the SNCFT of the operation of the Bar Is as follows:
+
+Gross operating surplus (EBE) of SNCFT
+The previous analysis resulted in a gross margin of SNCFT (Revenue-Charges, excluding furrow charges) estimated at 14.42 MDT. The key to this analysis is to ensure that SNCFT payments to the private partner for the purchase of furrows—the track charges for freight and passenger trains—do not exceed the gross margin of the SNCFT generated by the line.
+The EBA is a crucial indicator as it represents the income generated by the line operation. It is therefore operational profit that measures SNCFT's ability to generate cash from its main business.
+The financial balance for the SNCFT is achieved when the EBA is greater than or at least equal to the payments for the furrows. If the payments for the furrows exceed the EBE, the SNCFT would find itself in a position where it subsidizes the private partner, which is not sustainable in the long term and could require government subsidies or lead to service degradation.
+For a PPP project, it is therefore essential to set furrow tariffs at a level that allows SNCFT to cover its operating costs and to provide sufficient profit margin to support other operations and investments. This implies a delicate balancing of the private partner's income needs, which must also recover its costs and make a return on investment, with SNCFT's ability to pay these royalties without compromising its financial health.
+The ultimate aim of this financial analysis is to ensure that the PPP is structured in such a way as to be fair to all stakeholders involved, financially sustainable, and able to provide the services expected without imposing excessive financial burdens on the SNCFT or requiring continued financial intervention by the State.
+Top of Form
+
+Private partner operating income assumptions
+The operating income received by the private partner (in the case of a PPP) comes mainly from 4 sources:
+Royalties of Sillon (fret)
+Sillon fees (passengers)
+Rental of Stations and Commercial Spaces
+Advertising.
+Royalties of Sillon (fret)
+The first source of operating revenue for the Barreau East Railway project is the freight track charges. These charges represent the costs paid by the Tunisian National Railway Company (SNCFT) to the private partner for the use of the railway by freight trains.
+To calculate these charges, it is necessary to first estimate the number of freight trains that will use the line each year. On the basis of freight traffic forecasts for 2028, which amount to 2,487,496 tonnes per year, a calculation methodology is applied. Considering that a standard car can carry about 50 tons of goods and that an average train consists of 10 cars, this brings us to a total of 4,975 freight trains passing through the East Bar in 2028.
+The pricing of furrows is a crucial component of this revenue source. The study selected a transit tariff of 30 DT/ Freight Train/ Km, essential for the financial viability of the project, providing a stable and predictable cash flow. It was based on a realistic traffic forecast and a pricing strategy tailored to the specific needs of the Eastern Bar, taking into account the need to cover operating and maintenance costs while providing quality service to rail freight users. This gives 1 767 DT/ Freight train on the entire East Bar route with a total length of 58.9 km.
+The annual revenue generated by the sale of furrows for freight therefore amounts to 8.79 MDT (2028, EC 2023).
+Sillon fees (passengers)
+The second source of operating revenues for the Barreau East Railway Project (from the private partner's point of view) comes from the passenger train trail charges. This source of revenue implies that the private partner, which manages the railway infrastructure, charges the SNCFT for the use of tracks by passenger trains.
+The determination of the number of passenger trains per year is based on passenger traffic estimates for the year 2028 by tariff area, as detailed in the following table.
+Rental of Stations and Commercial Spaces
+The third revenue source for the Barbar railway line East comes from the rental of railway stations and commercial spaces, a common practice in transport infrastructure where passenger flows generate commercial opportunities. According to the proposed revenue model, it is planned to install 10 businesses, each occupying a space of 100 square metres. These commercial spaces will be rented at a rate of 15 DT per square metre per month, creating a regular and predictable source of revenue for the project. By multiplying the total laudable area by the monthly rate and projecting it over a full year, the annual revenue from the rental of railway stations and commercial areas is estimated at DT 180 000.
+Advertising
+The fourth source of revenue is advertising. The project plans to set up 30 advertising sites, which will be rented to companies wishing to target travellers. The rate for each location is set at 300 DT per month, a competitive rate that takes into account the potential visibility and audience provided by locations in railway infrastructure. With this strategy, annual advertising revenues could reach DT 108 000, considering that all sites are leased year-round.
+The latter two complementary sources of revenue play a crucial role in diversifying the project's cash flows and providing financial stability beyond revenues directly related to passenger and freight traffic. Commercial leasing and advertising are proven business strategies that take advantage of the high use of transportation infrastructure to generate significant additional revenues.
+Consolidated revenue for the first year of operation (EC 2023) is summarized in the following table:
+The result for SNCFT
+This table shows that the planned freight and passenger train charges are not too far from the EBE of the SNCFT line. This results in a net SNCFT result of -2.6 MDT during the first year of operation (EC 2023).
+This situation, where the fees for the use of the furrows are close to or exceed the SNCFT's Gross Operating Excess (EBE) from the first year of operation, indicates a tension on the immediate financial viability of the project for the national operator. However, further analysis may reveal several long-term economic benefits and prospects that could offset this initial deficit.
+Economic development: The launch of a new railway line can boost economic activity in the regions served by facilitating trade, tourism and industry. This can lead to an increase in traffic over time, exceeding initial forecasts and thus increasing future revenues.
+Improved efficiency: Optimization of railway operations could lead to a reduction in long-term costs. The modernisation of infrastructure and the introduction of new technologies can lead to efficiency gains that will result in lower operating costs.
+Deferred capital investments: The high initial costs associated with the launch of a service can be offset by the savings achieved through the deferral of capital investments that would otherwise be necessary to maintain an old infrastructure or to develop new roads.
+Government grants and grants: Rail operations, particularly those that are strategic for national development, can benefit from government subsidies or incentives that help balance accounts during the operating period.
+Social and environmental added value: Indirect benefits, such as reducing road congestion, reducing pollution and improving urban mobility, can justify initial support for the line, with long-term benefits for public health and quality of life.
+For these reasons, although the net results of the CFLTS appear negative, the long-term benefits and strategic value of the project should be taken into account in the overall assessment of financial viability. It is essential that SNCFT, with the support of the state and private partners, establish a robust financial strategy that balances initial costs with long-term economic, social and environmental benefits.Top of Form
+
+Cash flows
+Cash Flows flows between different parts of the project are summarized in the following figure.
+
+Macroeconomic and financial assumptions
+Inflation rate:
+The retrospective study of Tunisia's average annual consumer inflation rate over the last decade shows that this rate is characterized by an accelerated upward trend, as shown in the following table.
+
+Source: World Bank data
+The rate of inflation on consumer prices in Tunisia stood at 8.3% in 2022, after 5.7% the previous year, driven mainly by the rise in food prices resulting, in particular, from world commodity prices. Similarly, higher prices for certain consumption functions such as energy, transport goods and services, housing, etc. have also contributed to higher domestic prices. In November 2023, inflation was 8.3% compared to the same period of the previous year.
+In this study, the following average annual inflation rates were used throughout the concession period:
+Inflation rate during the construction period – CAPEX: 8%
+Inflation rate – OPEX (excluding staff) and other operating income: 6% per year
+Rate of growth of train fees: 5% every 5 years
+Rate growth rate of the SNCFT: 5% every 5 years
+Annual wage increase rate: 3% per year.
+Cash flow discount rate:
+The discount rate on cash flows can be calculated as follows.
+However, for the financial study, we selected a risk-free discount rate of 9% for the private and public sectors. The use of the risk-free rate ensures that market fluctuations do not bias the evaluation of the project. This results in a net present value (NPV) that primarily reflects the economic characteristics of the project itself regardless of market conditions, which may contribute to greater predictability of future cash flows of the project.
+The other key parameters are as follows:
+Corporation tax: 25.0% (generally)
+VAT rate: 19.0%.
+The underlying parameters of the financial model
+The following assumptions were used in the financial model for all project variants:
+Contract term PPP: 35 years
+Duration of the construction period: 3 years
+Construction period: 2025 - 2027
+Duration of operating period: 32 years
+Contract Start Date: January 1, 2025
+Operating Start Date: January 1, 2028
+Contract End Date: December 31, 2059.
+The assumptions of financial structures are presented as follows:
+Debt/Clean Fund ratio - Concession: 65/35
+Debt/Clean Fund ratio - Partnership: 75/25
+Debt maturity: 32 years
+Private sector debt interest rate: 8.0%
+Public debt interest rate: 6%
+Grace period: 3 years (i.e. construction period)
+Reimbursement method: P+I constant.
+Debt maturity is the length of time the debt is fully repaid. This term is less than the duration of the 3 year contract. This is a requirement made by the banks to have a 3 year margin of manoeuvre in the event of an event hindering the course of the contract (delay during the construction period, force majeure event, etc.).
+The grace period is the period during which the project company does not repay any outstanding debt to the banks. It is set at 3 years to cover the construction period, i.e. the first one is paid at the end of the first year of operation.
+The repayment method chosen is the constant P+I. The other possible modality is linear depreciation. For the P+I, P means the principal debt and I means interest on the debt. As this amount is constant, this implies that the project company pays a lot of interest at the start (little principal) and little interest at the end of the contract (many main). The P+I is often preferred by investors because it allows a constant annuity.
+The other assumptions for the EPC+F contract are as follows:
+Commission of engagement : 1.5%
+Commission of Arrangement : 1.5%
+Term of maturity of sovereign debt: 15 years
+Public interest rate: 6%.
+Results of financial modelling of implementation scenarios
+Option 1: Concession Contract
+Scenario without public subsidy:
+Under this scenario, the private partner bears the full investment cost of the project.
+The construction cost is 587.7 MDT (TCC-EC 2023). By applying inflation during the construction period, we obtain the discounted amount of 741.6 MDT.
+The financing of the construction cost is partly due to debt which generates interlayered interest of MDT 58.4. The total cost of the project at the end of the construction period is 800 MDT. This amount is financed by debt of MDT 540.5 and own funds of MDT 259.6.
+
+The revenue curve corresponds to the revenue generated by the project, i.e. the revenue from the sale of furrows and the income from the operation of the project (advertising, renting of commercial spaces). In the case of this option, the private partner collects the revenues from train rates and the associated revenues and uses them to cover its construction, operation and maintenance costs.
+
+The revenue and cash flow curve for the public sector corresponds to the revenues and expenses of the SNCFT after the implementation of the line. On the other hand, the State will have to collect taxes and taxes throughout the concession period, however, the project company does not manage to generate any profit throughout the project, which cancels these taxes. The cashflows of the SNCFT Network are zero.
+This scenario generates a zero minimum capital TRI and ADSCR, which means that the implementation of the project in the form of a concession without a public subsidy is not at all profitable for the private partner and does not allow it to pay the annual service of its contracted debt.
+Sensitivity test
+In order to achieve the minimum profitability of the project under a concession contract (a 15% own funds TRI) while avoiding the public subsidy, it is necessary to multiply the price of passenger and freight train paths by a factor of 7. This would result in DT/Train freight/km tariffs for freight and DT/Train passenger/km paths for passenger trillions.
+If we want to apply this test to the freight train rates only, the freight train train path charge will have to move to DT/Train freight/km.
+Publicly funded scenario:
+For the private partner, the minimum subsidy amounts to 9% of the construction cost in order to achieve the minimum profitability TRI of acceptable capital.
+The construction cost is 587.7 MDT (TCC-EC 2023). By applying inflation during the construction period, we obtain the discounted amount of 741,MDT.
+This amount is financed by the grant of 7 MDT, debt of MDT and equity of MDT.
+
+This scenario generates an own funds TRI of 15.0% which guarantees a profitability acceptable to the private partner. However, the minimum ADSCR amounts to 0, which does not allow the annual service of its contracted debt to be paid. This scenario demonstrates that even with a substantial public subsidy, the model does not achieve a sufficient level of debt service coverage to guarantee debt repayment by the private partner.
+In a concession model requiring a substantial subsidy of 9%, the financial balance cannot be found without almost total tax support. Such a level of subsidy undermines the very intention of the PPP, which aims to balance the contribution and risk between public and private.
+These results highlight a significant financial imbalance, indicating that the concession model with a very high public grant is not sustainable in the long term and cannot be recommended as a sustainable solution for project financing.
+
+
+
+Option 2: Partnership Agreement
+The construction cost is 587.7 MDT (TCC-EC 2023). By applying inflation during the construction period, we obtain an amount of 741.6 MDT.
+The financing of the construction cost is partly due to the debt which generates interlayered interest of 67.4 MDT. The total cost of the project at the end of the construction period is estimated at 809 MDT. This amount is financed by debt of 623.6 MDT and equity of 185.4 MDT.
+The revenue curve for the private partner is zero. On the other hand, the latter collects rents over the entire operating period which are used to repay the initial investment, debt servicing, capital gains, and operating and management expenses.
+Taking into account a five-year discount rate of 5% of the rents, the total rent due to the first year of commissioning of the Project (2028) allowing to have a Rate of Profitability of the Clean Funds above 15% and a minimum ADSCR of 1.2 million DT is estimated to be 14 million.
+
+
+
+For the public sector, the income curve corresponds to:
+For the SNCFT: revenue from the transport of passengers and freight after the line is put into operation, as well as other related revenues.
+For the SNCFT Network: furrow royalties collected from SNCFT, as well as other operating revenues (advertising, renting, etc.).
+For the State: the tax paid by the Project Corporation.
+
+
+
+Option 3: EPC+F
+Under this option, the SNCFT Network finances the entire construction cost (excluding taxes) with concessional funding and operates the project by its own means.
+The construction cost is 493.8 MDT (HT-CE 2023). By applying inflation during the construction period, we obtain an amount of 623.2 MDT. The financing of the construction cost is largely due to public debt, which generates interlayered interest of 45.4 MDT. To this are added the costs of file for this type of financing (commissions of commitment and arrangement) financed by the State budget. The total cost of the project at the end of the construction period is 680,9 MDT. This amount is financed by debt of 668,6 MDT and the State budget of 12,3 MDT.
+
+
+
+For the public sector, the income curve corresponds to:
+For the SNCFT: revenue from the transport of passengers and freight after the line is put into operation, as well as other related revenues.
+For the SNCFT Network: furrow royalties collected from SNCFT, as well as other operating revenues (advertising, renting, etc.).
+For the State: the tax paid by the Project Corporation.
+SNCFT Réseaux collects revenue from the line, allowing it to repay part of the debt incurred to finance construction costs.
+The annual debt for EPC+F would amount to 69 MDT on the assumption of a 15-year repayment and an interest rate of 6%. The debt service NPV amounts to -439.8 MDT for this option.
+
+
+
+Project risk analysis
+Introduction
+Risk can be briefly defined as "result volatility". The risk analysis focuses on the likelihood that events will not occur as expected and the measurement of the consequences of such a failure. Risk management is crucial for the development of the project and covers the process of systematic identification and quantification of risks, followed by the implementation of appropriate strategies to eliminate or minimize risks and, if possible, reduce the consequences of a risk event.
+This section is intended to detail the methodology and process for identifying, estimating, assessing and analysing the risks associated with the project and the proposed actions to mitigate those risks.
+This analysis begins with the completion of the risk matrix that examines key risks that may have an impact on the project, and presents the treatments generally used in similar projects at the regional and international levels to mitigate these risks.
+The risk assessment covers the technical, commercial, legal and financial risks associated with the project under each of the implementation options examined. The risks associated with the project do not disappear because the private sector provides the service under a PPP contract. However, the quantification (and therefore provision) of these risks is often lower for the private sector, as these risks tend to be better managed (than by the public sector), mainly due to a better distribution of risks and economies of scale generated by PPP and expertise in risk management.
+The principles of risk analysis and allocation
+Each project has its specific risk profile with country, sector or project-specific characteristics. Thus, the analysis must identify the different risks of the project and distribute them effectively among the project stakeholders.
+Risk allocation, in the context of a PPP, means deciding which party to the PPP will bear the cost (or reap the benefits) of a change in project results due to the materialization of a risk. Indeed, each identified risk must be assigned to the one who is best able to:
+Control the likelihood that the risk will occur;
+To monitor the impact of the risk on the results of the project with a good risk assessment and an adequate anticipation of its impact; and
+Absorb risk at the lowest cost, if the probability and impact of the risks cannot be controlled. The cost of absorption of a risk by one party depends on several factors, including the extent to which the risk is correlated with its other assets and liabilities, its ability to transmit the risk and the nature of the ultimate risk bearers.
+The comparative advantage of a party to bear a risk may result from the fact that it has more information on risk and its impact and is able to influence the outcome. Good risk allocation has two main objectives:
+Encourage stakeholders to effectively manage risk and thus improve the benefits of the project and/or reduce costs; and
+Reduce the overall cost of project risk by "protecting" stakeholders from the risks they are unable to bear.
+An unoptimal distribution of risks, for example by transferring a risk to the private sector that it cannot assume, will increase the cost of the project or even limit the participation of private sector candidates if the risk is perceived as prohibitive by investors. In the absence of an acceptable mitigation of risks beyond its control, the private operator will aim for benefits in relation to the risks allocated to it and will seek substantial guarantees in exchange. Thus, the proponent will "monetize" its perception and assessment of the project's risks.
+Finally, risk mitigation strategies must also be evaluated in terms of cost/benefit ratio, as the cost of extensive mitigation may exceed the expected benefits.
+Risk identification
+In order to assess the risks that may have an impact on the project, it is important to identify the key risks that, based on the Consultant's experience on other similar projects, can have an impact on the project and the approach taken for managing and mitigating these risks in similar projects undertaken in the region and at the international level.
+For the project of designing, building, financing, operating and maintaining the , risks can be classified into two main categories:
+General risks or country risks that are related to the political, economic and legal environment of the country and over which both partners have no control; and
+Project-specific risks over which public and private partners can exercise some control.
+The tables below summarize the main risks associated with a railway line project 11.
+
+Risk matrix and project risk allocation
+The risk matrix includes key risks that may have an impact on the project and the approach taken to manage and mitigate these risks in similar projects in the region and internationally.
+This risk matrix is not intended to be a complete or exhaustive matrix of legal risks (to be carried out in future in-depth studies), but is intended to address the proposed commercial and contractual relationships between the public and private partners. It highlights specific concerns, obstacles or constraints affecting the project and the proposed risk allocation based on appropriate benchmarks for standard allocation of these risks in similar regional or international PPP projects.
+The matrix of project risks under a concession contract, including the allocation, mitigation and coverage of different risks, is presented in Annex 2 of this study.
+Value for Money Analysis
+Introduction
+The Value for money analysis (hereinafter "VfM") involves an assessment of the overall cost of the project, taking into account the value of the inherent risks, depending on whether the project is carried out in a public market or PPP.
+The analysis and comparison of the financial profitability of the various options is ultimately measured through the VfM. In order to evaluate the VfM of each option, we use the results of the financial model that adopts the perspective of the Ministry of Equipment and Habitat and the private partner by estimating the overall cost of the project to the public sector of each option over the duration of the project.
+This cost is then adjusted to the risk, i.e. the cost of risks which are borne by the public sector (and which have not been transferred to the private partner). The cost of risks is provided by the risk register, the results of which are annexed to this study.
+The Value for Money is a percentage that indicates in the absolute the value increment offered by the PPP option compared to the Public Market option, i.e. an option where the project is carried out with one or more conventional markets.
+The value for money for the PPP option is obtained through the commitment to efficiency, efficiency and savings that the private sector can achieve and the appropriate allocation of risks in the project. In addition, PPP projects in the rail sector provide specialised expertise under an attractive and standardised contractual regime.
+Factors that determine whether the VfM of a PPP option is positive include:
+Better allocation of risks to the counterparty best placed to manage it
+Long-term contract: predictability of costs and revenues for counterparties
+Call for tender implemented quickly
+Improved quality of service
+Compensation structure based on performance incentives
+Reduction of costs over the life cycle of the project by optimizing infrastructure maintenance.
+
+Quantification of risks
+Introduction
+Risk is quantified by measuring the potential to incur (supplementary) costs beyond basic costs. Risk quantification is not common for traditional public procurement (public sector comparison) which tends to suffer from a bias of optimism, i.e. a tendency to budget for the best possible result (often the least expensive) rather than the most likely. This leads to frequent cost (and time) overruns.
+Moreover, the risks associated with the project do not disappear because the private sector provides the service under a PPP contract. However, the quantification (and therefore the supply) of these risks is often lower for the private sector, as these risks tend to be better managed (than by the public sector), mainly because of a better distribution of risks and economies of scale generated by PPP and expertise in risk management.
+Methodology
+The first step is to determine the cost to the public sector of each identified risk, depending on whether the project is carried out under a public contract or a PPP. This cost is calculated as follows:
+
+Where:
+= Likelihood of occurrence of risk n
+= Reference value or base cost defined for risk n – established for each risk according to its nature
+= Share of risk borne by the Public Sector or cost of impact – varies according to the option considered (public contract or PPP).
+Risks are classified according to the project stages in which they occur, namely:
+Planning
+
+Design
+Construction
+Operating period including infrastructure operation and maintenance
+Renewal and transfer period (transfer) which takes into account life-cycle expenditures and the transfer of infrastructure upon expiry of the contract.
+Risks at each of the above steps will be subdivided into sub-categories:
+Technical aspects - covering aspects such as efficiency, durability and specification achievement
+Legal - covering aspects related to the evolution of laws or compliance with existing laws and regulations
+Commercial - covering aspects related to input prices, general input availability and risk insurability
+Financial/monetary - covering aspects related to the impact of changes in key financial variables such as inflation, interest rate and exchange rate, public financing deficit, private financing deficit, default on debt, remuneration
+
+Policy/social - covering aspects related to social unrest, manifest civil unrest, industrial strikes, terrorism, etc.
+Environmental - covering aspects related to the environmental problems the project might face.
+The reference or base cost for each risk in the categories described above should be indicated. The basic costs are presented in real terms.
+The probability of occurrence and rank is the probability of a risk occurring and is described as a percentage and a descriptive rank. The following table provides an example of how the probability description is associated with certain probability bands.
+Source: Author
+The financial impact of a risk (share of risk borne by the public sector) is assessed according to three scenarios:
+Maximum impact scenario, reflecting a major impact on costs due to the occurrence of risk.
+Medium impact scenario, reflecting a moderate impact on costs due to the occurrence of risk.
+Minimum impact scenario, reflecting the minimal impact on costs due to the occurrence of risk.
+Each risk impact scenario is expressed as a percentage and reflects the expected change in the cost base due to the occurrence of risk.
+Results of Value for Money Analysis
+In order to quantitatively assess Value for Money, the financial model estimates the cost to the Ministry of Equipment and Habitat for each option. The project costs, which are borne by the project company during the duration of the contract, are adjusted according to the risk and then compared in terms of NPV to the risk-adjusted cost of the Public Procurement (Public Sector Comparator – EPC+E&M) option.
+We recall that the Value for Money only makes sense for bankable PPP scenarios (debt paid with DSCR > 1,2) and attractive to investors (FP TRI > 15%). For this purpose, the Concession option (with and without public subsidy) is excluded from the VfM analysis.
+In the following we present the results of this analysis.
+Cost of the project in Public Works/Public Sector Comparison (PSC)
+The total cost of the project for the State, adjusted to the risk, in the event of the project being carried out in MPP (EPC + E&M by the SNCFT Network) is broken down as follows.
+
+The analysis of the financial flows for the Kalaa Sghira-Kairouan railway project, which is managed under the control of public works, reveals a complex situation. On the one hand, we have the NPV of the operating revenues of the SNCFT which seems promising (~700 MDT). However, this is offset by a fairly high debt service and significant operating costs for the entire project (infrastructure and rolling stock), which together exceed revenues. By integrating risks, the total NPV for the public sector is further deteriorating, rising to - MDT. This means that the implementation of the project in the form of a Public Works Master's degree will cost the public sector an amount of 6 MDT in net present value over 35 years.
+These results suggest that, despite potential revenues, operational costs, public debt and associated risk make this model economically difficult for the state.
+It should be noted that the charges for furrow royalties, although significant, are balanced in the public accounts since SNCFT pays them to SNCFT Réseau. Thus, for the calculation of the public sector NPV, the net impact of these charges is zero, indicating that their presence in the overall financial analysis does not affect the final profit for the State.
+
+
+Value for Money for Option 2: Publicly Paid PPP
+The total cost of the project to the State, adjusted to the risk, in the event of implementation under Partnership Agreement, is broken down as follows.
+
+In the analysis of the Value for Money (VfM) of the public-private public-payment partnership for the Kalaa Sghira-Kairouan railway line, several key elements emerge. First, train charges, although an important transaction between SNCFT and SNCFT Réseau, cancel each other in their impact on the public sector. Annual rents paid to the private partner are the main financial burden for the State. These payments cover initial investment, debt servicing, capital gains, operating, management and maintenance expenses.
+
+
+The high cost of these rents, necessary to ensure the profitability of the private partner and the maintenance of the infrastructure, weighs heavily on the public budget, as shown by their net present value of -1,303 MDT. This means that the benefits of the partnership contract do not offset the State's financial obligations, resulting in a negative VfM of -62.5%.
+In conclusion, although the PPP public-payment model offers advantages in terms of mobilisation of initial financing, public control and revenue, its current financial structure indicates that it is not recommended as a sustainable model for the State in the long term for the implementation and operation of the project.
+Value for Money for Option 3: EPC + F
+
+The Value for Money (VfM) analysis for the EPC+F option indicates a Positive Value for Money.
+The overall NPV in the public sector is negative, with a higher debt service than in conventional lending (~ -MDT in NPV). This is explained by the repayment modalities specific to this option involving shorter public debt maturity (15 years), which increases public debt servicing.
+Although operating revenues are positive, they do not compensate enough for operational costs. However, the risks associated with this option are lower than those of the PMO, mainly due to the transfer of the risk associated with the availability of public funding under the EPC+F modality.
+
+
+This suggests that the EPC+F option, thanks to its initial advantages in terms of simplification of construction and financing, could be the most economically viable option in the long term for the public sector compared to other possible options. Value for Money is positive (26,MDT), which means the implementation of the Bar Association project Is under an EPC+F makes it possible to reduce the total cost of the project for the public sector by about % compared to the control of conventional works.
+Sensitivity analysis
+A sensitivity analysis was applied to the basic option (Option 3: EPC+F) to assess its resilience to changes in assumptions and risk components over the life of the project. Sensitivity tests were conducted by the Consultant on the main parameters taken individually to judge the financial soundness of the proposed financial package. For each sensitivity, these results measure the impact of a variable's deviation on the main outcomes of the model, such as the public sector NPV, Value for Money and the annual government debt. We recall that financial sustainability indicators such as TRI and ADSCR are not applicable in this scenario.
+The following sensitivity tests were conducted on key project variables:
+10 per cent increase in construction costs
+10% reduction in construction costs
+Increase in operating costs (infrastructure) by 10%
+Decrease in operating costs (infrastructure) by 10%
+Estimated traffic increase by 10%
+Estimated traffic decrease by 10%.
+
+Sensitivity test results are summarized in the following table.
+
+
+The impact of the various sensitivity tests is as follows:
+Increase in construction costs by 10%: this test increases the cost of the project for the public sector from - MDT and slightly the VfM to MDT, but the rate of VfM remains constant. The annual government debt also increases to 75.7 MDT.
+Reduced construction costs by 10%: this test reduces the cost of the project for the public sector to -,MDT and VfM to,MDT, thus reducing the annual public debt to 61.96 MDT.
+Increase in operating costs by 10%: this test results in a slight increase in public NPV to - MDT without having a major effect on VfM.
+Reduced operating costs by 10%: this test reduces the NPV to - MDT and slightly increases the VfM to 4%.
+An estimated 10% increase in traffic: this test does not significantly impact the NPV or VfM, with an NPV of - MDT and a VfM of 26, MDT. This means that the increase in traffic revenues (for SNCFT) does not benefit the public sector too much because it increases the operating costs of SNCFT proportionately.
+Estimated decrease in traffic by 10%: this test reduces the cost of the project for the public sector of MDT. This means that less traffic represents a more favourable situation for the public sector in terms of the overall cost of the project, explained by the deficit EBE of the SNCFT detailed earlier in this study. The public debt annuity does not affect for the last four tests.Top of Form
+
+
+Conclusions and recommendations
+Synthesis of the results of the pre-financial diagnosis and pre-evaluation of the proposed implementation scenarios
+The following table summarizes the main results of the financial pre-diagnosis and the pre-assessment of the planned implementation scenarios of the Kalaa Sghira – Kairouan railway link restoration project (East Barrel).
+
+
+
+
+
+
+Recommendations and next steps
+The study on the financial viability of the Kalâa Sghira-Kairouan railway project, from the point of view of the private partner, reveals a complex situation. The forms of public-private partnership examined, namely the Concession contract and the Partnership contract (publicly paid) have shown significant challenges in achieving acceptable profitability without substantial public subsidies (up to 9% of the investment cost) or annual rents that weigh heavily on public finances. In particular, the grant-free scenario is financially unsustainable for the private partner, requiring excessively high train rates (~DT/Train/km) to achieve financial balance.
+Regarding the Value for Money analysis, it appears that, although the PPP with public payment is technically feasible, it imposes considerable financial burdens on the public sector. This results in high annual rents required to cover investment costs, maintenance and operating costs, and debt servicing. These costs, combined with the limited revenue generation capacity of the project, make this option less attractive from the VfM point of view if the public sector wishes to keep the project revenue. In addition, SNCFT Network's operational expenses do not generate significant additional revenues.
+The analysis of the VfM for the EPC+F option indicates a potential benefit for the public sector. Although this method of financing increases the service of the public debt compared to the master of public works, it reduces the risk of the availability of public financing to cover the initial investment, stressing that the EPC+F does not offer sufficient financial advantages compared to the Master of Public Works (MOP).
+In conclusion, it is recommended that option 3 – EPC + Funding be preferred. Since SNCFT is already in deficit, it would be difficult to bear additional costs imposed by the other options. The EPC+F, although requiring a larger initial investment from the state, could be more sustainable in the long term in terms of project risks. Finally, the lack of significant revenue potential to justify a PPP model reinforces this recommendation. However, an in-depth review and negotiation of funding terms, as defined by the EPC's funding approach, could further optimize the effectiveness and sustainability of the project for the public sector.
+
+
+Annexes
+
+Appendix 1: Detailed Risk Matrix
+
+
+
+Appendix 2: Detailed investment costs
+
+
+
+

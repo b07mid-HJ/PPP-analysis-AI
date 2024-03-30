@@ -1,0 +1,1030 @@
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SUBMITTED: August 4th, 2023
+	
+
+
+
+
+
+List of tables
+
+List of figures
+
+
+List of acronyms
+
+
+
+Executive summary
+Context of the project and the presentation of the report
+The objective of the current project is to construct an Office Complex to accommodate the Malawi Investment and Trade Center (MITC) as well as lettable spaces for offices and retail. This building will enable the MITC to enhance its quality of service as a One-Stop Service Centre for business and start-ups. In line with contemporary sustainability agenda, the Building has a “Green” theme concept design at incorporating green friendly technologies and attaining a globally recognized “Green Building” Standard Certification at Advanced stage with 40% or more on site energy savings.
+As a transaction advisor, Unshackle Africa JV (the Consultant) has been selected by the Malawi Investment and Trade Center (MITC) and the Public-Private Partnership Commission (PPPC) to assist in the development and implementation of the assignment through:
+Assessing the technical, legal, financial and environmental feasibility of development and implementing the Office Complex under a PPP framework; and
+Supporting MITC in identifying the private partner to design, finance, construct, operate and transfer the infrastructure.
+The previous deliverables provided by the Consultant consisted of an Inception Report, a Needs and Options Analysis Report and a Scheme/Concept Design Report.
+The aim of this report is to provide a comprehensive Feasibility Study, which investigates the preferred identified implementation options and finalizes transaction structure. The Feasibility Study should enable the PPPC to determine the project parameters such as project cycle costs, affordability, service levels, risks and their costs and investment results.
+The feasibility study is inclusive of:
+An international benchmark study for similar office building PPP projects;
+A Technical, Environmental, Legal and Regulatory assessment of the project;
+A comprehensive assessment of all the risks encountered by the project during its lifecycle;
+A Financial assessment and Modelling of the project reflecting optimal design parameters;
+A Value for Money (VFM) and Affordability analysis; and
+Payment mechanisms and MITC potential share of profit.
+The Feasibility will demonstrate affordability for the full project life cycle and propose the optimal solution for the MITC to achieve its desired outcomes, by considering the constraints and concerns of all the key stakeholders involved.
+Based on documentary research as well as the Consultant's experience in advising clients on different modes of PPP procurement for similar projects around the world, we have conducted an international benchmark study of similar PPP projects for office buildings, namely:
+ICT Parks’ project in Egypt;
+A Post Office Project in Kuwait; and
+The Balard Hexagon project in France.
+The benchmark study has shown that in most real estate and office buildings projects, the PPP models used are the DBFOM (Design, Build, Finance, Operate, Maintain), BOT (Build, Operate, Transfer) and ROT (Refurbish, Operate, Transfer) models. The revenue stream in most cases comes from user payments (leasing fees, commercial activities, etc.) with a support from the government in the form of grants if needed.
+These selected projects have faced several difficulties such as delays, performance gaps and in extreme cases project cancellation. To avoid such issues, a number of recommendations should be taken into consideration for the MITC Office Complex Project, namely:
+Minimizing future deviations from financial, economic, and social projections with respect to project outcomes at the initial preparation stages;
+Ensuring that users projections are accurate as much as possible; and
+When sufficient financial resources are available, structuring the project around availability payments.
+One of the options that could be explored is to restrict the development to the plot which has been leased to MITC which would mean that the car-parking designed for land outside the leased plot would be left out. To compensate for the 105 car-parking spaces that would be lost, the option would be to create at least two additional basement floor parking.
+With the reported existence of an underground river on the site, the additional car-parking basement floors would require waterproofing treatment as well as enhanced ventilation apart from the provision of passenger lifts that cover the two additional floor stops. The cost implications of providing the additional basement car parking floors is considered to be higher than providing the same number of car-parking spaces over ground.
+Another option that could have been explored is to adhere to the size of building that MITC requested in the Needs and Options Report which was 12 500 m2 instead of the 9 940 m2 of lettable space that was actually provided. This leads to a deficit of 2 560 m2 equivalent to just over three (3) additional floors and this would in turn make the building a sixteen (16) floor development.
+With the increased amount of lettable space there would be a number of parameters which would also increase such as increased number of car-parking spaces required, size of passenger lifts in terms of the number of stops, and associated costs.
+The result of the above options would lead to an increase in the scope of works whilst increasing the costing and would most likely also take longer to construct. This in turn would mean MITC would be forced to occupy the building later than the current estimated time with the current size. The legal and regulatory framework governing the conduct of environmental and social impact assessment include the Environment Management Act No. 19 of 2017, the 1992 Rio Declaration on Environment and Development to which Malawi is a signatory and the Guidelines for Environmental Impact Assessment in Malawi. An environmental and social impact assessment involves the systemic evaluation of a project to determine its impact on the physical, ecological environmental and the conservation of natural resources on the social and socio-economic fabric of a particular community and any social change process that may be associated with a project. Consequently, a project is to be planned, designed and implemented in a manner that minimizes adverse impact on the biophysical and socio-economic environment.
+Section 31 of the Environment Management Act provides that the Minister may specify the type and size of the project which shall not be implemented unless an environmental and social impact assessment is carried out. The Guidelines for Environmental Impact Assessment contain a list of infrastructure and land development projects that are subject to assessment and offices or compound building complexes are not listed. If a project is exempt, the Director of Environmental Affairs issues a certificate and advises a developer and relevant licensing authority of the exemption and any recommendations made.
+In the implementation of the infrastructure project between MITC and a private party, an exemption certificate will need to be obtained.
+The Feasibility Study aims to ensure that the most appropriate legal solutions are identified at an early stage by mapping and programming the procurement timetable by reference to applicable legislation and testing the commercial principles against their deliverability in a legal and regulatory context.
+The legal, regulatory and policy framework for the project comprises the Republic of Malawi Constitution of 1994 as well as various legislations that cover public private partnerships, infrastructure development permits, real estate issues, foreign direct investments, controls on foreign exchange transactions, dividend repatriation and requirement for environmental and social impact assessments.
+The legal framework for PPP in Malawi mainly consists of the Public-Private Partnership Act (the “PPP Act”) adopted on 22 December 2011, as well as the Public-Private Partnership Policy Framework, approved by Cabinet on 18 May 2011. The PPP Act has been appealed by the PPP Bill that was enacted into law by Parliament on the 5th of April 2022.
+The PPP Law provides for the possibility to structure the Project through a Special Purpose Vehicle (SPV) or a Joint Venture agreement (JV).
+The law in Malawi provides for permits and approvals that are to be obtained before the implementation of an infrastructure development project, namely:
+Planning Permission;
+Development Permission; and
+Compliance with Development Guidelines and Standards.
+The Project can be structured through a public private partnership or an Engineering, Procurement and Construction (EPC) Contract. The legal framework in Malawi allows both structures.
+The cycle of PPP contracts in Malawi initiated by the public authorities goes through 5 phases as shown in the following figure.
+
+
+Risk Analysis
+Risk analysis focuses on the probability that events do not occur as planned and measurement of the consequences of such failure. The methodology followed during risk analysis includes risk identification, quantification and allocation during the Feasibility Study, Pre-procurement and Procurement and Evaluation stages of the Project.
+For the project consisting of designing, building, financing, operating and maintaining the MITC office complex, the risks can be classified into two main categories:
+General risks or country risks which are linked to the political, economic and legal environment of the country and over which the two partners have no control; and
+Project-specific risks over which the public and the private partners may have some control.
+The table below summarizes the main risks of the project.
+The Risk Matrix includes the key risks that may impact the project as well as the adopted approach of managing and mitigating these risks in similar projects undertaken in the region and internationally.
+Risk is quantified by measuring the potential to incur (additional) costs above baseline costs.
+The first step is to determine the cost to the State of each identified risk, depending on whether the Project is carried out under a public contract or a PPP. This cost is calculated as follows:
+
+Where:
+= Probability of occurrence of risk n
+= Reference value or base cost defined for risk n – established for each risk according to its nature
+= Share of the risk borne by the public sector or the cost of the impact – varies according to the option considered (Public Sector Comparator or PPP).
+The risks are classified according to the stages of the project in which they occur, namely:
+Planning
+Procurement
+Design
+Construction
+Operating period which includes both operation and maintenance of the infrastructure
+Renewal and transfer (handover) period that takes into account life cycle expenses and handover of infrastructure at contract expiration.
+Risks at each of the above project stages will be subdivided into the following sub-categories:
+Technical – covering aspects such as asset efficiency, durability and achievement of specifications
+Legal - covering aspects related to changes in laws or compliance with existing laws and regulations
+Commercial - covering aspects related to input prices, general availability of inputs as well as insurability of risks
+Financial/monetary – covering aspects related to the impact of changes in key financial variables such as inflation, interest rate and exchange rate, public financing shortfall, private financing shortfall, debt default, remuneration
+Political/social - covering aspects related to social unrest, civil unrest, industrial strikes, terrorism, etc.
+Environmental - covering aspects related to the environmental issues that could be faced by the project.
+As for the probability of occurrence and the rank, it is the probability that a risk occurs and is described as a percentage and a descriptive rank.
+The financial impact of a risk (share of the risk borne by the public sector) is assessed according to three scenarios: Maximum, Medium and Minimum impact scenario, reflecting cost impact as a result of the risk occurrence.
+
+Cost, revenue and economic assumptions
+Besides the initial design, three additional design scenarios have been requested by the MITC for the office complex.
+According to the initial base design, the building will be built on 11 floors, as well as a basement (~3 690 m2) and a ground floor (~1’228 m2). The area of the total building is estimated at 16 365 square meters, of which 9 940 square meters are allocated to lettable and the MITC useable areas. The overall construction cost for this scenario is estimated at MK 37 047 288 000, which is equivalent to US$ 36 003 195 in November 2022 exchange rates.
+The following table summarises the features and costs of the three additional design propositions.
+
+Life cycle cost calculations are based on estimated cash-flows, discount rates and time horizons. Clearly these estimates cannot be known with certainty and hence risk is present. A facility exists within the model to carry out a simple sensitivity analysis to indicate those areas within the exercise, such as project time horizon, discount rate, etc., where the decision maker must ensure that data and information are both reliable and accurate.
+The summary of the OPEX assumptions for the first year of operation (2022 prices) is presented in the following table.
+The revenue for the Property will be generated from two sources: letting out the office space and car parking slots:
+Office Space - The Property will have a total of 9 940 square metres for the base design scenario which will be available for letting as office space.
+Car Parking – The property will have 233 car parking slots (for all the design scenarios), and these will be paid for separately by tenants in the building.
+Rental charges for each of these areas are assumed based on two scenarios:
+The first by prevailing market rates in Lilongwe City Centre as follows:
+Office Space will be charged at MK 26 250 per square metre per month.
+Car Parking Slots will be charged at MK 61 250 per parking slot per month. City assemblies are currently charging MK 33 600 per month for parking slots along street roads.
+The second is based on a higher revenue scenario, resulting in higher rental charges as follows:
+Office Space will be charged at MK 59 278 per square metre per month.
+Car Parking Slots will be charged at MK 61 250 per parking slot per month.
+This second scenario has been considered for the aim of increasing the profitability and the bankability of the project, which suffers from high and disproportionate development costs and debt service in comparison with the annual revenues generated from the operation of the building. However, this scenario has been rejected by the procurement authority, leaving only a scenario based on market rental fees.
+We have assumed the following occupancy rates for office space and carparking area during the first three years and thereafter:
+
+
+The annual revenue for a market-rate profile is presented in the following table.
+
+The summary of the non-recoverable OPEX assumptions for a market-rate scenario (2022 prices) be supported by the private partner is presented in the following table.
+
+The retained financial and macro-economic parameters for the project period are as follows:
+Annual inflation: 15%;
+10-Year Bond/Treasury Note Yield: 28.50% per year;
+Interest Rate: 17.30% per year;
+Reference exchange rate for cost calculations: 1029 MK/ $ (November 2022);
+Annual depreciation rate of the value of the Kwacha: 10.6% (in converting all foreign currency capital and operating expenditure items);
+Annual GDP growth: 4.0% during the project forecast period;
+Annual population growth rate: 2.80% during the forecast period
+VAT Rate: 16.5%
+Corporate income rate: 30%.
+
+PPP Options
+A preliminary comparison between the different PPP options allowed by the PPP legal framework in Malawi has taken place in the Needs/Options Analysis Report through a multi-criteria assessment based on several criteria which should also be aligned with the objectives of the Malawian authorities.
+After discussions at the workshop held in Lilongwe on August 2nd, 2022 with MITC, it was agreed and resolved that the PPP options preferred for further scrutiny are Types 3 (Concession), Type 4 (BOT, BOOT) and 6 (Institutional PPP).
+Based on the client’s recommendations, the qualitative comparison, the outcomes of the benchmark study and project specific features, we recommend the following PPP delivery model for the implementation the Office Building:
+Model 1: implementing the project through a DBFOT (Design-Build-Finance-Operate-Transfer) contract, where the private partner is responsible for the finance, design, construction under a turnkey risk basis, operating and maintenance of the project for a specified period, after which the project facilities are transferred to the Contracting Authority (MITC) without payment of any compensation. In this model, the Private Party collects tariffs or fees (rentals) directly from the users of the different components of the office complex (lettable offices and car slots), as specified in the PPP agreement, to recover its investment and operating and maintenance expenses for the project.
+As for the Public-Sector Comparator (PSC) option (base case option), it is stated as follows:
+Model 2: implementing the project through:
+A Design-Build (DB) contract, also known as an EPC “Engineering, Procurement and Construction” contract, for which the MITC delegates to a private operator (ex: a construction company) the design and construction of the Office Building under public funding, which is then delivered “turnkey” to the public authority, according to a schedule and at a firm price.
+An Operation & Maintenance (O&M) or Management contract, in which the MITC entrusts a private company with the operation and maintenance of the existing building (which was just constructed) in exchange for a remuneration from the Public Authority on the basis of a fixed or variable sum, generally depending on the achievement of performance objectives or a certain quality of service.
+
+Results of the financial models and Value for Money
+The financial modelling of a PPP project aims to test the bankability of the project, i.e. its ability to attract private financing with its two components: debt and equity. This financing resources could be completed by a possible contribution of the State in the investment cost financing through subsidies or donor grants e.g. green economy funding.
+The following general assumptions were used in the model:
+Duration of the PPP contract: 25 years
+Duration of construction period: 2 years
+Construction profile per year:
+Average amortization period: 23 years
+The following financial structure assumptions were used in the model:
+Equity: 40% of total debt and equity
+Debt: 60% of total debt and equity
+Debt maturity: 23 years
+Interest rate (private sector): 18%
+Interest rate (public sector): 28%
+Grace period: 2 years
+Reimbursement method: constant P+I
+We have considered two options: one without public subsidy and the other with public subsidy. For the latter, we have tested several levels of subsidisation. For each test, the model calculates the IRR achieved. If we get an IRR above 15% then we calculate the ADSCR (Average Debt Service Coverage Ratio), if the ADSCR is below 1.2 then we increase the subsidy percentage until we get an ADSCR close to 1.2.
+We have only considered market rents.
+We have assumed that the private partner will not pay any royalty (or concession) fee to the public partner.
+This combination of different options has resulted in the following 3 scenarios as requested by the MITC and PPPCU following the submission of the draft feasibility and meeting dated 16th of April 2023:
+Scenario 0: DBFOT without subsidy, VAT inclusive, with a lower inflation during construction (12%), with Market Rents and with no change in the design: This scenario results in a low equity IRR (1.26%) and a low ADSCR (0.67 for which there’s a debt default), which means that implementing the project through this scenario does not attract private investors and does not allow to pay the annual debt service.
+Scenario 1: DBFOT without subsidy, VAT exclusive, with Market Rents and with no change in the design: This scenario results in a low equity IRR (1.32%) and a low ADSCR (0.68 for which there’s a debt default), which means that implementing the project through this scenario does not attract private investors and does not allow to pay the annual debt service.
+Scenario 2: DBFOT without subsidy, VAT exclusive, with Market Rents and with a revised design (8 floors): In this scenario, the project presents an equity IRR of 1.93% and an ADSCR of 0.72 (for which there’s a debt default which means that implementing the project through this scenario does not attract private investors and does not allow to pay the annual debt service.
+Scenario 3: DBFOT with subsidy, VAT inclusive, with Market Rents and with no change in the design: This scenario results in subsidies amounting to 60% of the CAPEX. In this case, Equity IRR is 14.42% and Minimum ADSC is 1.70 which is attractive to the private sector.
+Scenario 4: DBFOT-Revised Design (4 floors) with subsidy-VAT Included: This scenario results in subsidies amounting to 63.7% of the CAPEX. In this case, Equity IRR is 17.07% and Minimum ADSC is 1.93 which is attractive to the private sector. Without a public subsidy, the Equity IRR would be at 0.93% and Minimum ADSC at 0.65, which means that the project will not attract private investors and will not allow to pay the annual debt service.
+Scenario 5: DBFOT-Revised Design (6 floors) with-subsidy-VAT Included: This scenario results in subsidies amounting to 61.4% of the CAPEX. In this case, Equity IRR is 17.21% and Minimum ADSC is 1.93 which is attractive to the private sector. Without a public subsidy, the Equity IRR would be at 1.59% and Minimum ADSC at 0.70, which means that the project will not attract private investors and will not allow to pay the annual debt service.
+Scenario 6: DBFOT-Revised Design (6 floors) with-subsidy-VAT Included: This scenario assumes (following the recommendation of the MITC) subsidies amounting to 40% of the CAPEX. In this case, Equity IRR is 7.68% and Minimum ADSC is 1.16 which will not attract the private sector. In order to enhance the Equity IRR to 17%, we suggest an exoneration from the corporation tax during the entire contract period which results is an increased Equity IRR at 10.63%.
+Scenario 7: DBFOT-Revised Design (6 floors) with-subsidy-VAT Included-No Corporate Tax: This scenario assumes subsidies amounting to 40% of the CAPEX but with no corporate tax. In this case, Equity IRR is 10.63% and Minimum ADSC is 1.16 which is better than Scenario 6 but is still on the low range for acceptable IRRs.
+These different PPP scenarios are compared to four Public-Sector Comparator scenarios, namely:
+PSC 1: Public Sector Comparator (EPC+OM) at Market Rents with no change in the design: In this scenario, the financing of the cost of construction is done through public loan which generates capitalised interests of MK 10 349 038 thousand. The total cost of the project at the end of the construction period stands at MK 63 018 704 thousand, financed entirely by public debt.
+PSC 2: Public Sector Comparator (EPC+OM) at Market Rents with a revised design (8 floors): In this scenario, the financing of the cost of construction is done through public loan which generates capitalised interests of MK 7 771 560 thousand. The total cost of the project at the end of the construction period stands at MK 47 323 588 thousand, financed entirely by public debt.
+PSC 3: Public Sector Comparator 3 (EPC+OM) with the Revised Design (4 floors): In this scenario, the financing of the cost of construction is done through public loan which generates capitalised interests of MK 5 176 184 thousand. The total cost of the project at the end of the construction period stands at MK 26 123 328 thousand, financed entirely by public debt.
+PSC 4: Public Sector Comparator 4 (EPC+OM) with the Revised Design (6 floors): In this scenario, the financing of the cost of construction is done through public loan which generates capitalised interests of MK 6 208 402 thousand. The total cost of the project at the end of the construction period stands at MK 34 244 887 thousand, financed entirely by public debt.
+The Value for money (hereafter “VfM”) analysis consists in carrying out an assessment of the overall cost of the project, taking into account the value of the inherent risks, depending on whether the project is carried out under a public contract or a PPP. This analysis can only be done for the realistic scenarios, i.e., those that are able to attract the private sector, in this case scenarios 3, 4 and 5.
+The analysis and comparison of the financial profitability of the different options is ultimately measured by means of the VfM.
+In order to assess the VfM of each Scenario, we use the results of the financial model which adopts the point of view of the MITC and the private partner by estimating, for each option, the overall cost of the project for the public sector over the project period.
+This cost is then risk-adjusted, where the cost of risks borne by the public sector (and which have not been transferred to the private partner) is added.
+The Value for Money is a percentage which indicates, in absolute terms, the increase in value offered by the PPP option compared to the Public Sector Comparator.
+To quantitatively assess the VfM, the financial model estimates the cost to the public authority for each scenario. The project costs, which are borne by the project company during the term of the contract, are risk-adjusted and then compared in terms of NPV (Net Present Value) to the costs of the risk-adjusted Public Sector Comparator.
+For the Scenario 3 (DBFOT-Initial Design 10 floors-with subsidy-VAT Included, and for which the applicable PSC scenario is PSC 1, the different total costs of the project for the public sector, adjusted to the risk for the different retained scenarios are broken down as follows:
+The Value for Money is positive (MK 4 048 699 thousand) for Scenario 3, this means that this PPP option is less expensive than the Public Sector Comparator. This is partly explained by the estimated value of the risks retained by the public authority, which is lower for the PPP option compared to the Public Sector Comparator (where the public authority bears all the risks of the project). It therefore appears that carrying out the project as a PPP makes it possible to reduce the cost for the State by 11.9% for Sc.3. The private partner's income during the operating period is generated by the rents paid by the tenants and the MITC, as well as the car slots rentals. These revenues are used to pay the operating-maintenance expenses (OPEX), debt service, corporate taxes (Corporate Tax) and dividends.
+The private partner's revenues stop from 2049 because it is the last year of the PPP (We have assumed a duration of the PPP of 25 years starting from 2024). The revenues of the State in the PPP options are mainly taxes generated from the operation of the project.
+As for the Scenario 4-DBFOT-Revised design (4 floors)-with subs.-VAT Inc., the results of the VfM analysis are as follows:
+The Value for Money is negative (MK - 1 974 485  thousand) for this scenario, this means that this PPP option is more expensive than the public sector procurement (Public Sector Comparator). This is explained by the fact that 4 floors do not allow an economy of scale that absorbs the risks that are still borne by the public authority. In other words, the reduction in the number of floors reduces the risks as compared to the previous scenarios but less quickly than the reduction in the NPV of other costs. The reduction in the number of floors reduces the risk advantage of the PPP as opposed to PSC. It therefore appears that carrying out the project as a PPP increases the cost as opposed to the Public Sector by 13.4 % for the Scenario 4-DBFOT-Revised design (4 floors)-with subs.-VAT Inc.
+As for the Scenario 5-DBFOT- Revised design (6 floors)-with subs.-VAT Inc., the results of the VfM analysis are as follows:
+The Value for Money is negative (MK - 1 040 216   thousand) for this scenario, this means that this PPP option is more expensive than the public sector procurement (Public Sector Comparator). The same explanation applies as for the previous scenario but to  a lesser extent as there are two more floors (6 instead of 4). It therefore appears that carrying out the project as a PPP increases the cost for the Public Sector by 5.7% for the Scenario 5-DBFOT- Revised design (6 floors)-with subs.-VAT Inc.
+As for the Scenario 6 (DBFOT- Revised design (6 floors)-with subs.-VAT Inc. and subsidies at 40%, and for which the applicable PSC scenario is also PSC 4, the different total costs of the project for the public sector, adjusted to the risk for the different retained scenarios are broken down as follows:
+The Value for Money is positive (MK 5 636 716 thousand) for Scenario 6, this means that this PPP option is less expensive than the Public Sector Comparator. This “improved” Value for Money as opposed to Scenario 3 is mainly explained by the fact that Scenario 6’s PSC generates less revenue to the Procuring Authority which increases it’s gap with the PPP scenario. It therefore appears that carrying out the project as a PPP makes it possible to reduce the cost for the State by 31.2% for Sc.6. The private partner's income during the operating period is generated by the rents paid by the tenants and the MITC, as well as the car slots rentals. These revenues are used to pay the operating-maintenance expenses (OPEX), debt service, corporate taxes (Corporate Tax) and dividends. This high Value for Money should be tempered by the fact that the Equity IRR for Scenario 6 is only 7.78% which is not sufficiently attractive for the private sector.
+Scenario 7 (DBFOT- Revised design (6 floors)-with subs.-VAT Inc., subsidies at 40% and no Corporate Tax, is a variation of Scenario 6 that is meant to provide an attractive alternative to the private sector. The different total costs of the project for the public sector, adjusted to the risk for the different retained scenarios are broken down as follows:
+The Value for Money is positive (MK 3 147 378 thousand) for Scenario 7, this means that this PPP option is still less expensive than the Public Sector Comparator. The lower Value for Money when compared to Scenario 6 is due to the absence of Corporate Tax in this scenario (and subsequent revenue to the State). Carrying out the project as a PPP makes it possible to reduce the cost for the State by 17.4% for Sc.7. The Equity IRR for Scenario 7 is 10.68% which is still on the low side and may require some additional support from the State (i.e., slightly more subsidies) depending on the competition amongst the private candidates.
+We conclude that the Scenario 7: DBFOT-Initial Design (6 floors)-with subsidy at 40%-VAT Included and exoneration from Corporate Tax is the option that could present the highest Value for Money for the public sector with 17.4% ensuring bankability for the private sector and affordability for the State.
+The qualitative assessment of the VfM includes the review of the efficiencies that the SPV can provide, the existence of a competitive market, the possibility of risk transfer to the developer/investor and whether such risk transfer will be achieved within the life of the project. The qualitative VfM analysis answered a series of questions about the proposed project in relation to Viability, Desirability and Achievability.
+
+
+Sensitivity analysis
+A sensitivity analysis has been applied to the financial model for scenario 3 in order to assess its resilience to changes in assumptions and risk components over the Project term. Sensitivity tests were carried out by the Consultant on the main parameters taken individually in order to judge the financial robustness of the proposed financial package. For each sensitivity, these results make it possible to measure the impact of the deviation of a variable on the main model outputs, such the equity IRR, the minimum ADSCR, costs and revenues, public sector NPV and the Value for Money.
+The sensitivity analysis allowed to obtain the following observations on the project resilience to changes:
+An increase in the contract period to 30 years instead of 25 resulted in an improvement in the NPV of the public sector. However, the Value for Money (VfM) becomes negative at -12.5% as the private sector’s NPV is almost unchanged. The equity IRR increased by almost 1% at 15.31%. The project IRR doubles at 2.41% and the minimum ADSCR remains almost stable. 
+If the construction period increases by 1 year, this will cause an amelioration of the NPV of the public sector as the grants are paid later, the Value for Money becomes negative at 21.1% and the project and equity IRR deteriorate at respectively 0.66% and 12.76%.
+An increase in the construction costs by 10% will deteriorate the profitability of the project at 12.45%. The Value for Money slightly enhances at 20.4%.
+When the public subsidy increases by 15% of the construction costs, the equity IRR and the minimum ADSCR will jump respectively to 26.79% and 2.72. As for the public sector, this will result in a negative value for money at -3.7%.
+The increase in the inflation rate by 5 points (20%) improved the Equity IRR (15.96%) and the minimum ADSCR (1.81) for the project company, and its operation revenue NPV will more than double. This has an adverse effect on the Value for Money that decreased at 6.7%. On the contrary, a decrease in the inflation rate by 5 points (10%) will not profit the project company nor the public sector but will enhance the Value for Money at 23.9%.
+If the project experiences an increase in the operating costs by 10% during its whole life, this will slightly unbalance the project equilibrium (equity IRR= 13.95%) but will slightly enhance the Value for Money. However, the private debt is still paid with minimum ADSCR almost not affected (1.66). On the other hand, when the OPEX go down by 10%, this will also slightly benefit the project company but will slightly decrease the Value for Money. We conclude that the weight of the operating costs is negligeable comparing to the impact of the investment costs on the project parameters, which are considered very important and hard to cover through the operating revenues generated by the project.
+Finally, a further increase in the rental fees by 10% will improve the project and the equity IRRs (2.09% and 16.81% respectively) and will result in a decrease in the VfM for the public sector (circa 11.8%). This should be carefully considered as higher rental fees could induce an escape rate from the users. However, a decrease by 10% in the rental fees will result in lower equity IRR and minimum ADSCR (11.97% and 1.51 respectively). The VfM is positively affected in this scenario, which confirms that high-rental fees should be maintained to ensure the project feasibility through PPP. The private partner should make a high marketing effort to maintain the forecasted occupancy rate at its highest level. He should also ensure high standards for the building to attract tenants and keep them in the long term, and this should be embedded in the evaluation criteria.
+
+Recommendations
+Although suggesting several revised designs for the office building with less floors in the aim of reducing the investment costs, the project did not show major improvements in terms of investors’ profitability (Equity IRR) and project debt payment ability (Minimum ADSCR). With rental levels following the market rates, we conclude that a minimum public subsidy (around 60% for the different design scenarios) is necessary to guarantee the project feasibility through public-private partnership.
+Based on the specifics of the project and the results of the financial model, we recommend the implementation of the project according to the Scenario 7: DBFOT, Revised design (6 floors), with subsidy representing 40% of the CAPEX, VAT Included and with an exoneration of Corporate Tax, with a single contract signed between MITC and a private partner for a duration of 25 years.
+This scenario results in the least budgetary impact for the public sector among the other scenarios, with a total public debt of MK 17 302 955 thousand at the end of the construction period, which will serve for the financing of the subsidy to the private sector entity (63.66% of the total investment cost at the end of the construction period). This scenario also presents a positive Value for Money for the public sector (25.6%) comparing to the public procurement option.
+Due to the relatively small size of the project and the features of such real-estate projects, it was recommended in the Needs and Options Analysis Report to consider the realization of the whole project through a single PPP contract (for one private contractor) with various aspects handled by sub-contractors.
+It is recommended to move on, as soon as possible, to the procurement stage with a focus on the following steps:
+Carrying out a legal due diligence (during the preparation of the business consultation file) to optimize contractual arrangements with the private sector (operator/private operator).
+Developing a transaction plan based on the selected PPP model;
+Starting the preparation of the project PPP tender documents.
+Undertaking the project under a PPP model has several advantages compared to traditional public procurement, it allows to:
+Reduce the overall cost (design, construction and operation) of the project; the comparison of the selected PPP option (Scenario 7) with the public procurement option shows that the PPP option is less expensive than the public procurement (Value for Money = MK 3 147 378 thousand);
+Have a single entity responsible for the design, construction and operation;
+Mobilize private financing for the realization of works related to the construction of the MITC Office Building.
+Mobilizing private financing through lenders requires structuring a bankable project. This is conditional on substantial support from the Public Sector in order to guarantee the mobilization of the financial resources necessary for the payment of rents.
+
+Introduction
+The objective of the current project is to construct an Office Complex to accommodate the Malawi Investment and Trade Center (MITC) as well as lettable spaces for offices and retail. This building will enable the MITC to enhance its quality of service as a One-Stop Service Centre for business and start-ups. As a transaction advisor, Unshackle Africa JV (the Consultant) has been selected by the Malawi Investment and Trade Center (MITC) and the Public-Private Partnership Commission (PPPC) to assist in the development and implementation of the assignment through:
+Assessing the technical, legal, financial and environmental feasibility of development and implementing the Office Complex under a PPP framework;
+Supporting MITC in identifying the private partner to design, finance, construct, operate and transfer the infrastructure.
+The previous deliverables provided by the Consultant consisted of:
+An Inception Report, which described the planning that the Consultant has established for studies, staffing and other relevant remarks, summarized the initial conclusions and provided defined proposals for the methodologies of the technical, socio-economic, financial and environmental feasibility studies for the recruitment of a partner for the completion of the works through a PPP scheme.
+A Needs and Options Analysis Report, which defined the most appropriate PPP procurement strategies and shortlisted transaction structures to be taken into consideration according to the vision and priorities of the MITC, the PPPC and the Malawian public authorities.
+A Scheme/Concept Design Report, which responded to MITC’s requirements as established in the Needs and Options Analysis Report and provided a scheme design for an iconic 12-floors ‘green’ building with 9 940 square metres of lettable office and retail space. This deliverable formed the basis for determining the cost of the proposed development, which will be used in the feasibility and viability analysis of the project.
+The aim of this report is to provide a comprehensive Feasibility Study, which investigates the preferred identified implementation options and finalizes transaction structure. The Feasibility Study should enable the PPPC to determine the project parameters such as project cycle costs, affordability, service levels, risks and their costs and investment results.
+The feasibility study is inclusive of:
+An international benchmark study for similar office building PPP projects;
+A Technical, Environmental, Legal and Regulatory assessment of the project;
+A comprehensive assessment of all the risks encountered by the project during its lifecycle;
+A Financial assessment and Modelling of the project reflecting optimal design parameters;
+A Value for Money (VFM) and Affordability analysis; and
+Payment mechanisms and MITC potential share of profit.
+The Feasibility will demonstrate affordability for the full project life cycle and propose the optimal solution for the MITC to achieve its desired outcomes, by considering the constraints and concerns of all the key stakeholders involved.
+
+Benchmark study for similar office building PPP projects
+The main objective of the benchmark study is to identify performance gaps and opportunities for improving the efficiency and effectiveness of the construction of the office complex for Malawi Investment and Trade Center by prospecting similar projects, and to understand the business models used for their economic developments.
+In this section, we will present an international benchmark study of relevant similar PPP projects for office buildings, namely:
+ICT Parks’ project in Egypt;
+Kuwait Post Office Project; and
+The Balard Hexagon project in France.
+This benchmark study is based on documentary research as well as the consultant's experience in advising clients on different modes of PPP procurement for similar projects around the world.
+
+ICT Parks PPP Project, Egypt
+Project Presentation
+The Ministry of Communications and Information Technology (MCIT) has dedicated 188 000 m² of land in Al Maadi to build an information and communications technology (ICT) cluster known as the CCC Park and was inaugurated in June 2010 by the General Authority for Investment (“GAFI”), the MoF and Cairo Governorate. Currently the Project has a total of 11 buildings, three of which are rented out to four multinational and local companies and are fully operational. Five buildings were inaugurated in June 2013.
+To achieve the MCIT’s industry growth target, it plans to develop an additional 106 000m² of core and shell space. In order to attract ICT sector business into the park, the CCC Park planned to offer Grade "A" office space, built to international standards at remarkably affordable rents of US$ 11-16/ square meter/ month.
+The CCC Park was established to provide a-state-of-the-art telecommunications infrastructure to emphasize Egypt as an ICT leader in the region, and one of the best outsourcing destinations in the world. It aims at mounting the exports of the Egyptian ICT services through national and international companies specialized in IT and outsourcing services. It was expected that the Park will host 40 thousand direct jobs in the next few years.
+The Government kept encouraging foreign investors to come and construct their own buildings for outsourcing and offshoring to bet benefit from the modern infrastructure at the park providing cost effective ICT facilities using international standards of infrastructure.
+
+Source: Minister of Communications and Information Technology
+Project Structuration
+The PPP aimed to finance, design, construct, furnish, operate and maintain administration buildings for usage or renting to the tenants working in the field of ICT specifically outsourcing and innovation on specific land lots located in Al Maadi Technology Park under a usufruct basis for a certain period.
+Assets and buildings ownership shall be transferred back to the Ministry of Communications and Information Technology in good operational condition at the end of the contract duration as per stipulated in the contract. The following figure summarizes the forecasted structure of the PPP project.
+
+Source: Author
+The ICT Parks project was undertaken as a concession PPP. Within the concession, the private party is fully responsible of designing, building, financing, operating and maintaining the park, but also for bringing tenants to occupy the building and then share the revenue with the government.
+As of today, three parks have been constructed and are fully operating; the first one is located in the City of the 6th of October, the second one in Al Maadi and the third one is in the East of Cairo.
+The first park located in the 6th of October city (called the Smart Village) is considered to be the most successful project, hosting big multinational companies such as Vodafone, Dell, Xceed, etc, and managed by the Smart Villages Development and Management Company (SVC), a company established in November 2011 under the Public-Private-Partnership (PPP) investment law, developing and managing a branded chain of technology clusters and business parks.
+
+Post office PPP Project, Kuwait
+Project presentation
+The Partnerships Technical Bureau (“PTB”) has engaged a consortium of advisors to assist in procuring the services of a qualified and experienced investor or private sector operator (the “PSO”) who will develop and operate the Public Post Office (“PPO”) in the State of Kuwait.
+
+Source: Kuwait Post Office project’s Technical Advisor
+The Kuwait Post Project will provide the backbone for a major improvement to postal services in Kuwait. The proposed restructuring of the PPO will play a significant role in meeting the strategic and operational objectives of public postal services for Kuwait by revamping the entity’s existing product offering and improving operational efficiency and service quality. One of the Project’s initial challenges will be to restore consumer confidence in the current underperforming public sector entity; this will be to improve the financial performance of the PPO going forward.
+Project structuration
+Corporatization of the PPO by setting up a new PPO Project Company, which would be a closed shareholding company owned by the Government of Kuwait. All assets, employees, rights, and responsibilities would be transferred into the new PPO Project Company, and this would be the new organisation for delivering postal services in Kuwait.
+The new PPO Project Company would enter into a PPP agreement with a (PSO) to provide Operations and Management (O&M) services to the new PPO Project Company.
+The ROT contract model was the most appropriate to improve performance and property management and refurbishment of the retail postal network.
+Once the PSO has been appointed, it will establish a special purpose vehicle for the Project.
+The PSO Company will be incorporated by the PSO as a limited liability company or a closed Kuwaiti shareholding company.
+Unfortunately, the project stopped at phase II (feasibility study) and the Partnerships Technical Bureau never went through with the project. 
+The Balard Hexagon Building Project, France
+Project presentation
+Historically, the Ministry of Defence was dispersed among several sites, in Paris and its suburbs (Îlot Saint-Germain, Hôtel de la Marine, Balard, Bagneux, Saint-Thomas d'Aquin, etc.).
+To optimize the operation of the central administration and rationalize its land resources, the Ministry of Defense approved in December 2007 the proposal to bring together on a single site in Balard, its central administration, the staffs, directorates and services as well as the operational centers of the armies.
+The Balard project is carried out under a public-private partnership (PPP) contract, integrating the architectural and technical design, the construction or renovation of buildings, their upkeep and maintenance. The contract also includes the construction and maintenance of computer and telephone networks.
+The project is now complete. The public administration has completely moved in since September 2015. The building was officially inaugurated on November 5, 2015.
+At the end of the contract, in 2041, the buildings of the entire site will be the property of the Ministry.
+
+Source: https://archicree.com/wp-content/
+Project structuration
+An SPV called “Opale Défense” (Group of signatory companies composed of Bouygues Construction, Bouygues Energie & Services, Thales Communication, Sodexo and FIDEPPP) was created to fund, design, build, operate and maintain (DBFOM) the project and sign a PPP contract with The Ministry of Defence.
+The announced investment for carrying out the project is 3.5 billion euros excluding tax. The financing, carried by a group of companies dedicated to carrying out the project (Opale Défense), consists of:
+a contribution of equity and bank loans of approximately 785 million euros
+the payment of land rights for the occupation of the western horn for 30 years (approximately 220 million euros)
+direct payments from the ministry to finance the last instalment of work on the East plot, between 2014 and 2016 (approximately 75 million euros).
+The average annual fee paid by the Ministry to Opale Défense will amount to 130 million euros excluding tax for 27 years, from the provision of the buildings (154 million euros including tax). It includes the amortization of the investment (35%) as well as the payments of other services:
+supply and maintenance of information and communication systems for 5 years
+the services provided for in the contract (catering in particular)
+the costs of maintenance and renovation of the works
+energy supply
+supply and maintenance of furniture for 10 years.
+
+
+Summary of the benchmark study, lessons learned and main recommendations
+Local Urban Bodies/ Cities have been adopting the PPP model in various infrastructure projects to achieve one or more than one the following objectives:
+Augmenting Funds
+Superior Project Delivery
+Improve Efficiencies & Competitive Environment.
+In most real estate and office buildings infrastructure projects, the PPP models used are the DBFOM, BOT and ROT models. The revenue stream in most cases comes from user payments (leasing fees, commercial activities, etc.) with a support from the government in the form of grants when needed. In other few cases (ex: the Balard hexagon project), the private party was receiving payments from the government for designing, building, financing, operating, and maintaining the project (government-pay model).
+There is no doubt that these projects have faced difficulties, delays, performance gaps and in extreme cases project cancellation (ex: Kuwait Post Office Project). To avoid such problems going forward with the MITC Office Complex Project, a number of recommendations should be taken into consideration.
+First, minimizing future deviations from financial, economic, and social projections with respect to project outcomes at the initial preparation stages is a key success factor. There must also be a safe and stable return on investment (ROI) model in place – one that is fair to both private and public partners.
+Under the PPP model where projects are financed with user fees, almost all financial risk is transferred to the private-sector partner. This model works as long as user projections are accurate, however, it is not always possible to accurately predict demand. If usage projections are inaccurate, financial stress results quickly. Although public entities may suffer very little financial loss when calculations are incorrect, a governmental organization suffers in other ways if its partner is forced to find workaround strategies because user projections turn out to be wrong.
+The government should also consider that similar projects make it hard to find contractors willing to take on any demand risk. For these reasons, it is preferable, in the event of sufficient financial resources, that the MITC office complex project is structured around availability payments. That means that once a project is completed and all specifications have been met, the public entity accepts the project and begins a payback model based on availability.
+
+
+Technical and environmental assessment of the project
+Assessment of technical issues
+One of the options that could be explored is to restrict the development to the plot which has been leased to MITC which would mean that the car-parking designed for land outside the leased plot would be left out. To compensate for the 105 car-parking spaces that would be lost, the option would be to create at least two additional basement floor parking.
+With the reported existence of an underground river on the site, the additional car-parking basement floors would require waterproofing treatment as well as enhanced ventilation apart from the provision of passenger lifts that cover the two additional floor stops. The cost implications of providing the additional basement car parking floors is considered to be higher than providing the same number of car-parking spaces over ground.
+Another option that could have been explored is to adhere to the size of building that MITC requested in the Needs and Options Report which was 12 500 m2 instead of the 9 940 m2 of lettable space that was actually provided. This left a deficit of 2 560 m2 equivalent to just over three (3) additional floors and this would in turn make the building a sixteen (16) floor development.
+With the increased amount of lettable space there would be a number of parameters which would also increase such as increased number of car-parking spaces required, size of passenger lifts in terms of the number of stops, and associated costs.
+The result of the above options would of necessity lead to an increase in the scope of works whilst costing more and would most likely also take longer to construct. This in turn would mean MITC would be forced to occupy their building later than the period estimated with the current size.
+Assessment of the environmental and social impacts
+The legal and regulatory framework governing the conduct of environmental and social impact assessment include the Environment Management Act No. 19 of 2017, the 1992 Rio Declaration on Environment and Development to which Malawi is a signatory and the Guidelines for Environmental Impact Assessment in Malawi. An environmental and social impact assessment involves the systemic evaluation of a project to determine its impact on the physical, ecological environmental and the conservation of natural resources on the social and socio-economic fabric of a particular community and any social change process that may be associated with a project. Consequently, a project is to be planned, designed and implemented in a manner that minimizes adverse impact on the biophysical and socio-economic environment.
+Section 31 of the Environment Management Act provides that the Minister may specify the type and size of the project which shall not be implemented unless an environmental and social impact assessment is carried out. The Guidelines for Environmental Impact Assessment contain a list of infrastructure and land development projects that are subject to assessment and office or compound building complexes are not listed. If a project is exempt, the Director of Environmental Affairs issues a certificate and advises a developer and relevant licensing authority of the exemption and any recommendations made.
+In the implementation of the infrastructure project between MITC and a private party, an exemption certificate will need to be obtained.
+Legal and regulatory assessment of the project
+Introduction
+The Feasibility Study aims to ensure that the most appropriate legal solutions are identified at an early stage by mapping and programming the procurement timetable by reference to applicable legislation and testing the commercial principles against their deliverability in a legal and regulatory context.
+This Feasibility Study will conduct a preliminary review of the current legal and regulatory framework in Malawi order to assess:
+Preparedness of the enabling environment for the Project – covering assessment of the current status of reforms in Malawi;
+Raising any legal issues in relation to the project;
+Legislative constraints and drawbacks and
+Principal approvals and permits to be obtained.
+The legal assessment of the project aims to:
+Identify potential legal and regulatory compliance issues and risks, including any real estate issue;
+Develop the preliminary contractual framework for the Project;
+Provide advice on procurement strategy and project management generally, particularly as regards the implementation of the legal and contractual requirements of a major infrastructure project.
+The legal, regulatory and policy framework in Malawi
+The legal, regulatory and policy framework for the project comprises the Republic of Malawi Constitution of 1994 as well as various legislations that cover public private partnerships, infrastructure development permits, real estate issues, foreign direct investments, controls on foreign exchange transactions, dividend repatriation and requirement for environmental and social impact assessments.
+The legal framework for PPP in Malawi consists of the Public-Private Partnership Act (the “PPP Act”) No. 23 of 2022 which provides :
+for partnerships between the public sector and private sector for the supply of infrastructure and delivery of services as means of contributing towards sustaining economic growth, social development and infrastructure development;
+for the development and implementation of public private partnership arrangements in Malawi for the delivery of infrastructure and services; to provide for the establishment of the Public-Private Partnership Commission;
+for privatisation of state owned enterprises, commercial entities and commercial assets; and
+ to provide for matters connected with or incidental to the foregoing.
+The PPP Act facilitate the development and implementation of public-private partnership arrangements for purposes of efficient delivery of infrastructure and services in order to achieve sustainable economic growth and social development, therefore it can be perfectly adapted to the Project. 
+The PPP Act No. 23 of 2022 enacted into law by Parliament on the 5th of April 2022 and is now operational. The overall objective of the new law is to promote expedited and efficient implementation of PPP arrangements. The PPP Law provides for the possibility to structure the Project through: 
+a Special Purpose Vehicle (SPV) incorporated under the Companies Act specifically for this purpose or;
+a Joint Venture agreement (JV) between the Contracting Authority and the private Partner, provided that the Joint Venture provisions may be incorporated into the public-private partnership agreement.
+The shareholders of the Special Purpose Vehicle shall be the Minister responsible for Finance and the private Partner and the two must enter into a Shareholders agreement the terms of which must be as prescribed by the Minister.
+The PPP framework in Malawi also compromises the Public-Private Partnership Policy Framework, approved by Cabinet on 18 May 2011, setting out the policy framework for initiating, designing and implementation of PPPs in Malawi.
+The legal status of Malawi Investment and Trade Centre as a Contracting Party
+The Malawi Investment and Trade Centre (MITC) is incorporated, under the Companies Act, as a company limited by shares since the 2 of December 2010. Directors of MITC are the Secretary of Industry and Trade, Secretary to the Treasury and the Secretary for Public Sector Reforms Management. The shareholders of MITC are the Secretary of Industry and Trade and Secretary to the Treasury. MITC is a state-owned enterprise pursuant to the Companies Act No. 15 of 2013 and the Public Private Partnership Act No. 23 of 2022. Section 26 of the Companies Act provides that a company is classified as state owned if it is controlled by the Government and further, section 2 of the Public Private Partnership Act provides that a state-owned enterprise is a company in which the Government has a direct or indirect ownership and interest.  For the purposes of contracting under public-private partnership, section 2 of the PPP Act provides that a contracting authority shall include a state-owned enterprise and the state-owned enterprise shall have the power to enter into a PPP contract with private parties in accordance with 28(d) of the PPP Act. It is therefore concluded that MITC has the power to enter into a PPP Contract as a state-owned enterprise. The Directions of MITC will have the power to execute the contracts as provided for under section 74 of the Articles of Association Of MITC.
+On a practical level, there is need for MITC to re-register the company in the current Malawi Business Registration System as directed by the Registrar of Companies so that Annual Returns and other compliance requirements are complied with. 
+In terms of the operational framework, MITC was incorporated to take over the mandate of the Malawi Investment Promotion Agency (MIPA) and the Export Promotion Council which are statutory bodies created under the Investment Promotion Act (IPA)  and the Export Promotion Act (EPA)  respectively. The Government intended to give MITC statutory powers as a statutory corporation through the enactment of the Investment and Export Promotion Act No. 11 of 2012 which purported to repeal the IPA and EPA.  However, the Investment and Export Promotion Act of 2012 is not yet in force as no commencement date has been issued by the Minister of Trade and Industry.  It should however be noted that the main legal effects will relate to the exercise of statutory powers without the enabling legislation. For purposes of contracting under public private partnership arrangements, MITC will have the contractual authority to enter into a PPP contract as a state-owned enterprise.
+Real Estate Matters relating to the Infrastructure Development
+The proposed land for infrastructure development for the office complex is leasehold title no Bwaila 19/ 45 and the land comprises 0.3954 hectares. MITC is registered as a proprietor of the leasehold interest for a period of 99 years from the 1st of November 2017. Section 10 the Land Act No. 16 of 2016 allows land ownership by body corporates that are registered in accordance with the Companies Act in Malawi and further section 24 of the Registered Land Act provides that the effect of registration is that it vests ownership of leasehold interest described in the lease. On expiry of the lease, the land reverts to public land. A due diligence search conducted at the Ministry of Land on the 8th of February 2023 confirmed that there are no encumbrances, charges, or other interests on the land.
+The ownership of a leasehold interest is subject to expressed and implied agreements as well as incidences of a lease. The obligations of the lessee include the payment of rents, rates and taxes on the leasehold interest. The lessor retains the right of entry on the leasehold premises for various purposes including repairs and the right to forfeiture where conditions are not complied with. The owner of a leasehold interest enjoys peaceful and quite possession during the period of the lease without any interruption once the implied and express conditions are complied with. Although there are express and implied conditions on leases under land laws, in practice the lessor has renewed leases upon expiry and lessees enjoy possession of the land during the tenure of the lease without any interference, subject to the payments of rents, rates and taxes. Another risk reduction measure is to have the investment timeframe run during the period of validity of the lease.
+Different statutory permits and approvals before the project implementation
+The law in Malawi provides for permits and approvals that are to be obtained before the implementation of an infrastructure development project.
+Planning Permission
+In the undertaking of the infrastructure project, there will be need to make an application for and to obtain a planning permission which ensures that the project plans are in line with the land use and zoning requirements of local government authorities. Section 43A of the Physical Planning (Amendment) Act No. 12 of 2022 provides that a person shall not carry out any developments within a planning area in Malawi without a planning permission.
+Development Permission
+After obtaining a planning permission, a developer may apply for the development permission. Section 24 (2) of the Land Act of 2016 of provides that a lessee shall not undertake any development of the leased land without first obtaining a grant of development permission from the Commissioner of Physical Planning. A development permission application is submitted by the a registered physical planner to the Commissioner and once internal approval processes are followed, an applicant is to be informed of the decision within 30 days failure of which an applicant shall proceed to commence development after the expiry of 60 days from the date the application was made. Section 44 of the Physical Planning Act of 2016 provides that certain types and classes of development listed in the first schedule are permitted developments and are exempt from development permission. The construction of an office complex is not exempted and hence a development permit will need to be obtained for the MITC infrastructure project.
+
+It should, however, be noted that the practice that obtains at the Lilongwe City Council is marginally different from what the law provides. The two processes of obtaining a planning and development permission are combined. A developer submits development plans and completes the relevant Lilongwe City Council forms. The forms are signed by an Architect and a Structural Engineer. The compilation is sent to the Ministry of Lands for verification of ownership of land by the proposed developer. Once completed, the developer pays appropriate scrutiny fees and awaits the decision on the application.
+Compliance with Development Guidelines and Standards
+The area 19 where the MITC leasehold land is situated is designated as a high-rise commercial area. According to the Lilongwe City Development Guidelines and Standards of 2015, the area is reserved for office buildings and compound buildings. There are prescribed minimum floors, building height and other technical requirements. The architectural designs and drawings must hence comply with the standards as well the building by-Laws for there to be approval.
+Investment and foreign exchange control
+Section 28 of the Republic of Malawi Constitution provides for the right to own property and prohibits the arbitrary deprivation of property. Implicit in the right to own property is the freedom to invest. As such legislation has been passed to promote investment through ownership of land, permit of transactions in foreign currency, dividend repatriation and tax exemption on infrastructure projects.
+Section 3 of the Exchange Control Act of 1989 provides that regulations may be made on exchange of foreign currency and taking out of foreign currency. Regulation 11 (3) and (4) of the Exchange Control Regulations allows the taking out/ transfer of foreign currency equivalent to the amount brought in with the permission of the Reserve Bank of Malawi or the Minister of Finance. Regulation 14 further allows the payment in foreign currency where permission is obtained. 
+Regulation 18 provides that ministerial permission is required to transfer securities to non-residents. The registration of loans or securities by an investor allows for dividend repatriation in Malawi. A foreign investor can make international payments on the contracts that are engaged in the implementation of the project under public -private partnership once the investment is registered as a security at the Reserve Bank of Malawi.
+It should, however, be noted that Regulation 2 of the Exchange Control (Use of Foreign Currency in Local Transactions) provides that no person shall quote or accept quotation of prices for payment in foreign currency or demand or make payment in foreign currency for goods or services sold or provided in Malawi. There is divergent interpretation by the Courts on the Regulations. A liberal approach has been taken that validates contracts that provide for pricing in foreign currency as long as the intention of the parties is to demand for payment or make payment in Malawi kwacha. Courts have also been very strict where contracts have been declared to be illegal and unenforceable once pricing is quoted in foreign currency. The risk reduction measure is to provide for pricing in Malawi Kwacha for goods and services provided in Malawi.
+The law allows foreign land ownership for investors. With regard to land designated for investment purposes, section 11 of the Land (Amendment) Act No.5 of 2022 provides that land shall be designated for investment and published in the Gazette and this may be allocated for investment purposes. MITC shall be responsible for the allocation and the land maybe withdrawn if not developed within 2 years. For purposes of PPP, a contracting party may transfer the use of the land to a private entity and retain the ownership in the land.
+The Malawi Tax Incentives of June 2022 aim at encouraging development amongst others. The General Customs and Excise Tax Incentives provide exemption on importation of machinery. In the Construction sector, duty and VAT free importation is allowed form Crane Lorries, Concrete Mixer Lorries and other Tractors. 
+The Preliminary Contractual Framework for the Project
+The Project can be structured through a public private partnership or an Engineering, Procurement and Construction (EPC) Contract. The legal framework in Malawi allows both structures.
+EPC contracts are a simpler and proven procurement route easier than PPP contracts which can be considered as more complex. Whilst the EPC route provides a simple contractual framework and fast procurement process, it requires the underlying infrastructure to be entirely funded during the construction period by the public sector. Moreover, the risk profile of an EPC contract is less favourable to the public sector as the main risks (such as cost overruns, delays and interfaces) are not transferred to the contractors. Furthermore, the term of an EPC contract is limited to the construction period of the asset with possible negative impacts on the whole life cost of the infrastructure.
+Conversely, PPP contracts require relatively long procurement periods in order to address the inherent complexity arising from the necessity to assess and allocate project risks between the public and private sectors. Furthermore, PPP contracts allow the public sector to rely on private funders (lenders and investors) to partly fund the capital investment costs during the construction period. PPP contracts encourage contractors to adopt a whole life cost approach to the development of the infrastructure. 
+EPC contracts are commonly adopted in the development of real estate projects. Under an EPC contract, an entity is contracted to design and construct a piece of infrastructure system. Payment is usually based on a fixed lump sum price basis, but incentives, such as milestone payments or target costs (e.g. gain / pain share mechanisms) can be built in into the contract. 
+For the purposes of the Project, it is important to highlight two key differences between EPC contract and a PPP contract:
+No private funding - under an EPC contract, the public entity would need to pay the contractor at construction milestones. The public entity should therefore have access to sufficient funds to do so.
+No post-construction maintenance responsibility - under an EPC contract, the contractor is not usually responsible for maintenance of the asset post-completion. The public contractor would need to enter into a separate maintenance contract for the infrastructure.
+Under a PPP contract, the contractor is responsible for the design, construction, maintenance, whole life cost and funding of the infrastructure. The contractor's key obligation is to make the infrastructure "available" to the public contractor through a fixed operational term (typically 20-25 years). 
+
+The cycle of PPP contracts in Malawi initiated by the public authorities goes through 5 phases:
+
+
+Source: Author
+In the first phase, the PPP committee or the contracting public authority, with the support of the PPP committee, identifies the project to be implemented as a PPP, either by itself or jointly with another person or contracting authority. To this end, a Needs and Options Analysis is carried out in order to determine whether the PPP is the best solution for providing the envisaged service or infrastructure to be set up through the project in relation to other public procurement processes.
+The conduct of this analysis is followed by the completion of a pre-feasibility study and an initial viability analysis of the Project. The pre-feasibility study indicates the possible location(s), route(s) and general cost estimates of the project and an initial indication of the likelihood of the project being viable and affordable. 
+In coordination with the Review and Authorisation Unit of the Ministry of Finance, the PPP Commission determines the requirements for the pre-feasibility study and decides whether a full feasibility study should be carried out for the project.
+In the second phase, the contracting authority carries out a technical, financial and legal feasibility study, either through the PPP Commission or by itself when authorised by the Commission. The purpose of this study is to enable the government to assess whether the project to be carried out is sound and whether it meets the criteria of viability, risk, bankability, accessibility and appropriateness set by the government. The feasibility study should show that delivering the project as a PPP offers competitive advantages, that the PPP is the most appropriate instrument for delivering the project, that it is affordable for the contracting authority, that it offers good value for money, and that it transfers technical, financial or operational risks to the private contractor. It should also demonstrate the capacity of the contracting authority to implement the contract effectively and specify the role and functions to be performed by the public authority in setting up and implementing the agreement.
+The next phase for project implementation is the procurement phase to select the private partner best suited to implement and execute the project. The Commission considers carrying out a pre-qualification exercise to select potential bidders or may delegate the carrying out of the pre-qualification to the contracting authority when it considers that the contracting authority has the necessary expertise to undertake this step.
+The invitation to tenderers to submit tenders is made through the tender document which is prepared by the Commission, and which includes a public invitation to pre-qualified tenderers to submit tenders.
+In evaluating the bids submitted, the PPP committee ensures that all bidders have equal opportunities and that their bids are treated fairly. To this end, the tender must clearly state the evaluation criteria that will be used as a basis for the evaluation of the bids. 
+After the selection phase, the fourth phase involves drawing up the final PPP contract and signing it with the selected bidder. The public-private partnership contract may only be concluded on the basis of a decision of the PPP Committee, after obtaining the consent of the Minister of Finance and his agreement on the final version of the contract to be signed. Within thirty days from the date of receipt of the final draft contract, the PPP Committee must decide on the granting of consent for the text of the draft contract.
+In the last and fifth phase, the implementation and evaluation of the contract, the contracting authority, supported by the PPP commission, carries out an evaluation of the entire PPP project, from project identification to implementation, in order to assess the timeliness and effectiveness of the project.
+
+Comprehensive Risk Assessment
+Introduction
+Risk can be defined very briefly as a “volatility of outcomes”. Risk analysis focuses on the probability that events do not occur as planned and measurement of the consequences of such failure. The methodology followed during risk analysis includes risk identification, quantification and allocation during the Feasibility Study, Pre-procurement, Procurement and Evaluation stages of the Project.
+This section sets out a number of principles that should guide risk analysis and risk allocation. It also identifies the main risks of the project and proposes their allocation. Some aspects that can significantly influence the assessment of risks and their perception by investors are also presented.
+Principles to guide the analysis and allocation of project risks
+Each project has its specific risk profile with characteristics linked to the context of the country, the sector or specific to the project. Thus, the risk analysis must identify the various risks of the project and allocate them in an effective way between the stakeholders in the project.
+Each identified risk must be allocated to the party that is best able to manage it, control it and control its cost.
+A party's comparative advantage in bearing a risk may result from having more information about the risk and its impact and being able to influence the outcome.
+A non-optimal allocation of risks, for example by transferring to the private sector a risk that it cannot assume, will increase the cost of the project or even limit the participation of candidates from the private sector if the risk is perceived as prohibitive by investors. In the absence of an acceptable mitigation of risks beyond its control, the private operator will aim for profits in relation to the risks allocated to it and will ask for significant guarantees in exchange. Thus, the promoter will “monetize” his perception and his assessment of the risks of the project.
+Finally, risk mitigation strategies should also be assessed in terms of cost/benefit as the cost of extensive mitigation may exceed the expected benefits.
+Risk identification
+For the project consisting of designing, building, financing, operating and maintaining the MITC office complex, the risks can be classified into two main categories:
+General risks or country risks which are linked to the political, economic and legal environment of the country and over which the two partners have no control; and
+Project-specific risks over which the public and the private partners may have some control.
+The table below summarizes the main risks of the project.
+
+
+Risk matrix and Risk allocation
+The Risk Matrix includes the key risks that may impact the project as well as the adopted approach of managing and mitigating these risks in similar projects undertaken in the region and internationally.
+This risk matrix is not intended to be a complete or exhaustive matrix of legal risks  but is designed to pre-treat the commercial and contractual relations proposed to be put in place between the MITC and the private partner. It highlights any specific concerns, obstacles or constraints impacting the project as well as the proposed risk allocation based on appropriate benchmarks for the standard allocation of these risks in similar regional or international PPP projects.
+The risk matrix of the project including the different risks allocation, mitigation and coverage is presented in the following table.
+
+
+
+Risk quantification
+Introduction
+Risk is quantified by measuring the potential to incur (additional) costs above baseline costs. The quantification of risks is not usual for traditional public sector procurement (Public Sector Comparator) which tend to suffer from an optimism bias, i.e., a tendency to budget for the best possible outcome (often the least costly) rather than the most probable. This leads to frequent cost (and time) overruns.
+Moreover, the risks associated with the project do not disappear because the private sector provides the service under a PPP contract. However, the quantification (and therefore provision) of these risks is often lower for the private sector, as these risks tend to be better managed (than by the public sector), mainly due to a better distribution of risks and economies of scale generated by the PPP and expertise in risk management.
+Methodology
+The first step is to determine the cost to the Public Sector of each identified risk, depending on whether the Project is carried out under a public contract or a PPP. This cost is calculated as follows:
+
+Where:
+= Probability of occurrence of risk n
+= Reference value or base cost defined for risk n – established for each risk according to its nature
+= Share of the risk borne by the Public Sector or the cost of the impact – varies according to the option considered (public contract or PPP).
+The risks are classified according to the stages of the project in which they occur, namely:
+Planning
+Procurement
+Design
+Construction
+Operating period which includes both operation and maintenance of the infrastructure
+Renewal and transfer (handover) period that takes into account life cycle expenses and handover of infrastructure at contract expiration.
+Risks at each of the above project stages will be subdivided into the following sub-categories:
+Technical – covering aspects such as asset efficiency, durability and achievement of the specifications.
+Legal - covering aspects related to changes in laws or compliance with existing laws and regulations.
+Commercial - covering aspects related to input prices, general availability of inputs as well as insurability of risks.
+Financial/monetary – covering aspects related to the impact of changes in key financial variables such as inflation, interest rate and exchange rate, public financing shortfall, private financing shortfall, debt default, remuneration, etc.
+Political/social - covering aspects related to social unrest, overt civil unrest, industrial strikes, terrorism, etc.
+Environmental - covering aspects related to the environmental issues that could be faced by the project.
+The Benchmark or Base Cost for each risk belonging to the categories described above should be identified. Base costs are presented in real terms.
+As for the probability of occurrence and the rank, it is the probability that a risk occurs and is described as a percentage and a descriptive rank. The following table gives an example of how the probability description is associated with certain probability bands.
+Source: Author
+The financial impact of a risk (share of the risk borne by the Public Sector) is assessed according to three scenarios:
+Maximum impact scenario, reflecting a major cost impact because of the risk occurrence.
+Medium impact scenario, reflecting a moderate cost impact as a result of the risk occurrence.
+Minimal impact scenario, reflecting minimal cost impact because of the risk occurrence.
+Each of the risk impact scenarios is expressed as a percentage and reflects the expected change in cost basis due to the occurrence of the risk.
+The costs of the different identified risks are summarized in the Appendix 3.
+
+
+Financial assessment of the project
+Financial Model Assumptions
+Building Area Assumptions
+As requested by MITC following the submission of the first draft of the feasibility study, we have considered four scenarios for the office: 
+Base design
+Within this scenario, the office complex will be built as follows:
+Basement (estimate 3 690 square meters) to accommodate 100-car parking slots, offices, and service rooms.
+Ground floor (estimate 1 228 square meters) reserved for MITC One Stop Centre and other offices (939 square meters).
+First floor (estimate 991 square meters) to accommodate lettable office space.
+Second floor (estimate 1 178 square meters) to accommodate lettable office space.
+Third to tenth floors (estimate 8 321 square meters) to accommodate lettable office spaces.
+Eleventh floor (estimate 956 square meters) to accommodate conference facilities, break areas and balconies.
+The area of the total building is estimated at 16 365 square meters, of which 9 940 square meters are allocated to lettable and the MITC useable area. The detailed project building area Calculations are provided in the Appendices section.
+Revised design with 8 floors
+Within this scenario, the office complex will be built as follows:
+Basement (estimate 3 690 square meters) to accommodate 100-car parking slots, offices and service rooms.
+Ground floor (estimate 1 228 square meters) reserved for MITC One Stop Centre and other offices (939 square meters).
+First floor (estimate 991 square meters) to accommodate lettable office space.
+Second floor (estimate 1 178 square meters) to accommodate lettable office space.
+Third to eighth floors (estimate 6 241 square meters) to accommodate lettable office spaces.
+The area of the total building is estimated at 13 329 square meters, of which 7 348 square meters are allocated to lettable and the MITC useable area. The detailed project building area Calculations are provided in the Appendices section.
+
+Revised design with 6 floors
+Within this scenario, the office complex will be built as follows:
+Basement (estimate 3 690 square meters) to accommodate 100-car parking slots, offices and service rooms.
+Ground floor (estimate 1 228 square meters) reserved for MITC One Stop Centre and other offices (939 square meters).
+First floor (estimate 991 square meters) to accommodate lettable office space.
+Second floor (estimate 1 178 square meters) to accommodate lettable office space.
+Third floor to fifth floor (estimate 3 120 square meters) to accommodate lettable office spaces.
+The area of the total building is estimated at 10 208 square meters, of which 4 931 square meters are allocated to lettable and the MITC useable area. The detailed project building area Calculations are provided in the Appendices section.
+Revised design with 4 floors
+Within this scenario, the office complex will be built as follows:
+Basement (estimate 3 690 square meters) to accommodate 100-car parking slots, offices and service rooms.
+Ground floor (estimate 1 228 square meters) reserved for MITC One Stop Centre and other offices (939 square meters).
+First floor (estimate 991 square meters) to accommodate lettable office space.
+Second floor (estimate 1 178 square meters) to accommodate lettable office space.
+Third floor (estimate 1 040 square meters) to accommodate lettable office spaces.
+The area of the total building is estimated at 8 128 square meters, of which 3 321 square meters are allocated to lettable and the MITC useable area. The detailed project building area Calculations are provided in the Appendices section.
+
+
+
+
+Construction costs
+The estimated construction costs for the different design scenarios are presented as follows:
+For the base design with 11 floors, the overall construction cost of the project is estimated at MK 37 047 288 000, which is equivalent to US$ 36 003 195 in November 2022 exchange rates. 
+For the revised design with 8 floors, the overall construction cost of the project is estimated at MK 27 820 480 000, which is equivalent to US$ 27 036 424 in November 2022 exchange rates. 
+For the revised design with 6 floors, the overall construction cost of the project is estimated at MK 19 999 632 500, which is equivalent to US$ 19 435 989 in November 2022 exchange rates. 
+For the revised design with 4 floors, the overall construction cost of the project is estimated at MK 15 156 985 460, which is equivalent to US$ 14 729 821 in November 2022 exchange rates. 
+
+The breakdown of this feasibility budget estimate according to the different design scenarios is presented in the table below.
+
+The detailed construction costs are presented in the Appendix 1 section.
+Revenue assumptions
+Lettable/Revenue Generating Areas
+The lettable and revenue generating areas are as follows:
+Office Space - The Property will have a space that will be available for letting as office space, including the space reserved for MITC accommodation, which will also pay rentals for it to the private partner. The lettable space according to the different design scenarios is as follows:
+For the base design with 10 floors: 9 368 square metres
+For the revised design with 8 floors: 7 348 square metres
+For the revised design with 6 floors: 4 932 square metres
+For the revised design with 4 floors: 3 321 square metres.
+Car Parking - The property will have 233	 car parking slots (for both the initial and revised design options), and these will be paid for separately by tenants in the building.
+Revenues/Rental Income
+The revenue from the Property will be generated from two sources: letting out the office space and car parking slots. Rental charges for each of these areas has been assumed based the prevailing market rates in Lilongwe City Centre as follows:
+Office Space will be charged at MK 26 250 per square metre per month.
+Car Parking Slots will be charged at MK 61 250 per parking slot per month. City assemblies are currently charging MK 33 600 per month for parking slots along street roads.
+Occupancy Rate
+High end office buildings at City Centre in Lilongwe are currently commanding occupancy rates of between 80% and 95% based on information gathered from Knight Frank and Mpico, two of the largest property developers and managers in Lilongwe.
+Although an additional 50 000 square metres of office space is expected to enter the market in Lilongwe in the next 3 to 5 years, demand is expected to remain robust. Increase in demand for office space is expected to be driven by economic growth and the move by Lilongwe City Assembly to relocate all businesses from residential areas to designated business centres.
+The Project Property has consequently assumed the following assumptions for office space and carparking area occupancy rates during the first three years and thereafter.
+
+Annual revenues
+The annual revenue for is presented in the following table.
+
+
+Operating Costs
+Non-recoverable costs
+These operating costs cover all the costs supported by the operator in running the Project during its operation period. They are not recoverable from tenants and thus they should feature among the OPEX.
+Property Management Fees
+The property will be managed by an established and professional firm with a good reputation both locally and internationally. This is key to ensure the property is able to attract and secure high-end and up-market tenants who are able to pay upper market rentals. A preliminary market sounding with property management companies in Malawi with high repute in the market has proven an interest from these firms to manage the Office Building. These companies charge management fees ranging from 5% to 10% of rental income. The Project has assumed Management Fees expenses at an average of 7.50% of gross rental income.
+Property Insurance
+The property will be comprehensively insured against all possible risks such as fire, storm damage, riot damage, earthquakes and forced breakages and other risks. Established general insurance firms like Nico General, United General Insurance and General Alliance premium rates for comprehensive cover average 0.25% of the property market value. The Project has assumed this premium rate in calculating insurance costs for the Property during the forecast period.
+For Insurance purposes, we may consider two values for the building valuation: Replacement Value which is basically equal to the cost of re-constructing the building should it be completely or substantially destroyed and Market Valuation which is the price at which the building would trade between a willing buyer and a willing seller on arm’s length basis.
+Market Valuation could be calculated by discounting future cash flows over the investment horizon, which has been assumed at 25 years in this case. The discount factor which has been derived from the expected real return on the investment has been estimated at 11.8%. This is calculated by subtracting the average inflation rate over the past 10 years (16.7% per annum) from the current long term bond yield (28.5% per annum). This approach is based on the fact that cash flow forecasts are in constant prices (not adjusting with inflation).
+For Scenario 1 (initial design), the calculated Market Valuation of the building is MK 20,223,687,562, thus an annual property insurance cost of MK 50,559,219 for the first year of operation (2022 prices).
+Maintenance Costs
+Substantive maintenance and repair costs such as periodic painting and water proofing, fixing broken plumbing or electrical faults and maintaining drainages, will be contracted out to service providers as and when required. As most maintenance and repair materials for high end office buildings are imported, the Project has assumed maintenance and repair costs based on South African standards where Malawi imports most of its requirements.
+Based on maintenance costs incurred by high end office development companies like Redefine Properties and Growth Point Properties, the Project has assumed property maintenance and repair costs at US$ 2.20 per square metre per annum.
+Services recoverable from tenants
+In this section, we will enumerate the services whose costs are recoverable from the tenants, and thus not supported by the private partner. When these charges are levied, they do so proportionate to the percentage of rental space occupied.
+City Rates and Ground Rent
+City Rates will be payable to Lilongwe City Assembly and Ground Rent will be payable to Malawi Government in line with applicable city by-laws and schedule of charges. Lilongwe City Assembly currently charges City Rates at 0.50% of the property value payable every 6 months.
+Lilongwe City Assembly has a formula for calculating the valuation of a building for city rates purposes. It is based on the Ground Coverage Area of the building and multiplies this by MK 350 000 to arrive at a figure which is then used for levying city rates. The MITC Building has a Ground Coverage Area of 1,228.37 square metres.
+Ground Rent is charged at a fixed rate of MK 10 000 per year for the first year of operation (2022 prices), payable to Malawi Government.
+Cleaning, Toiletries and Garbage Disposal Expenses
+Cleaning services will be outsourced to a professional firm to be recommended by the property management company. Currently high-end buildings in Lilongwe like Kang'ombe Building, Reserve Bank, Standard Bank Centre et cetera have all outsourced these services. One of the reliable firms providing these services in Lilongwe is Transerve Logistics and they charge MK 175 per square metre of the gross floor area of the building being cleaned per month.
+Landscaping Services
+Landscaping and maintenance of gardens and indoor flowers/ herbs/ bushes will be outsourced to an external service provider. The Property Manager shall run tenders each year for these services and from the process engage a service provider that shall emerge successful. The actual cost of these services can only be realistically assessed and costs estimated once the building grounds are laid out and internal fittings completed. This notwithstanding, a preliminary cost estimate of MK 18 000 000 per year (2022 prices) for landscaping expenses has been built in the operating expenses of the Project Property.
+Service Recoverable/ Utilities
+Utilities such as water bills, telephone expenses, security/guarding expenses, electricity costs and fuel for running standby generators will also be met by or recovered from tenants in the building. These have therefore not been factored in as part of the expenses of the Property.
+Although recoverable, we have included security costs at MK 225 000 per guard per shift of 12 hours per month, and we have factored in 2 day-time guards and 4 night-time guards. Water bills are estimated at MK 6 million per year and electricity costs at another MK 6.3 million per year.
+Summary of the OPEX assumptions (non-recoverable)
+For the initial design scenario, the summary of the non-recoverable OPEX assumptions for a market-rate scenario (2022 prices) be supported by the private partner is presented in the following table.
+
+As the Public Sector Comparator (PSC), the OPEX are summarised in the following table.
+
+
+Macro-Economic Forecasts
+Inflation Rates, Interest Rates, Bond/Treasury Note Yields and Cash Flow Discount Factor
+Reserve Bank of Malawi monetary policy is aimed at achieving price stability (low and stable inflation) in the economy by controlling growth in money supply through interest rates and reserve money. A major factor driving money supply growth hence inflation is Government deficit financing. Malawi's Inflation Rate in November 2022 (as measured by the Consumer Price Index – CPI) is 25.80%.
+In the long-term, the Malawi Inflation Rate is projected to trend around 21.80% in 2023 and around 12.40% in 2024, according to Trading Economics.
+Malawi's annual Inflation Rates (CPI) and Government Deficit Financing have been as follows over the past 10 years.
+Source: National Statistics Office Bulletins; Reserve Bank of Malawi Publications, Malawi Government Annual Economic Reports
+Consequent to the above, the following variables have been used in the financial forecasts where applicable as they currently prevail in the Economy:
+Retained annual inflation rate for the project period: 15%.
+10-Year Bond/Treasury Note Yield: 28.50% per annum. This has been as the Discount Factor to calculate present values of future cash flows. The yield has also been used as the Interest Rate on all Local Currency Long Term Debt that the Project will raise as part of its Capital Structure.
+Reference Interest Rate: 17.30% per annum. This is the Interest Rate based on which commercial banks price their short-term credit facilities. Normally a risk premium of up to 11.00% is added to determine the final price based on the risk profile of the customer. The Project has assumed a risk premium of 3.50% on all its Local Currency Short Term Debts.
+Exchange Rates
+The project has assumed a reference exchange rate of 1029 MK/ $ (November 2022) for the calculation of all the costs.
+The Malawi Kwacha has traditionally depreciated against major convertible currencies, particularly the US Dollar, due to the persistent balance of payments deficits that the country runs.
+Over the past 10 years, the Malawi Kwacha has depreciated as follows against the US Dollar.
+Source: Reserve Bank of Malawi
+The Project has consequently assumed an annual depreciation rate of 10.6% in the value of the Kwacha in converting all foreign currency capital and operating expenditure items; and all foreign currency denominated assets and liabilities that the Project may hold or assume.
+Economic Growth
+The growth of the economy which signals improved and increased economic activities hence increased demand for services, including rental space for businesses, has been based on estimated Gross Domestic Product [GDP] growth rate. Malawi's GDP (currently at US$ 12.5 billion) growth rate has been extrapolated based on the average 10-year real GDP growth rate as shown in the following table.
+Source: Reserve Bank of Malawi, Financial and Economic Reviews; Malawi Government, Annual Economic Reports
+Based on the above, Malawi's economy is projected to grow by an average 4.0% per annum during the project forecast period.
+Population Growth
+Population growth rate, the productivity of that population, the age and gender mix of the population are also key drivers of economic activity in any country. The Malawi population has grown as follows over the past 10 years.
+Source: National Statistical Office, World Bank
+The Project has assumed an average annual population growth rate of 2.80% during the forecast period.
+Shortlisted and selected PPP options
+A preliminary comparison between the different PPP options allowed by the PPP legal framework in Malawi has taken place in the Needs/Options Analysis Report through a multi-criteria assessment based on several criteria which should also be aligned with the objectives of the Malawian authorities. The following table presents a reminder of these project delivery options comparison.
+
+
+After discussions at the workshop held in Lilongwe on August 2nd, 2022 with MITC, it was agreed and resolved that the PPP options preferred for further scrutiny are Types 3 (Concession), Type 4 (BOT, BOOT) and 6 (Institutional PPP).
+To select the optimal PPP option to be modelized, a number of factors and constraints should be taken into account, which are stated as follows:
+As agreed with MITC with respect to the SPV configuration, MITC not to be part of the SPV, which leads to the elimination of the Option 6: Institutional PPP.
+Both MITC and the Malawian Government may not have the fiscal space or financial resources to invest upfront in the project. Consequently, the plausible option lies within scenarios where the investor will organize funding for the investment, build and operate it.
+MITC should make project land “available” for development to the SPV without necessarily assigning “Title” to the SPV. If we accept that ownership in land and buildings derives from the “Title” in this Leasehold title, then the options containing the ownership of the asset are ruled out.
+Based on the client’s recommendations, the qualitative comparison, the outcomes of the benchmark study and project specific features, we recommend the following PPP delivery model for the implementation the Office Building:
+Model 1: implementing the project through a DBFOT (Design-Build-Finance-Operate-Transfer) contract, where the private partner is responsible for the finance, design, construction under a turnkey risk basis, operating and maintenance of the project for a specified period, after which the project facilities are transferred to the Contracting Authority (MITC) without payment of any compensation. In this model, the Private Party collects tariffs or fees (rentals) directly from the users (the tenants) of the different components of the office complex (lettable offices and car slots), as specified in the PPP agreement, to recover its investment and operating and maintenance expenses for the project.
+As for the Public-Sector Comparator (PSC) option (base case option), it is stated as follows:
+Model 2: implementing the project through:
+A Design-Build (DB) contract, also known as an EPC “Engineering, Procurement and Construction” contract, for which the MITC delegates to a private operator (ex: a construction company) the design and construction of the Office Building under public funding, which it is then delivered “turnkey” to the public authority, according to a schedule and at a firm price.
+An Operation & Maintenance (O&M) or Management contract, in which the MITC entrusts a private company with the operation and maintenance of the existing building (which was just constructed) in exchange for a remuneration from the Public Authority on the basis of a fixed or variable sum, generally depending on the achievement of performance objectives or a certain quality of service.
+A detailed analysis based on financial modelling, risk quantification and a Value for Money calculation should determine the most appropriate delivery model and scenario to be selected for the implementation of the MITC Office Complex.
+
+Results of the financial modelling of the different project delivery models
+The financial modelling of a PPP project aims to test the bankability of the project, i.e., its ability to attract private financing with its two components: debt and equity. This financing resources could be completed by a possible contribution of the Public Sector in the investment cost financing through subsidies.
+Assumptions of the model
+The following general assumptions were used in the model:
+Duration of the PPP contract: 25 years
+Duration of construction period: 2 years
+Construction profile per year:
+Average amortization period: 23 years.
+The following financial structure assumptions were used in the model:
+Equity: 40% of total debt and equity
+Debt: 60% of total debt and equity
+Debt maturity: 23 years
+Interest rate (private sector): 18%
+Interest rate (public sector): 28%
+Grace period: 2 years
+Reimbursement method: constant P+I (Principal + Debt).
+Equity is provided by private investors (also called shareholders) who are often promoters, operating companies as well as specialized investment funds seeking long-term profitability (e.g., pension funds). These equity capitals usually represent about 30% of private financing. In the event of early termination of the PPP contract, this equity is not recoverable. In this financial modelling, we take a percentage of 40% as input data.
+Debt is provided by commercial banks and lenders. Debt usually accounts for about 70% of private financing. In the event of early termination of the PPP contract, the principal of the debt is “reimbursed” to the banks by the Public Sector. In this financial modelling, we take a percentage of 60% as input data.
+The investment grant may be necessary to supplement the private financing of the PPP project and achieve full financing of the investment cost. In this financial modelling, we calculate the subsidy as a percentage of the investment cost. We vary this percentage manually until we reach a sufficient level of profitability for the shareholders (the key measurement indicator is the IRR of the shareholders (equity IRR) which must be greater than 15%) while respecting a debt service coverage ratio (Average Debt Coverage Ratio or ADSCR of at least 1.2).
+The maturity of the debt is the period after which the debt is completely repaid. This duration is 3 years less than the contract duration. This is a requirement made by the banks to have a margin of manoeuvre of 3 years in case of an event hindering the progress of the contract (delay during the construction period, force majeure event, etc.).
+The grace period is the period during which the project company does not repay any debt annuity to the banks. It is fixed at 2 years to cover the construction period, which means that the first annuity is paid at the end of the first year of operation.
+The chosen reimbursement method is constant P+I. The other possible modality is linear depreciation. For the P+I, P means the principal of the debt and I means the interest of the debt. Since this quantity is constant, it implies that the project company pays a lot of interest at the start (“little” principal) and little interest at the end of the contract (a “lot” of principal). The P+I method is often preferred by investors because it allows a constant annuity.
+The other macroeconomic assumptions of the project are:
+Annual inflation (during the project period): 15%;
+VAT Rate: 16.5%; and
+Corporate income rate: 30%.
+
+Selected scenarios
+Several cases of calculation could be envisaged in order to verify the criteria for evaluating the financial profitability of the project by varying the rents/revenue and/or the level of subsidy paid by the Public Sector to the private partner.
+It should be noted that the definition of the subsidy rate on a new infrastructure implemented through PPP should result from a financial calculation with a view to ensuring that the operating revenues make it possible to generate sufficient cash flow to recover investment costs, repay debts, cover operating, maintenance and necessary renewals expenses, and appropriately remunerate the capital employed.
+We have considered two scenarios: one without public subsidy and the other with public subsidy. For the latter, we have tested several levels of subsidisation. For each test, the model calculates the IRR achieved. If we get an IRR above 15% then we calculate the ADSCR, if the ADSCR is below 1.2 then we increase the subsidy percentage until we get an ADSCR close to 1.2.
+We have also considered only one scenario based on market rentals.
+As for the annual royalty fee (or concession fee or lease fee) paid by the private partner to the MITC as a percentage of the total revenue, we have assumed that it is equal to Zero.
+This combination of different possibilities resulted in 6 possible scenarios for the PPP option, namely:
+Scenario 0: DBFOT-Initial Design without subsidy-VAT Included-Lower Construction Inflation;
+Scenario 1: DBFOT-Initial Design (10 floors) without subsidy-VAT Excluded;
+Scenario 2: DBFOT-Revised Design (8 floors) without subsidy-VAT Included;
+Scenario 3: DBFOT-Initial Design (10 floors) with subsidy-VAT Included;
+Scenario 4: DBFOT-Revised Design (4 floors) with subsidy-VAT Included;
+Scenario 5: DBFOT-Revised Design (6 floors) with-subsidy-VAT Included;
+Scenario 6: DBFOT-Revised Design (6 floors) with-subsidy at 40%-VAT Included; and
+Scenario 7: DBFOT-Revised Design (6 floors) with-subsidy at 40%-VAT Included-No corporate tax.
+These different PPP scenarios are compared to two Public-Sector Comparator scenarios, namely:
+PSC 1: Public Sector Comparator (EPC+OM) with the Initial Design (10 floors);
+PSC 2: Public Sector Comparator (EPC+OM) with the Revised Design (8 floors).
+PSC 3: Public Sector Comparator 3 (EPC+OM) with the Revised Design (4 floors); and
+PSC 4: Public Sector Comparator 4 (EPC+OM) with the Revised Design (6 floors).
+
+Sc. 0-DBFOT-Initial Design without subsidy-VAT Included-Lower Construction Inflation
+For this scenario, there is no public subsidy considered to support the construction cost and the rental fees for the offices (per SQM).
+
+The construction cost is MK 37 047 288 thousand (2022 terms). By applying inflation during the construction period (12% during the construction period), we obtain the amount of MK 49,260,445 thousand.
+The financing of the cost of construction is done partly by private debt which generates capitalised interests of MK 4,866,530 thousand. The total cost of the project at the end of the construction period stands at MK 54,126,975 thousand.
+This amount is financed by debt up to MK 34,422,797 thousand, equity up to MK 19,704,178 thousand and with no subsidy.
+
+The revenue curve corresponds to the revenue generated by the project, i.e., rental income from office space and car slots. In this case, the private partner is remunerated directly by the tenants.
+
+The revenues of the public sector come from taxes collected (VAT, income tax, etc.), from which is deducted the amount of rental paid by the MITC to the private partner for its allocated space.
+This scenario presents a low equity IRR (1.26%) and a low ADSCR (0.67), which means that implementing the project through this format does not attract private investors and does not allow to pay the annual debt service. For these reasons, this scenario has been eliminated from the financial modelling of the Value for Money.
+Sc. 1-DBFOT-Initial Design without subsidy-VAT Exclusive
+For this scenario, there is also no public subsidy considered to support the construction cost and the rental fees for the offices (per SQM).
+
+The construction cost is MK 37,047,288 thousand (2022 terms). By applying inflation during the construction period (15%), we obtain the amount of MK 52,669,666 thousand.
+The financing of the cost of construction is done partly by private debt which generates capitalised interests of MK 5,166,666 thousand. The total cost of the project at the end of the construction period stands at MK 57,836,333 thousand.
+This amount is financed by debt up to MK 36,768,466 thousand, equity up to MK 21,067,867 thousand and with no subsidy.
+ 
+The revenue curve corresponds to the revenue generated by the project, i.e., rental income from office space and car slots. In this case, the private partner is remunerated directly by the tenants.
+
+The revenues of the public sector come from taxes collected (VAT, income tax, etc.), from which is deducted the amount of rental paid by the MITC to the private partner for its allocated space.
+This scenario presents a low equity IRR (1.18%) and a low ADSCR (0.68), which means that implementing the project through this format does not attract private investors and does not allow to pay the annual debt service. For these reasons, this scenario has been eliminated from the financial modelling of the Value for Money.
+
+Scenario 2: DBFOT-Revised Design (8 floors)-without subsidy-VAT Included
+For this scenario, there is no public subsidy considered to support the construction cost. However, a revised design with 8 floors is considered.
+The construction cost is MK 27,820,480 thousand (2022 terms). By applying inflation during the construction period, we obtain the amount of MK 39,552,029 thousand.
+Funding the cost of construction is done partly by private debt which generates capitalised interests of MK 3,879,883 thousand. The total cost of the project at the end of the construction period stands at MK 43,431,912 thousand.
+This amount is financed by debt up to MK 27,611,100 thousand, equity up to MK 15,820,811 thousand and with no public subsidy.
+ 
+The revenue curve corresponds to the revenue generated by the project, i.e., rental income from office space and car slots. In this case, the private partner is remunerated directly by the tenants.
+
+The revenues of the public sector come from collected taxes (VAT, income tax, etc.), from which is deducted the amount of rental paid by the MITC to the private partner for its allocated space.
+This scenario presents a low equity IRR (1.81%) and a low ADSCR (0.72), which means that implementing the project through this format does not attract private investors and does not allow to pay the annual debt service. For these reasons, this scenario has been eliminated from the financial modelling of the Value for Money.
+
+
+Scenario 3: DBFOT-Initial Design-with subsidy-VAT Included 
+If the procurement authority decides to remain in compliance with market rents levels, then a public subsidy equivalent to 60% from the investment costs should be considered to ensure that the project is feasible through PPP.
+
+The construction cost is MK 37 047 288 thousand (2022 terms). By applying inflation during the construction period (15% per year), we obtain the amount of MK 52 669 666 thousand.
+The financing of the cost of construction is done partly by private debt which generates capitalised interests of MK 2 066 667 thousand. The total cost of the project at the end of the construction period stands at MK 54 736 333 thousand.
+This amount is financed by debt up to MK 14 707 386 thousand, equity up to MK 8 427 147 thousand and public subsidy up to MK 31 601 800 thousand.
+ 
+The revenue curve corresponds to the revenue generated by the project, i.e., rental income from office space and car slots. The private partner is remunerated directly by the tenants.
+
+The financing of the subsidy is entirely ensured through a public loan which generates capitalised interests of MK 6,209,423 thousand. The total cost of the project for the public sector at the end of the construction period stands at MK 37,811,223 thousand.
+
+The revenues of the public sector come from taxes collected (VAT, income tax, etc.), from which is deducted the amount of rental paid by the MITC to the private partner for its allocated space.
+The Scenario 3- DBFOT-Initial Design-with subsidy-VAT Included generates a high ADSCR for the private partner equivalent to 1.7. It also generates an acceptable equity IRR of 14.56% for the investors.
+Scenario 4: DBFOT-Revised Design (4 floors) with subsidy-VAT Included
+To achieve the targeted Equity IRR (17%), a subsidy of 66.24% from the investment costs should be considered to ensure that the project is feasible through PPP.
+The construction cost is MK 15 156 985 thousand (2022 terms). By applying inflation during the construction period (15% per year), we obtain the amount of MK 20 947 143 thousand.
+The financing of the cost of construction is done partly by private debt which generates capitalised interests of MK 846 865 thousand. The total cost of the project at the end of the construction period stands at MK 21 794 008 thousand.
+This amount is financed by debt up to MK 5 089 986 thousand, equity up to MK 2 829 748 thousand and public subsidy up to MK 13 875 274 thousand.
+ 
+The revenue curve corresponds to the revenue generated by the project, i.e., rental income from office space and car slots. The private partner is remunerated directly by the tenants.
+
+The financing of the subsidy is entirely ensured through a public loan which generates capitalised interests of MK 3 428 677 thousand. The total cost of the project for the public sector at the end of the construction period stands at MK 17 302 951 thousand.
+
+
+The revenues of the public sector come from collected taxes (VAT, income tax, etc.), from which is deducted the amount of rental paid by the MITC to the private partner for its allocated space.
+This scenario presents an equity IRR of 17.07% and an ADSCR of 1.93, which means that implementing the project through this format will attract private investors and will allow to pay the annual debt service.
+We should mention that without a public subsidy, the Equity IRR would be at 0.93% and Minimum ADSC at 0.65, which means that the project will not attract private investors and will not allow to pay the annual debt service.
+Scenario 5: DBFOT-Revised Design (6 floors) with subsidy-VAT Included
+To achieve the targeted Equity IRR (17%), a subsidy of 61.4% from the investment costs should be considered to ensure that the project is feasible through PPP.
+
+The construction cost is MK 19 999 633 thousand (2022 terms). By applying inflation during the construction period (15% per year), we obtain the amount of MK 28 036 485 thousand.
+The financing of the cost of construction is done partly by private debt which generates capitalised interests of MK 1 114 103 thousand. The total cost of the project at the end of the construction period stands at MK 29 150 588 thousand.
+This amount is financed by debt up to MK 7 259 738 thousand, equity up to MK 	4 097 090 thousand and public subsidy up to MK 17 793 760 thousand.
+
+The revenue curve corresponds to the revenue generated by the project, i.e., rental income from office space and car slots. The private partner is remunerated directly by the tenants.
+
+
+
+
+
+The revenues of the public sector come from collected taxes (VAT, income tax, etc.), from which is deducted the amount of rental paid by the MITC to the private partner for its allocated space.
+This scenario presents an equity IRR of 16.99% and an ADSCR of 1.91, which means that implementing the project through this format will also attract private investors and will allow to pay the annual debt service.
+We should mention that without a public subsidy, the Equity IRR would be at 1.59% and Minimum ADSC at 0.70, which means that the project will not attract private investors and will not allow to pay the annual debt service.
+Scenario 6: DBFOT-Revised Design (6 floors) with subsidy at 40%-VAT Included
+In this scenario, and as per the request made by MITC, we assume a subsidy representing 40% of the investment cost.
+The construction cost is MK 19 999 633 thousand (2022 terms). By applying inflation during the construction period (15% per year), we obtain the amount of MK 28 036 485 thousand.
+The financing of the cost of construction is done partly by private debt which generates capitalised interests of MK 1 829 721 thousand. The total cost of the project at the end of the construction period stands at MK 29 866 205 thousand.
+This amount is financed by debt up to MK 11 922 855 thousand, equity up to MK 6 728 756 thousand and public subsidy up to MK 11 214 594 thousand.
+
+The revenue curve corresponds to the revenue generated by the project, i.e., rental income from office space and car slots. The private partner is remunerated directly by the tenants.
+
+
+
+
+
+The revenues of the public sector come from collected taxes (VAT, income tax, etc.), from which is deducted the amount of rental paid by the MITC to the private partner for its allocated space.
+This scenario presents an equity IRR of 7.68% and an ADSCR of 1.16, which means that implementing the project through this format will not attract the private investors as it barely allows to pay the annual debt service.
+Scenario 7: DBFOT-Revised Design (6 floors) with subsidy at 40%-VAT Included-No corporate tax
+This scenario is suggested by the Consultant as a variation from Scenario 6 with the only difference being an exoneration of corporate tax for Scenario 7.
+The construction cost is MK 19 999 633 thousand (2022 terms). By applying inflation during the construction period (15% per year), we obtain the amount of MK 28 036 485 thousand.
+The financing of the cost of construction is done partly by private debt which generates capitalised interests of MK 1 829 721 thousand. The total cost of the project at the end of the construction period stands at MK 29 866 205 thousand.
+This amount is financed by debt up to MK 11 922 855 thousand, equity up to MK 6 728 756 thousand and public subsidy up to MK 11 214 594 thousand.
+
+The revenue curve corresponds to the revenue generated by the project, i.e., rental income from office space and car slots. The private partner is remunerated directly by the tenants.
+
+
+
+
+
+The revenues of the public sector are lower than Scenario 7 as these revenues come from collected taxes (VAT, income tax, etc.), from which is deducted the amount of rental paid by the MITC to the private partner for its allocated space and for which corporate tax are taken out.
+This scenario presents an equity IRR of 10.63% and an ADSCR of 1.16, which means that implementing the project through this format will pause challenging attracting the private investors and will allow to pay the annual debt service.
+
+PSC 1: Public Sector Comparator (EPC+OM) with the Initial Design
+In this scenario, the MITC builds the project according to the Initial Design through public finance and operates it at market rents.
+
+Financing of the cost of construction is done through public loan which generates capitalised interests of MK 10 349 038 thousand. The total cost of the project at the end of the construction period stands at MK 63 018 704 thousand, financed entirely by debt and with no public equity.
+
+The revenue for the public sector is generated by the rentals on lettable space (without considering the MITC reserved area) and car slots. As for the operating costs, they derive from the Property Management, Maintenance, Repairs, and Insurance fees (billed by the O&M company), as well as Annual payment to the O&M company.
+
+PSC 2: Public Sector Comparator (EPC+OM) with the Revised Design 
+In this scenario, the MITC builds the project through public finance and operates it at market rents.
+
+The financing of the cost of construction is done through public loan which generates capitalised interests of MK 7 771 560 thousand. The total cost of the project at the end of the construction period stands at MK 47 323 588 thousand, financed entirely by debt and with no public equity.
+
+
+The revenue for the public sector is generated by the rentals on lettable space (without considering the MITC reserved area) and car slots. As for the operating costs, they derive from the Property Management, Maintenance, Repairs, and Insurance fees (billed by the O&M company), as well as Annual payment to the O&M company.
+
+PSC 3: Public Sector Comparator 3 (EPC+OM) with the Revised Design (4 floors)
+In this scenario, the MITC builds the project through public finance and operates it at market rents.
+
+The financing of the cost of construction is done through public loan which generates capitalised interests of MK 5 176 184 thousand. The total cost of the project at the end of the construction period stands at MK 26 123 328 thousand, financed entirely by debt and with no public equity.
+
+
+The revenue for the public sector is generated by the rentals on lettable space (without considering the MITC reserved area) and car slots. As for the operating costs, they derive from the Property Management, Maintenance, Repairs, and Insurance fees (billed by the O&M company), as well as Annual payment to the O&M company.
+PSC 4: Public Sector Comparator 4 (EPC+OM) with the Revised Design (6 floors)
+In this scenario, the MITC builds the project through public finance and operates it at market rents.
+
+The financing of the cost of construction is done through public loan which generates capitalised interests of MK 6 208 402 thousand. The total cost of the project at the end of the construction period stands at MK 34 244 887 thousand, financed entirely by debt and with no public equity.
+
+
+The revenue for the public sector is generated by the rentals on lettable space (without considering the MITC reserved area) and car slots. As for the operating costs, they derive from the Property Management, Maintenance, Repairs, and Insurance fees (billed by the O&M company), as well as Annual payment to the O&M company.
+
+Value for Money Assessment
+Introduction
+The Value for Money (hereafter “VfM”) analysis consists of carrying out an assessment of the overall cost of the project, taking into account the value of the inherent risks, depending on whether the project is carried out under a public contract or a PPP.
+The analysis and comparison of the financial profitability of different options is ultimately measured by means of the VfM. In order to assess the VfM of each option, we use the results of the financial model which adopts the point of view of the MITC and the private partner by estimating the overall cost of the project for the public sector of each option over the project duration.
+This cost is then risk-adjusted, i.e., the cost of risks borne by the public sector (and which have not been transferred to the private partner) is added. The cost of risks is provided by the risk register, the results of which are in Appendix 3 section.
+Best practice in financial analysis and modelling requires that a set of different options and sensitivities be evaluated and compared.
+The Value for Money is a percentage which indicates in absolute terms the increase in value offered by the PPP option compared to the public procurement option, i.e., an option where the project is carried out with one or more traditional procurement models.
+The Value for Money for the PPP option is achieved through the commitment of efficiency, effectiveness and savings that can be achieved by the private sector and the appropriate allocation of risk in the project. Factors that determine whether the VfM of a PPP option is positive include:
+A better distribution of risks which are allocated to the counterparty that is the best to manage it;
+Long-term contract: predictability of costs and revenues for counterparties;
+Call for tenders implemented quickly;
+Improved quality of service;
+Compensation structure based on performance incentives; and
+Reduction of costs over the life cycle of the project thanks to an optimization of the maintenance of the infrastructures.
+Quantitative assessment
+In order to quantitatively assess the VfM, the financial model estimates the cost to the public authority for each option. The project costs, which are borne by the project company during the term of the contract, are risk-adjusted and then compared in terms of NPV to the costs of the risk-adjusted Public Sector Comparator. In the following section, we present the results of this analysis. The different total costs of the project for the Public Sector, adjusted to the risk for the different retained scenarios are broken down below. We remind that the Value for Money only makes sense for PPP scenario that are bankable (Debt is paid with DSCR >1.2) and attractive to investors (Equity IRR > 15%).
+Value for Money for the Scenario 3 (DBFOT-Initial Design-with subsidy-VAT Included)
+For the Scenario 3 (DBFOT-Initial Design 10 floors-with subsidy-VAT Included, and for which the applicable PSC scenario is PSC 1, the results of the VfM analysis are as follows:
+
+The Value for Money is positive (MK 4 048 699    thousand) for Sc.3-DBFOT-Init. Design-with subs.-VAT Inc., this means that this PPP option is less expensive than the public sector procurement (Public Sector Comparator). This is explained by the estimated value of the risks retained by the public authority, which is lower for the PPP option compared to the Public Sector Comparator (where the public authority bears all the risks of the project). It therefore appears that carrying out the project as a PPP makes it possible to reduce the cost for the Public Sector by 11.9% for Sc. 3: DBFOT-Initial Design-with subsidy-VAT Included.
+The private partner's income during the operating period is generated by the rents paid by the tenants and the MITC, as well as the car slots rentals. These revenues cover operating-maintenance expenses (OPEX), debt service, equity, corporate taxes (Corporate Tax) and expenses are investment costs (CAPEX) and capitalized interest.
+The revenues of the Public Sector in the PPP options are mainly taxes generated from the operation of the project.
+Value for Money for the Scenario 4 (DBFOT-Revised design 4 floors-with subs.-VAT Inc.)
+For the Scenario 4-DBFOT-Revised design (4 floors)-with subs.-VAT Inc., the results of the VfM analysis are as follows:
+
+The Value for Money is negative (MK -1 974 485 thousand) for this scenario, this means that this PPP option is more expensive than the public sector procurement (Public Sector Comparator). This is explained by the fact that 4 floors do not allow an economy of scale that absorbs the risks that are still borne by the public authority. In other words, the reduction in the number of floors reduces the risks as compared to the previous scenarios but less quickly than the reduction in the NPV of other costs. The reduction in the number of floors reduces the risk advantage of the PPP as opposed to PSC. It therefore appears that carrying out the project as a PPP increases the cost as opposed to the Public Sector by 13.4 % for the Scenario 4-DBFOT-Revised design (4 floors)-with subs.-VAT Inc.
+
+
+Value for Money for the Scenario 5
+As for the Scenario 5-DBFOT- Revised design (6 floors)-with subs.-VAT Inc., the results of the VfM analysis are as follows:
+
+The Value for Money is negative (MK - 1 040 216 thousand) for this scenario, this means that this PPP option is more expensive than the public sector procurement (Public Sector Comparator). The same explanation applies as for the previous scenario but to  a lesser extent as there are two more floors (6 instead of 4). It therefore appears that carrying out the project as a PPP increases the cost for the Public Sector by 5.7% for the Scenario 5-DBFOT- Revised design (6 floors)-with subs.-VAT Inc.
+Value for Money for the Scenario 6
+As for the Scenario 6-DBFOT- Revised design (6 floors)-with subsidy at 40%-VAT Inc., the results of the VfM analysis are as follows:
+The Value for Money is positive (MK 5 636 716 thousand) for Scenario 6, this means that this PPP option is less expensive than the Public Sector Comparator. This “improved” Value for Money as opposed to Scenario 3 is mainly explained by the fact that Scenario 6’s PSC generates less revenue to the Procuring Authority which increases it’s gap with the PPP scenario. It therefore appears that carrying out the project as a PPP makes it possible to reduce the cost for the State by 31.2% for Sc.6. The private partner's income during the operating period is generated by the rents paid by the tenants and the MITC, as well as the car slots rentals. These revenues are used to pay the operating-maintenance expenses (OPEX), debt service, corporate taxes (Corporate Tax) and dividends. This high Value for Money should be tempered by the fact that the Equity IRR for Scenario 6 is only 7.78% which is not sufficiently attractive for the private sector.
+Value for Money for the Scenario 7
+As for the Scenario 7-DBFOT- Revised design (6 floors)-with subsidy at 40%-VAT Inc.-No corporate tax, the results of the VfM analysis are as follows:
+The Value for Money is positive (MK 3 147 378 thousand) for Scenario 7, this means that this PPP option is still less expensive than the Public Sector Comparator. The lower Value for Money when compared to Scenario 6 is due to the absence of Corporate Tax in this scenario (and subsequent revenue to the State). Carrying out the project as a PPP makes it possible to reduce the cost for the State by 17.4% for Sc.7. The Equity IRR for Scenario 7 is 10.68% which is still on the low side and may require some additional support from the State (i.e., slightly more subsidies) depending on the competition amongst the private candidates.
+We conclude that the Scenario 7: DBFOT-Initial Design (6 floors)-with subsidy at 40%-VAT Included and exoneration from Corporate Tax is the option that could present the highest Value for Money for the public sector with 17.4% ensuring bankability for the private sector and affordability for the State.
+
+Qualitative assessment
+This section addresses the qualitative aspects of a PPP, which includes review of the efficiencies that the SPV can provide, the existence of a competitive market, the possibility of risk transfer to the developer/investor and whether such risk transfer will be achieved within the life of the project.
+The qualitative VfM analysis seeks to answer a series of questions about the proposed project in relation to the following categories:
+Viability;
+Desirability; and
+Achievability.
+Viability
+For PPP projects to be viable the investment objectives and desired outcomes of the sponsor need to be translatable into outputs that can form the basis of a contract and a sound payment mechanism. Therefore, the quality and quantity of the outputs needs to be easily measurable. Many service areas can be described in contractual terms, but some areas will be inherently ‘non contractible’ as outputs. Successful PPP transactions are those that are clearly able to measure and report on service quality in relation to key performance indicators and output-based specification.
+
+Desirability
+PPP projects can provide more efficient risk management and produce incentives to develop innovative approaches to output delivery. Consistent high-quality services can be incentivized through performance and payment mechanisms. However, risk transfer is priced into the contract.
+Achievability
+While PPP projects may allow a more efficient and effective combination of public and private sector skills, determining the rules that will govern the relationship between the two sectors does involve significant transaction costs. In particular the procurement process can be complex and significant resources including senior management time may be required for project development and the ongoing monitoring of service delivery. PPP projects need a robust competitive process to fully deliver its benefits and so the choice of procurement route should be informed by an assessment of the likely market appetite.
+
+Sensitivity analysis
+A sensitivity analysis has been applied to the financial model in order to assess its resilience to changes in assumptions and risk components over the Project term. Sensitivity tests were carried out by the Consultant on the main parameters taken individually in order to judge the financial robustness of the proposed financial package. For each sensitivity, these results make it possible to measure the impact of the deviation of a variable on the main model outputs, such the equity IRR, the minimum ADSCR, costs and revenues, public sector NPV and the Value for Money.
+The Consultant performed the following sensitivity analyses on the key variables of the project:
+Increase in the project term by 5 years;
+Decrease in project term by 5 years;
+Increase in construction period by 1 year;
+Increase in construction costs by 10%;
+Decrease in construction costs by 10%;
+A state subsidy of 15% is considered;
+Increase in Inflation rate by 5 points;
+Decrease in Inflation rate by 5 points;
+Increase in operating costs by 10%;
+Decrease in operating costs by 10%;
+Increase in rental fees by 10%;
+Decrease in rental fees by 10%.
+The following table summarizes the main outcomes of the sensitivity analysis.
+
+
+
+
+The sensitivity analysis allowed to obtain the following observations on the project resilience to changes:
+An increase in the contract period to 30 years instead of 25 resulted in an improvement in the NPV of the public sector. However, the Value for Money (VfM) becomes negative at -12.5% as the private sector’s NPV is almost unchanged. The equity IRR increase by almost 1% at 15.31%. The project IRR doubles at 2.41% and the minimum ADSCR remains almost stable. 
+If the construction period increases by 1 year, this will cause an amelioration of the NPV of the public sector as the grants are paid later, the Value for Money becomes negative at 21.1% and the project and equity IRR deteriorate at respectively 0.66% and 12.76%.
+An increase in the construction costs by 10% will deteriorate the profitability of the project at 12.45%. The Value for Money slightly enhances at 20.4%.
+When the public subsidy increases by 15% of the construction costs, the equity IRR and the minimum ADSCR will jump respectively to 26.79% and 2.72. As for the public sector, this will result in a negative value for money at -3.7%.
+The increase in the inflation rate by 5 points (20%) improved the Equity IRR (15.96%) and the minimum ADSCR (1.81) for the project company, and its operation revenue NPV will more than double. This is has an adverse effect on the Value for Money that decreased at 6.7%. On the contrary, a decrease in the inflation rate by 5 points (10%) will not profit the project company nor the public sector but will enhance the Value for Money at 23.9%.
+If the project experiences an increase in the operating costs by 10% during its whole life, this will slightly unbalance the project equilibrium (equity IRR= 13.95%) but will slightly enhance the Value for Money. However, the private debt is still paid with minimum ADSCR almost not affected (1.66). On the other hand, when the OPEX go down by 10%, this will also slightly benefit the project company but will slightly decrease the Value for Money. We conclude that the weight of the operating costs is negligeable comparing to the impact of the investment costs on the project parameters, which are considered very important and hard to cover through the operating revenues generated by the project.
+Finally, a further increase in the rental fees by 10% will improve the project and the equity IRRs (2.09% and 16.81% respectively) and will result in a decrease in the VfM for the public sector (circa 11.8%). This should be carefully considered as higher rental fees could induce an escape rate from the users. However, a decrease by 10% in the rental fees will result in lower equity IRR and minimum ADSCR (11.97% and 1.51 respectively). The VfM is positively affected in this scenario, which confirms that a high-rental fees should be maintained to ensure the project feasibility through PPP. The private partner should make a high marketing effort to maintain the forecasted occupancy rate at its highest level. He should also ensure hight standards for the building to attract tenants and keep them in the long term, and this should be embedded in the evaluation criteria.
+Conclusion and recommendations
+Although suggesting several revised designs for the office building with less floors in the aim of reducing the investment costs, the project did not show major improvements in terms of investors’ profitability (Equity IRR) and project debt payment ability (Minimum ADSCR). With rental levels following the market rates, we conclude that a minimum public subsidy (around 60% for the different design scenarios) is necessary to guarantee the project feasibility through public-private partnership.
+Based on the specifics of the project and the results of the financial model, we recommend the implementation of the project according to the Scenario 7: DBFOT-Initial Design (6 floors)-with subsidy at 40%-VAT Included and exoneration from Corporate Tax with a single contract signed between MITC and a private partner for a duration of 25 years.
+This scenario results in the least budgetary impact for the public sector among the other scenarios, with a total public debt of MK 13 697 955 thousand at the end of the construction period serving for the financing of the subsidy to the private sector entity (40% of the total investment cost at the end of the construction period). This scenario also presents a positive Value for Money for the public sector (17.4%) comparing to the public procurement option.
+Due to the relatively small size of the project and the features of such real-estate projects, it was recommended in the Needs and Options Analysis Report to consider the realization of the whole project through a single PPP contract (for one private contractor) with various aspects handled by sub-contractors.
+It is recommended to move on, as soon as possible, to the procurement stage with a focus on the following steps:
+Carrying out a legal due diligence (during the preparation of the business consultation file) to optimize contractual arrangements with the private sector (operator/private operator).
+Developing a transaction plan based on the selected PPP model;
+Starting the preparation of the project PPP tender documents.
+Undertaking the project under a PPP model has several advantages compared to traditional public procurement, it allows to:
+Reduce the overall cost (design, construction and operation) of the project; the comparison of the selected PPP option (Scenario 7) with the public procurement option shows that the PPP option is less expensive than the public procurement (Value for Money = MK 3 147 378    thousand);
+Have a single entity responsible for the design, construction and operation;
+Mobilize private financing for the realization of works related to the construction of the MITC Office Building.
+Mobilizing private financing through lenders requires structuring a bankable project. This is conditional on substantial support from the Public Sector in order to guarantee the mobilization of the financial resources necessary for the payment of rents.
+
+Appendices
+Appendix 1: Detailed Project Construction Costs
+
+
+Appendix 2: Building Area Calculations
+
+
+
+Appendix 3: Risk Register
+
+
+
+
+
+List of tables
+List of figures
+List of acronyms
+Executive summary
+Context of the project and the presentation of the report
+Risk Analysis
+Cost, revenue and economic assumptions
+PPP Options
+Results of the financial models and Value for Money
+Sensitivity analysis
+Recommendations
+Introduction
+Benchmark study for similar office building PPP projects
+ICT Parks PPP Project, Egypt
+Project Presentation
+Project Structuration
+Post office PPP Project, Kuwait
+Project presentation
+Project structuration
+The Balard Hexagon Building Project, France
+Project presentation
+Project structuration
+Summary of the benchmark study, lessons learned and main recommendations
+Technical and environmental assessment of the project
+Assessment of technical issues
+Assessment of the environmental and social impacts
+Legal and regulatory assessment of the project
+Introduction
+The legal, regulatory and policy framework in Malawi
+The legal status of Malawi Investment and Trade Centre as a Contracting Party
+Real Estate Matters relating to the Infrastructure Development
+Different statutory permits and approvals before the project implementation
+Planning Permission
+Development Permission
+Compliance with Development Guidelines and Standards
+Investment and foreign exchange control
+The Preliminary Contractual Framework for the Project
+Comprehensive Risk Assessment
+Introduction
+Principles to guide the analysis and allocation of project risks
+Risk identification
+Risk matrix and Risk allocation
+Risk quantification
+Introduction
+Methodology
+Financial assessment of the project
+Financial Model Assumptions
+Building Area Assumptions
+Base design
+Revised design with 8 floors
+Revised design with 6 floors
+Revised design with 4 floors
+Construction costs
+Revenue assumptions
+Lettable/Revenue Generating Areas
+Revenues/Rental Income
+Occupancy Rate
+Annual revenues
+Operating Costs
+Non-recoverable costs
+Property Management Fees
+Property Insurance
+Maintenance Costs
+Services recoverable from tenants
+City Rates and Ground Rent
+Cleaning, Toiletries and Garbage Disposal Expenses
+Landscaping Services
+Service Recoverable/ Utilities
+Summary of the OPEX assumptions (non-recoverable)
+Macro-Economic Forecasts
+Inflation Rates, Interest Rates, Bond/Treasury Note Yields and Cash Flow Discount Factor
+Exchange Rates
+Economic Growth
+Population Growth
+Shortlisted and selected PPP options
+Results of the financial modelling of the different project delivery models
+Assumptions of the model
+Selected scenarios
+Sc. 0-DBFOT-Initial Design without subsidy-VAT Included-Lower Construction Inflation
+Sc. 1-DBFOT-Initial Design without subsidy-VAT Exclusive
+Scenario 2: DBFOT-Revised Design (8 floors)-without subsidy-VAT Included
+Scenario 3: DBFOT-Initial Design-with subsidy-VAT Included 
+Scenario 4: DBFOT-Revised Design (4 floors) with subsidy-VAT Included
+Scenario 5: DBFOT-Revised Design (6 floors) with subsidy-VAT Included
+Scenario 6: DBFOT-Revised Design (6 floors) with subsidy at 40%-VAT Included
+Scenario 7: DBFOT-Revised Design (6 floors) with subsidy at 40%-VAT Included-No corporate tax
+PSC 1: Public Sector Comparator (EPC+OM) with the Initial Design
+PSC 2: Public Sector Comparator (EPC+OM) with the Revised Design 
+PSC 3: Public Sector Comparator 3 (EPC+OM) with the Revised Design (4 floors)
+PSC 4: Public Sector Comparator 4 (EPC+OM) with the Revised Design (6 floors)
+Value for Money Assessment
+Introduction
+Quantitative assessment
+Value for Money for the Scenario 3 (DBFOT-Initial Design-with subsidy-VAT Included)
+Value for Money for the Scenario 4 (DBFOT-Revised design 4 floors-with subs.-VAT Inc.)
+Value for Money for the Scenario 5
+Value for Money for the Scenario 6
+Value for Money for the Scenario 7
+Qualitative assessment
+Viability
+Desirability
+Achievability
+Sensitivity analysis
+Conclusion and recommendations
+Appendices
+Appendix 1: Detailed Project Construction Costs
+Appendix 2: Building Area Calculations
+
+Appendix 3: Risk Register
