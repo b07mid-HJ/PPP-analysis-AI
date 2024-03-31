@@ -25,7 +25,7 @@ if w:
         
     for tab in tables:
         tab_value = tab[0]
-        tab_sheet = tab[3]
+        tab_sheet = tab[3]  
         arr = np.array(tab_value)
         tab_title = arr[-1, 0]
         row_table = {tab_title: tab_value}
@@ -107,6 +107,7 @@ if w:
                             word_table.style = 'TableGrid'
                             
                             # Populate the table with data, excluding the last row
+                            
                             for i, row in enumerate(data_list):
                                 cells = [c for c in row if c != '']
                                 brk = len(cells) == 1
