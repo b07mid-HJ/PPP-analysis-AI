@@ -1,12 +1,13 @@
 import streamlit as st
 from streamlit_sortables import sort_items
 import langchain_doc_gen as lg
+from io import BytesIO
+from docx.oxml.shared import qn  # feel free to move these out
+from docx.oxml import OxmlElement
+from docx.shared import RGBColor
 """
 # File Uploader
-
-It's hard to test the ability to upload files in an automated way, so here you
-should test it by hand. Please upload a CSV file and make sure a table shows up
-below with its contents.
+Upload a excel file here to generate a document with the sorted dataset.
 """
 
 w = st.file_uploader("Upload a excel file", type="xlsx")
@@ -40,9 +41,8 @@ if w:
         original_items.append({'header': sheet, 'items': items})
 
     sorted_items = sort_items(original_items, multi_containers=True, direction='vertical')
-    st.write(sorted_items)
 
-    if st.button('Print Sorted Dataset'):
+    if st.button('Generate Document'):
         # Initialize sorted_dataset to store the re-ordered dataset
         sorted_dataset = {}
 
@@ -88,7 +88,7 @@ if w:
             # Iterate through the sorted_dataset to add data to the Word document
             for sheet, tables in sorted_dataset.items():
                 doc.add_heading(sheet, level=1)  # Sheet name as a title
-                
+                desc_list=[]
                 for table in tables:
                     for title, data in table.items():
                         doc.add_heading(title, level=2)  # Table name as a subtitle
@@ -104,14 +104,42 @@ if w:
                         # Add a table to the document, making sure data_list is not empty
                         if data_list:
                             word_table = doc.add_table(rows=len(data_list), cols=len(data_list[0]) if data_list else 0)
+                            word_table.style = 'TableGrid'
                             
                             # Populate the table with data, excluding the last row
                             for i, row in enumerate(data_list):
+                                cells = [c for c in row if c != '']
+                                brk = len(cells) == 1
                                 for j, cell in enumerate(row):
                                     word_table.cell(i, j).text = cell
+                                    if i == 0 or brk :
+                                        clr = "#D9D9D9" if brk else "#2F5496"
+                                        cell_properties = word_table.cell(i, j)._element.tcPr
+                                        try:
+                                            cell_shading = cell_properties.xpath('w:shd')[0]  # in case there's already shading
+                                        except IndexError:
+                                            cell_shading = OxmlElement('w:shd') # add new w:shd element to it
+                                            cell_shading.set(qn('w:fill'), clr)  # set fill property, respecting namespace
+                                        cell_properties.append(cell_shading)  # finally extend cell props with shading element
+                                        if i == 0:
+                                            word_table.cell(i, j).paragraphs[0].runs[0].font.color.rgb = RGBColor(255, 255, 255)  # Blue color
                         doc.add_paragraph()
-                        doc.add_paragraph(lg.table_desc(title,data_list))  # Add an empty paragraph after each table    
+                        desc=lg.table_desc(title,data_list)
+                        desc_list.append({"title":title,"desc":desc})
+                        doc.add_paragraph(desc)  # Add an empty paragraph after each table    
                         doc.add_paragraph()
+                doc.add_heading("Conclusion", level=2)
+                doc.add_paragraph(lg.doc_content(sheet,desc_list))    
             # Save the document
-            doc_path = "./sorted_dataset.docx"  # Adjust path as necessary
-            doc.save(doc_path)
+            doc_io = BytesIO()
+            # Save the document to the BytesIO object
+            doc.save(doc_io)
+            # Seek to the start of the BytesIO object so it can be read from the beginning
+            doc_io.seek(0)
+        st.write("Document generated successfully 🎉")
+        st.download_button(
+            label="Download Document",
+            data=doc_io,  # Pass the BytesIO object here
+            file_name="sorted_dataset.docx",
+            mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        )

@@ -33,3 +33,20 @@ def table_desc(title,table):
     summarize_chain = {"title": RunnablePassthrough(),"table":RunnablePassthrough()} | prompt | model | StrOutputParser()
 
     return summarize_chain.invoke({"title": title, "table": table})
+
+def doc_content(title,content):
+    prompt_text = """You are an assistant tasked with generating conclutions inside a document for a specific section.\ 
+    Please write a concise conclution of the the section {title}, focusing on the key points and main ideas.\
+    ** Based on the key findings from the descriptions (provided below), write a concluding summary for this section.\
+    ** Focus on the most important insights and trends revealed by the data presented in the descriptions.\
+    ** Briefly mention any significant findings or relationships highlighted in the descriptions.\
+    ** Aim for a concise summary of 3-5 sentences that captures the overall takeaways from the section.\
+    *THE RESPONSE SHOULD ONLY BE IN ENGLISH* \
+    The title of this section is :{title}
+    List of tables descriptions with their respective titles in this section : {content} """
+    prompt = ChatPromptTemplate.from_template(prompt_text)
+
+    # Summary chain
+    summarize_chain = {"title": RunnablePassthrough(),"content":RunnablePassthrough()} | prompt | model | StrOutputParser()
+
+    return summarize_chain.invoke({"title": title, "content": content})
